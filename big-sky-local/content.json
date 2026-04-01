@@ -1,0 +1,2703 @@
+{
+  "filterOptions": {
+    "vibes": [
+      "Cozy",
+      "Adventure",
+      "Romantic",
+      "Luxury",
+      "Family",
+      "Local"
+    ],
+    "budgets": [
+      "$",
+      "$$",
+      "$$$",
+      "Flexible"
+    ],
+    "durations": [
+      "Half day",
+      "1 day",
+      "Weekend",
+      "3+ days"
+    ],
+    "focusAreas": [
+      "Breakfast",
+      "Lunch",
+      "Dinner",
+      "Activity"
+    ]
+  },
+  "catalog": {
+    "breakfast": [
+      {
+        "name": "Wilson Breakfast Start",
+        "area": "On property",
+        "address": "145 Town Center Ave, Big Sky, MT 59716",
+        "hours": "Daily 6:30 - 10:30 AM",
+        "note": "Easy on-property option for guests who want a low-key start before heading out. Coffee and breakfast without needing to drive anywhere.",
+        "vibe": [
+          "Cozy",
+          "Family",
+          "Local",
+          "Luxury"
+        ],
+        "budget": [
+          "$",
+          "$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day",
+          "Weekend",
+          "3+ days"
+        ],
+        "tags": [
+          "On property",
+          "Convenient",
+          "Morning"
+        ],
+        "bestFor": [
+          "Breakfast"
+        ],
+        "timeTags": [
+          "now",
+          "quick"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "06:30",
+          "end": "10:30"
+        },
+        "mapUrl": "https://maps.google.com/?q=Residence+Inn+Big+Sky+The+Wilson+Hotel",
+        "bookingUrl": "https://www.marriott.com/en-us/hotels/bznrk-residence-inn-big-sky-the-wilson-hotel/overview/",
+        "bookingLabel": "View hotel",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJWSsU1AARUFMRRVOd4Y2qarA",
+        "googleHours": [],
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Blue Moon Bakery",
+        "area": "Town Center",
+        "address": "120 Big Pine Dr, Big Sky, MT 59716",
+        "hours": "Daily 8:00 AM - 9:00 PM",
+        "note": "A Town Center staple - good pastries, solid coffee, and a relaxed pace. Ten-minute walk from the hotel, and a natural first stop before a hike or a day on the mountain.",
+        "vibe": [
+          "Cozy",
+          "Local",
+          "Family"
+        ],
+        "budget": [
+          "$",
+          "$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day",
+          "Weekend",
+          "3+ days"
+        ],
+        "tags": [
+          "Popular",
+          "Walkable",
+          "Quick stop"
+        ],
+        "bestFor": [
+          "Breakfast"
+        ],
+        "timeTags": [
+          "now",
+          "quick"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "07:00",
+          "end": "14:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=Blue+Moon+Bakery+Big+Sky",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJNfEVW9MRUFMR1HKGZpnaUcM",
+        "googleHours": [
+          "Monday: 8:00 AM – 9:00 PM",
+          "Tuesday: 8:00 AM – 9:00 PM",
+          "Wednesday: 8:00 AM – 9:00 PM",
+          "Thursday: 8:00 AM – 9:00 PM",
+          "Friday: 8:00 AM – 9:00 PM",
+          "Saturday: 8:00 AM – 9:00 PM",
+          "Sunday: 8:00 AM – 9:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "The Corral",
+        "area": "Big Sky",
+        "address": "42895 Gallatin Rd, Big Sky, MT 59730",
+        "hours": "Wed - Sun 10:30 AM - 9:00 PM",
+        "note": "Classic Big Sky breakfast spot - big plates, local feel, and the kind of place where staff and regulars know each other. Good choice when guests want to sit down and take their time.",
+        "vibe": [
+          "Cozy",
+          "Family",
+          "Local"
+        ],
+        "budget": [
+          "$$",
+          "$$$",
+          "Flexible"
+        ],
+        "duration": [
+          "1 day",
+          "Weekend",
+          "3+ days"
+        ],
+        "tags": [
+          "Sit down",
+          "Filling",
+          "Guest favorite"
+        ],
+        "bestFor": [
+          "Breakfast"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "07:00",
+          "end": "11:30"
+        },
+        "mapUrl": "https://maps.google.com/?q=The+Corral+Big+Sky",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJSQh_qjsXUFMRET7aiuuxyOA",
+        "googleHours": [
+          "Monday: Closed",
+          "Tuesday: Closed",
+          "Wednesday: 10:30 AM – 9:00 PM",
+          "Thursday: 10:30 AM – 9:00 PM",
+          "Friday: 10:30 AM – 9:00 PM",
+          "Saturday: 10:30 AM – 9:00 PM",
+          "Sunday: 10:30 AM – 9:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Cowboy Coffee Co.",
+        "area": "Town Center",
+        "address": "25 Town Center Ave, Big Sky, MT 59716",
+        "hours": "Daily 6:00 AM - 6:00 PM",
+        "note": "The locals' coffee shop. Nothing fancy, consistently good espresso, and a line out the door on busy mornings. Worth the wait.",
+        "vibe": [
+          "Local",
+          "Cozy",
+          "Family"
+        ],
+        "budget": [
+          "$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day",
+          "Weekend",
+          "3+ days"
+        ],
+        "tags": [
+          "Coffee",
+          "Walkable",
+          "Quick stop"
+        ],
+        "bestFor": [
+          "Breakfast"
+        ],
+        "timeTags": [
+          "now",
+          "quick"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "06:00",
+          "end": "18:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=Cowboy+Coffee+Big+Sky",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJLTlj4cYRUFMR2Qn9GMPcp9o",
+        "googleHours": [
+          "Monday: 6:00 AM – 6:00 PM",
+          "Tuesday: 6:00 AM – 6:00 PM",
+          "Wednesday: 6:00 AM – 6:00 PM",
+          "Thursday: 6:00 AM – 6:00 PM",
+          "Friday: 6:00 AM – 6:00 PM",
+          "Saturday: 6:00 AM – 6:00 PM",
+          "Sunday: 6:00 AM – 6:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Unravel Coffee + Bar",
+        "area": "Town Center",
+        "address": "88 Big Pine Dr, Big Sky, MT 59716",
+        "hours": "Daily 7:00 AM - 8:00 PM",
+        "note": "Inside Gravity Haus - single-origin espresso and a proper breakfast. The patio opens when the weather's right. Same space turns into a full bar at night.",
+        "vibe": [
+          "Adventure",
+          "Local",
+          "Cozy"
+        ],
+        "budget": [
+          "$",
+          "$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day",
+          "Weekend",
+          "3+ days"
+        ],
+        "tags": [
+          "Coffee",
+          "Walkable",
+          "Specialty"
+        ],
+        "bestFor": [
+          "Breakfast"
+        ],
+        "timeTags": [
+          "now",
+          "quick"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "07:00",
+          "end": "11:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=Unravel+Coffee+Big+Sky",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJ58RbNq4RUFMRLfHRDWjMRXY",
+        "googleHours": [
+          "Monday: 7:30 AM – 8:00 PM",
+          "Tuesday: 7:30 AM – 8:00 PM",
+          "Wednesday: 7:30 AM – 8:00 PM",
+          "Thursday: 7:30 AM – 8:00 PM",
+          "Friday: 7:30 AM – 8:00 PM",
+          "Saturday: 7:30 AM – 8:00 PM",
+          "Sunday: 7:30 AM – 8:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Wildflower Market & Cafe",
+        "area": "Montage Big Sky",
+        "address": "995 Settlement Trail, Big Sky, MT 59716",
+        "hours": "Daily 6:00 AM - 5:00 PM",
+        "note": "An elegant cafe and marketplace at Montage with French-flour pastries, specialty coffee, and artisan grab-and-go items - a high-quality breakfast for guests wanting something a touch more refined.",
+        "vibe": [
+          "Luxury",
+          "Cozy",
+          "Family"
+        ],
+        "budget": [
+          "$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day",
+          "Weekend",
+          "3+ days"
+        ],
+        "tags": [
+          "Pastry",
+          "Coffee",
+          "Luxury"
+        ],
+        "bestFor": [
+          "Breakfast"
+        ],
+        "timeTags": [
+          "now",
+          "quick"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "06:00",
+          "end": "17:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=Wildflower+Market+Montage+Big+Sky",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJiT90_xIPUFMR392Eo52hGKA",
+        "googleHours": [
+          "Monday: 6:00 AM – 6:00 PM",
+          "Tuesday: 6:00 AM – 6:00 PM",
+          "Wednesday: 6:00 AM – 6:00 PM",
+          "Thursday: 6:00 AM – 6:00 PM",
+          "Friday: 6:00 AM – 6:00 PM",
+          "Saturday: 6:00 AM – 6:00 PM",
+          "Sunday: 6:00 AM – 6:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      }
+    ],
+    "lunch": [
+      {
+        "name": "By Word of Mouth",
+        "area": "Town Center",
+        "address": "77 Aspen Leaf Dr, Big Sky, MT 59716",
+        "hours": "Mon - Sat, Lunch 11:00 AM - 5:00 PM / Dinner 5:00 - 10:00 PM",
+        "note": "Casual Town Center go-to with good sandwiches and a reliable lunch. Easy walk, never a bad call for a midday stop.",
+        "vibe": [
+          "Local",
+          "Cozy",
+          "Family"
+        ],
+        "budget": [
+          "$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day",
+          "Weekend"
+        ],
+        "tags": [
+          "Walkable",
+          "Reliable",
+          "Lunch"
+        ],
+        "bestFor": [
+          "Lunch"
+        ],
+        "timeTags": [
+          "now",
+          "quick"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "11:00",
+          "end": "15:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=By+Word+of+Mouth+Big+Sky",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJW9SnctMRUFMRMwSfMeN6mJ0",
+        "googleHours": [
+          "Monday: 11:30 AM – 9:00 PM",
+          "Tuesday: 11:30 AM – 9:00 PM",
+          "Wednesday: 11:30 AM – 9:00 PM",
+          "Thursday: 11:30 AM – 9:00 PM",
+          "Friday: 11:30 AM – 9:00 PM",
+          "Saturday: Closed",
+          "Sunday: Closed"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Chet's Bar & Grill",
+        "area": "Mountain Village",
+        "address": "44 Big Sky Resort Rd, Big Sky, MT 59716",
+        "hours": "Daily, Lunch 11:00 AM - 2:30 PM / Dinner 5:00 - 10:00 PM",
+        "note": "Basic mountain bar food done well - burger, cold beer, and a seat near the resort. Practical pick when guests are already up at Mountain Village and don't want to drive down.",
+        "vibe": [
+          "Family",
+          "Local",
+          "Cozy"
+        ],
+        "budget": [
+          "$$",
+          "$$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day",
+          "Weekend"
+        ],
+        "tags": [
+          "Mountain village",
+          "Lunch",
+          "Convenient"
+        ],
+        "bestFor": [
+          "Lunch"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "11:00",
+          "end": "14:30"
+        },
+        "mapUrl": "https://maps.google.com/?q=Chet%27s+Bar+and+Grill+Big+Sky",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJwZ8lr6caUFMRnUUc-oR79FU",
+        "googleHours": [
+          "Monday: 4:00 – 10:00 PM",
+          "Tuesday: 4:00 – 10:00 PM",
+          "Wednesday: 4:00 – 10:00 PM",
+          "Thursday: 4:00 – 10:00 PM",
+          "Friday: 4:00 – 10:00 PM",
+          "Saturday: 4:00 – 10:00 PM",
+          "Sunday: 4:00 – 10:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Cabin Bar & Grill",
+        "area": "Mountain Village",
+        "address": "33 Black Eagle Rd, Big Sky, MT 59716",
+        "hours": "Daily 4:30 - 9:30 PM (dinner only)",
+        "note": "More of a sit-down experience than most lunch spots - better room, better views. Worth suggesting when guests want lunch to feel like part of the day rather than a pit stop.",
+        "vibe": [
+          "Luxury",
+          "Romantic",
+          "Family",
+          "Local"
+        ],
+        "budget": [
+          "$$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day",
+          "Weekend"
+        ],
+        "tags": [
+          "Views",
+          "Reservation ready",
+          "Elevated"
+        ],
+        "bestFor": [
+          "Lunch"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "11:30",
+          "end": "21:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=Cabin+Bar+and+Grill+Big+Sky",
+        "bookingUrl": "https://www.opentable.com/r/cabin-bar-and-grill-big-sky-montana-big-sky",
+        "bookingLabel": "Book on OpenTable",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJpXcdNdINUFMR0bByIcfHrrA",
+        "googleHours": [
+          "Monday: 4:30 – 9:30 PM",
+          "Tuesday: 4:30 – 9:30 PM",
+          "Wednesday: 4:30 – 9:30 PM",
+          "Thursday: 4:30 – 9:30 PM",
+          "Friday: 4:30 – 9:30 PM",
+          "Saturday: 4:30 – 9:30 PM",
+          "Sunday: 4:30 – 9:30 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Terrain Taco",
+        "area": "Town Center",
+        "address": "88 Big Pine Dr, Big Sky, MT 59716",
+        "hours": "Daily 11:00 AM - 10:00 PM",
+        "note": "Tacos and margaritas inside Gravity Haus with a patio when the weather's right. Locally sourced proteins, creative fillings - a solid lunch especially after a morning on the mountain.",
+        "vibe": [
+          "Adventure",
+          "Local",
+          "Family"
+        ],
+        "budget": [
+          "$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day",
+          "Weekend"
+        ],
+        "tags": [
+          "Tacos",
+          "Walkable",
+          "Casual"
+        ],
+        "bestFor": [
+          "Lunch"
+        ],
+        "timeTags": [
+          "now",
+          "quick"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "11:00",
+          "end": "22:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=Terrain+Taco+Big+Sky",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJpzKAc10RUFMRoCV4wJjXw_c",
+        "googleHours": [
+          "Monday: 7:00 AM – 10:00 PM",
+          "Tuesday: 7:00 AM – 10:00 PM",
+          "Wednesday: 7:00 AM – 10:00 PM",
+          "Thursday: 7:00 AM – 10:00 PM",
+          "Friday: 7:00 AM – 10:00 PM",
+          "Saturday: 7:00 AM – 10:00 PM",
+          "Sunday: 7:00 AM – 10:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Tips Up",
+        "area": "Town Center",
+        "address": "76 Town Center Ave, Big Sky, MT 59716",
+        "hours": "Mon - Thu 3:00 PM - midnight / Fri - Sun 12:00 PM - midnight",
+        "note": "Big Sky's social hub - cold beers, burgers, live music, pool tables, and cornhole outside. The right call for casual groups where afternoon drinks tend to turn into an evening.",
+        "vibe": [
+          "Local",
+          "Adventure",
+          "Family"
+        ],
+        "budget": [
+          "$",
+          "$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day",
+          "Weekend"
+        ],
+        "tags": [
+          "Bar",
+          "Live music",
+          "Casual"
+        ],
+        "bestFor": [
+          "Lunch"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "12:00",
+          "end": "24:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=Tips+Up+Bar+Big+Sky",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJy7fdBIkRUFMRX4A5j0dm87s",
+        "googleHours": [
+          "Monday: 3:00 – 10:00 PM",
+          "Tuesday: 3:00 – 10:00 PM",
+          "Wednesday: 3:00 – 10:00 PM",
+          "Thursday: 3:00 – 11:00 PM",
+          "Friday: 3:00 – 11:00 PM",
+          "Saturday: 3:00 – 11:00 PM",
+          "Sunday: 11:00 AM – 10:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Beehive Basin Brewery",
+        "area": "Town Center",
+        "address": "245 Town Center Ave, Big Sky, MT 59716",
+        "hours": "Daily 12:00 PM - 10:00 PM",
+        "note": "Big Sky's local craft brewery with year-round staples and rotating seasonal taps. Neighborhood taproom feel, outdoor seating. Good stop when guests want to drink something made here.",
+        "vibe": [
+          "Local",
+          "Cozy",
+          "Family"
+        ],
+        "budget": [
+          "$",
+          "$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day",
+          "Weekend"
+        ],
+        "tags": [
+          "Brewery",
+          "Local",
+          "Outdoor seating"
+        ],
+        "bestFor": [
+          "Lunch"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "12:00",
+          "end": "22:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=Beehive+Basin+Brewery+Big+Sky",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJHx24WC4QUFMRp8STAlL4T7o",
+        "googleHours": [
+          "Monday: 12:00 – 10:00 PM",
+          "Tuesday: 12:00 – 10:00 PM",
+          "Wednesday: 12:00 – 10:00 PM",
+          "Thursday: 12:00 – 10:00 PM",
+          "Friday: 12:00 – 10:00 PM",
+          "Saturday: 12:00 – 10:00 PM",
+          "Sunday: 12:00 – 10:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Scissorbills Saloon",
+        "area": "Mountain Village",
+        "address": "39 Black Eagle Rd, Big Sky, MT 59716",
+        "hours": "Daily 11:00 AM - late",
+        "note": "Small Montana saloon at Mountain Village - nachos, burgers, and the best apres-ski energy in the area. Live music most winter nights. Nothing precious about it.",
+        "vibe": [
+          "Adventure",
+          "Local"
+        ],
+        "budget": [
+          "$",
+          "$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day"
+        ],
+        "tags": [
+          "Apres-ski",
+          "Mountain Village",
+          "Live music"
+        ],
+        "bestFor": [
+          "Lunch"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "11:00",
+          "end": "23:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=Scissorbills+Saloon+Big+Sky",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJhyKysNMNUFMRjOwzk2MH6bY",
+        "googleHours": [
+          "Monday: 11:00 AM – 12:00 AM",
+          "Tuesday: 11:00 AM – 12:00 AM",
+          "Wednesday: 11:00 AM – 12:00 AM",
+          "Thursday: 11:00 AM – 12:00 AM",
+          "Friday: 11:00 AM – 12:00 AM",
+          "Saturday: 11:00 AM – 12:00 AM",
+          "Sunday: 11:00 AM – 12:00 AM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Beartooth Pub & Rec",
+        "area": "Montage Big Sky",
+        "address": "995 Settlement Trail, Big Sky, MT 59716",
+        "hours": "Mon 12:00 - 9:00 PM / Thu - Sun 12:00 - 9:00 PM (closed Tue - Wed)",
+        "note": "Inside Montage - flatbreads from a hearth oven, solid pub food, bowling lanes, darts, and arcade games. Works well for groups or families who want more than just a meal.",
+        "vibe": [
+          "Family",
+          "Cozy",
+          "Luxury"
+        ],
+        "budget": [
+          "$$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day",
+          "Weekend"
+        ],
+        "tags": [
+          "Family friendly",
+          "Games",
+          "Pub"
+        ],
+        "bestFor": [
+          "Lunch"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "12:00",
+          "end": "21:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=Beartooth+Pub+Montage+Big+Sky",
+        "bookingUrl": "https://www.opentable.com/r/beartooth-pub-and-rec-big-sky",
+        "bookingLabel": "Reserve on OpenTable",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJ5-KPRQcOUFMRO51rRSPxal8",
+        "googleHours": [
+          "Monday: 12:00 – 9:00 PM",
+          "Tuesday: 12:00 – 9:00 PM",
+          "Wednesday: 12:00 – 9:00 PM",
+          "Thursday: 12:00 – 9:00 PM",
+          "Friday: 12:00 – 9:00 PM",
+          "Saturday: 12:00 – 9:00 PM",
+          "Sunday: 12:00 – 9:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      }
+    ],
+    "dinner": [
+      {
+        "name": "Block 3 Kitchen & Bar",
+        "area": "On property",
+        "address": "145 Town Center Ave, Big Sky, MT 59716",
+        "hours": "Daily 5:00 - 9:00 PM (dinner only)",
+        "note": "On property and easy to recommend - solid food, familiar setting, no need to drive. The natural first suggestion when guests want dinner without the planning.",
+        "vibe": [
+          "Luxury",
+          "Cozy",
+          "Romantic"
+        ],
+        "budget": [
+          "$$",
+          "$$$",
+          "Flexible"
+        ],
+        "duration": [
+          "1 day",
+          "Weekend",
+          "3+ days"
+        ],
+        "tags": [
+          "On property",
+          "Polished",
+          "Evening"
+        ],
+        "bestFor": [
+          "Dinner"
+        ],
+        "timeTags": [
+          "now",
+          "quick"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "17:00",
+          "end": "21:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=Block+3+Kitchen+and+Bar+Big+Sky",
+        "bookingUrl": "https://www.opentable.com/r/block-3-kitchen-and-bar-big-sky",
+        "bookingLabel": "Book on OpenTable",
+        "rebateNote": "Eligible Wilson dining choice. Mention guest dining credit benefits when they apply.",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJ36TqRywQUFMRtTa-Wfv_8aQ",
+        "googleHours": [
+          "Monday: 5:00 – 9:00 PM",
+          "Tuesday: 5:00 – 9:00 PM",
+          "Wednesday: 5:00 – 9:00 PM",
+          "Thursday: 5:00 – 9:00 PM",
+          "Friday: 5:00 – 9:00 PM",
+          "Saturday: 5:00 – 9:00 PM",
+          "Sunday: 5:00 – 9:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Horn & Cantle",
+        "area": "Lone Mountain Ranch",
+        "address": "750 Lone Mountain Ranch Rd, Big Sky, MT 59716",
+        "hours": "Daily, Dinner 5:00 - 9:00 PM / Saloon open from noon",
+        "note": "Lone Mountain Ranch dining room - the place when someone asks for the most Big Sky dinner experience possible. Great for birthdays, anniversaries, or guests who want to feel like they're really here.",
+        "vibe": [
+          "Luxury",
+          "Romantic"
+        ],
+        "budget": [
+          "$$$",
+          "Flexible"
+        ],
+        "duration": [
+          "1 day",
+          "Weekend",
+          "3+ days"
+        ],
+        "tags": [
+          "Premium",
+          "Special night",
+          "Dinner"
+        ],
+        "bestFor": [
+          "Dinner"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "17:00",
+          "end": "22:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=Horn+and+Cantle+Big+Sky",
+        "bookingUrl": "https://www.opentable.com/r/horn-and-cantle",
+        "bookingLabel": "Book on OpenTable",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJrU7eJ80PUFMRCKGojqHj3pc",
+        "googleHours": [
+          "Monday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+          "Tuesday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+          "Wednesday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+          "Thursday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+          "Friday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+          "Saturday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+          "Sunday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Cortina",
+        "area": "Big Sky Resort area",
+        "address": "995 Settlement Trail, Big Sky, MT 59716",
+        "hours": "Daily, Breakfast 7:00 - 11:00 AM / Dinner 5:30 - 9:00 PM",
+        "note": "Handmade pasta and a polished room at the Mountain Village. One of the better Italian dinners in the area - right for guests who want something refined without it being a full production.",
+        "vibe": [
+          "Luxury",
+          "Romantic",
+          "Local"
+        ],
+        "budget": [
+          "$$$",
+          "Flexible"
+        ],
+        "duration": [
+          "1 day",
+          "Weekend",
+          "3+ days"
+        ],
+        "tags": [
+          "Italian",
+          "Reservation ready",
+          "Date night"
+        ],
+        "bestFor": [
+          "Dinner"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "17:00",
+          "end": "21:30"
+        },
+        "mapUrl": "https://maps.google.com/?q=Cortina+Big+Sky",
+        "bookingUrl": "https://www.opentable.com/r/cortina-big-sky",
+        "bookingLabel": "Book on OpenTable",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJ5-KPRQcOUFMRpSAf6FmknXg",
+        "googleHours": [
+          "Monday: 7:00 – 11:00 AM, 5:00 – 9:00 PM",
+          "Tuesday: 7:00 – 11:00 AM, 5:00 – 9:00 PM",
+          "Wednesday: 7:00 – 11:00 AM, 5:00 – 9:00 PM",
+          "Thursday: 7:00 – 11:00 AM, 5:00 – 9:00 PM",
+          "Friday: 7:00 – 11:00 AM, 5:00 – 9:00 PM",
+          "Saturday: 7:00 – 11:00 AM, 5:00 – 9:00 PM",
+          "Sunday: 7:00 – 11:00 AM, 5:00 – 9:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Montana Jack",
+        "area": "Town Center",
+        "address": "52 Big Sky Resort Rd, Big Sky, MT 59716",
+        "hours": "Daily 11:00 AM - 10:00 PM",
+        "note": "Laid-back Town Center spot good for families and groups who want a straightforward dinner without the formality. Burgers, bowls, easy patio - never a complicated recommendation.",
+        "vibe": [
+          "Family",
+          "Local",
+          "Cozy"
+        ],
+        "budget": [
+          "$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day",
+          "Weekend"
+        ],
+        "tags": [
+          "Groups",
+          "Walkable",
+          "Casual"
+        ],
+        "bestFor": [
+          "Dinner"
+        ],
+        "timeTags": [
+          "now",
+          "quick"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "16:30",
+          "end": "21:30"
+        },
+        "mapUrl": "https://maps.google.com/?q=Montana+Jack+Big+Sky",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJY7YGRdINUFMRalf3F0mot0E",
+        "googleHours": [
+          "Monday: 11:00 AM – 10:00 PM",
+          "Tuesday: 11:00 AM – 10:00 PM",
+          "Wednesday: 11:00 AM – 10:00 PM",
+          "Thursday: 11:00 AM – 10:00 PM",
+          "Friday: 11:00 AM – 10:00 PM",
+          "Saturday: 11:00 AM – 10:00 PM",
+          "Sunday: 11:00 AM – 10:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Wild Caddis at Rainbow Ranch",
+        "area": "Gallatin Canyon",
+        "address": "42950 Gallatin Rd, Gallatin Gateway, MT 59730",
+        "hours": "Daily 7:00 AM - 9:00 PM",
+        "note": "Dinner along the Gallatin River at Rainbow Ranch - log-and-stone dining room, ranch-sourced menu. Worth the drive down the canyon for a special night out.",
+        "vibe": [
+          "Romantic",
+          "Cozy",
+          "Local"
+        ],
+        "budget": [
+          "$$$",
+          "Flexible"
+        ],
+        "duration": [
+          "1 day",
+          "Weekend",
+          "3+ days"
+        ],
+        "tags": [
+          "Romantic",
+          "River views",
+          "Ranch-to-table"
+        ],
+        "bestFor": [
+          "Dinner"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "17:00",
+          "end": "21:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=Rainbow+Ranch+Lodge+Big+Sky",
+        "bookingUrl": "https://www.opentable.com/r/wild-caddis-big-sky",
+        "bookingLabel": "Reserve on OpenTable",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJG3YOewAXUFMRB6TIJvmmuE8",
+        "googleHours": [
+          "Monday: 4:00 – 9:00 PM",
+          "Tuesday: 4:00 – 9:00 PM",
+          "Wednesday: 4:00 – 9:00 PM",
+          "Thursday: 4:00 – 9:00 PM",
+          "Friday: 4:00 – 9:00 PM",
+          "Saturday: 4:00 – 9:00 PM",
+          "Sunday: 4:00 – 9:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "M by The Alinea Group",
+        "area": "Mountain Village",
+        "address": "48 Big Sky Resort Rd, Big Sky, MT 59716",
+        "hours": "Dec 20 - Mar 31 / Seatings from 4:30 PM",
+        "note": "Winter-only pop-up from the Alinea Group out of Chicago. Tasting menu and a la carte. The kind of dinner guests talk about for years - book well in advance.",
+        "vibe": [
+          "Luxury",
+          "Romantic"
+        ],
+        "budget": [
+          "$$$",
+          "Flexible"
+        ],
+        "duration": [
+          "1 day",
+          "Weekend",
+          "3+ days"
+        ],
+        "tags": [
+          "Fine dining",
+          "Tasting menu",
+          "Winter only"
+        ],
+        "bestFor": [
+          "Dinner"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "16:30",
+          "end": "22:00",
+          "seasonal": "winter"
+        },
+        "mapUrl": "https://maps.google.com/?q=M+by+Alinea+Group+Big+Sky",
+        "bookingUrl": "https://www.exploretock.com/m-by-the-alinea-group",
+        "bookingLabel": "Reserve on Tock",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJg-ZgzHQNUFMR53eVBSV18Rw",
+        "googleHours": [
+          "Monday: 4:30 – 9:00 PM",
+          "Tuesday: 4:30 – 9:00 PM",
+          "Wednesday: 4:30 – 9:00 PM",
+          "Thursday: 4:30 – 9:00 PM",
+          "Friday: 4:30 – 9:00 PM",
+          "Saturday: 4:30 – 9:00 PM",
+          "Sunday: 4:30 – 9:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Everett's 8800",
+        "area": "Mountain Village",
+        "address": "444 Andesite Ridge Rd, Big Sky, MT 59716",
+        "hours": "Lunch daily 11:00 AM - 4:00 PM / Dinner Wed - Sat 5:00 - 9:00 PM (winter)",
+        "note": "Guests ride the chairlift up to dinner at 8,800 feet. Alpine tasting menu, seasonal, spectacular views. One of the more unique restaurant experiences in the state - winter only.",
+        "vibe": [
+          "Luxury",
+          "Romantic",
+          "Adventure"
+        ],
+        "budget": [
+          "$$$",
+          "Flexible"
+        ],
+        "duration": [
+          "1 day",
+          "Weekend",
+          "3+ days"
+        ],
+        "tags": [
+          "Fine dining",
+          "On mountain",
+          "Reservation required"
+        ],
+        "bestFor": [
+          "Dinner"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "17:00",
+          "end": "21:00",
+          "seasonal": "winter"
+        },
+        "mapUrl": "https://maps.google.com/?q=Everett%27s+8800+Big+Sky",
+        "bookingUrl": "https://www.opentable.com/everetts-8800",
+        "bookingLabel": "Reserve on OpenTable",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJA7yXO9INUFMR4WyhEzlhbGw",
+        "googleHours": [
+          "Monday: 11:00 AM – 4:00 PM",
+          "Tuesday: 11:00 AM – 4:00 PM",
+          "Wednesday: 11:00 AM – 4:00 PM",
+          "Thursday: 11:00 AM – 4:00 PM",
+          "Friday: 11:00 AM – 4:00 PM",
+          "Saturday: 11:00 AM – 4:00 PM",
+          "Sunday: 11:00 AM – 4:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Blue Buddha Sushi Lounge",
+        "area": "Town Center",
+        "address": "99 Town Center Ave, Big Sky, MT 59716",
+        "hours": "Tue - Sat 5:00 - 9:00 PM / Happy hour 5:00 - 6:00 PM",
+        "note": "Big Sky's sushi spot - fresh rolls, Japanese cocktails, pool tables and DJs later in the evening. A good change of pace from the steak-and-burger rotation.",
+        "vibe": [
+          "Adventure",
+          "Local",
+          "Romantic"
+        ],
+        "budget": [
+          "$$$",
+          "Flexible"
+        ],
+        "duration": [
+          "1 day",
+          "Weekend",
+          "3+ days"
+        ],
+        "tags": [
+          "Sushi",
+          "Date night",
+          "Apres vibe"
+        ],
+        "bestFor": [
+          "Dinner"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "17:00",
+          "end": "21:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=Blue+Buddha+Sushi+Big+Sky",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJ9xyts6sRUFMRhTfUrkmAZHM",
+        "googleHours": [
+          "Monday: Closed",
+          "Tuesday: 5:00 – 9:00 PM",
+          "Wednesday: 5:00 – 9:00 PM",
+          "Thursday: 5:00 – 9:00 PM",
+          "Friday: 5:00 – 9:00 PM",
+          "Saturday: 5:00 – 9:00 PM",
+          "Sunday: Closed"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Tres Toros Tacos & Tequila",
+        "area": "Town Center",
+        "address": "145 Town Center Ave, Big Sky, MT 59716",
+        "hours": "Mon - Wed & Fri - Sun 3:00 - 10:00 PM (closed Thu)",
+        "note": "Birria tacos, huckleberry margaritas, and a serious tequila list. Lively and casual - one of the more fun dinners in Town Center, especially for groups.",
+        "vibe": [
+          "Local",
+          "Adventure",
+          "Family"
+        ],
+        "budget": [
+          "$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day",
+          "Weekend"
+        ],
+        "tags": [
+          "Tacos",
+          "Walkable",
+          "Casual"
+        ],
+        "bestFor": [
+          "Dinner"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "15:00",
+          "end": "22:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=Tres+Toros+Big+Sky",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJ_WSd5h0RUFMRTaTd2iN8j1U",
+        "googleHours": [
+          "Monday: 3:00 – 10:00 PM",
+          "Tuesday: 3:00 – 10:00 PM",
+          "Wednesday: 3:00 – 10:00 PM",
+          "Thursday: Closed",
+          "Friday: 3:00 – 10:00 PM",
+          "Saturday: 3:00 – 10:00 PM",
+          "Sunday: 3:00 – 10:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Copper Whiskey Bar & Grill",
+        "area": "Town Center",
+        "address": "145 Town Center Ave, Big Sky, MT 59716",
+        "hours": "Daily 4:00 - 9:30 PM / Happy hour 3:00 - 6:00 PM",
+        "note": "Montana steaks, good burgers, and a serious whiskey selection by the fire. Right pick when guests want something heartier and a bit more classic.",
+        "vibe": [
+          "Cozy",
+          "Romantic",
+          "Local"
+        ],
+        "budget": [
+          "$$$",
+          "Flexible"
+        ],
+        "duration": [
+          "1 day",
+          "Weekend",
+          "3+ days"
+        ],
+        "tags": [
+          "Steakhouse",
+          "Whiskey",
+          "Date night"
+        ],
+        "bestFor": [
+          "Dinner"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "16:00",
+          "end": "21:30"
+        },
+        "mapUrl": "https://maps.google.com/?q=Copper+Whiskey+Bar+Big+Sky",
+        "bookingUrl": "https://www.opentable.com/r/copper-whiskey-bar-and-grill-big-sky",
+        "bookingLabel": "Reserve on OpenTable",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJsQLubfsRUFMRvt3A4jMs6vk",
+        "googleHours": [],
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Alpenglow Bar",
+        "area": "Montage Big Sky",
+        "address": "995 Settlement Trail, Big Sky, MT 59716",
+        "hours": "Call Montage for current hours",
+        "note": "The lobby bar at Montage - floor-to-ceiling mountain views, fireplaces, live piano, craft cocktails. Even if guests aren't staying there, it's worth sending them for a drink.",
+        "vibe": [
+          "Luxury",
+          "Romantic",
+          "Cozy"
+        ],
+        "budget": [
+          "$$$",
+          "Flexible"
+        ],
+        "duration": [
+          "1 day",
+          "Weekend",
+          "3+ days"
+        ],
+        "tags": [
+          "Cocktails",
+          "Luxury",
+          "Views"
+        ],
+        "bestFor": [
+          "Dinner"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "16:00",
+          "end": "23:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=Alpenglow+Montage+Big+Sky",
+        "bookingUrl": "https://www.opentable.com/r/alpenglow-at-montage-big-sky",
+        "bookingLabel": "Reserve on OpenTable",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJ-5XoBiEPUFMRhP1foPzrYRI",
+        "googleHours": [
+          "Monday: 11:00 AM – 11:00 PM",
+          "Tuesday: 11:00 AM – 11:00 PM",
+          "Wednesday: 11:00 AM – 11:00 PM",
+          "Thursday: 11:00 AM – 11:00 PM",
+          "Friday: 11:00 AM – 11:00 PM",
+          "Saturday: 11:00 AM – 11:00 PM",
+          "Sunday: 11:00 AM – 11:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Blend Big Sky",
+        "area": "Town Center",
+        "address": "Town Center, Big Sky, MT 59716",
+        "hours": "Tue - Sun until 11:00 PM (closed Mon)",
+        "note": "A proper wine bar, small and quiet - French pours and Montana selections. Good for guests who want to wind down rather than go out. Not the place for a group, perfect for two.",
+        "vibe": [
+          "Romantic",
+          "Cozy",
+          "Luxury"
+        ],
+        "budget": [
+          "$$$",
+          "Flexible"
+        ],
+        "duration": [
+          "1 day",
+          "Weekend",
+          "3+ days"
+        ],
+        "tags": [
+          "Wine bar",
+          "Romantic",
+          "Intimate"
+        ],
+        "bestFor": [
+          "Dinner"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "17:00",
+          "end": "23:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=Blend+Big+Sky",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJt4cP4LgRUFMR8PhOYzvb08g",
+        "googleHours": [],
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      }
+    ],
+    "activity": [
+      {
+        "name": "Ousel Falls",
+        "area": "Big Sky",
+        "address": "Ousel Falls Rd, Big Sky, MT 59716",
+        "hours": "Open during daylight hours",
+        "note": "Ten minutes from the hotel and genuinely worth the stop. Easy 1.5-mile round trip through the trees to a 30-foot waterfall. Gets crowded midday - earlier or later in the afternoon is much better.",
+        "vibe": [
+          "Cozy",
+          "Romantic",
+          "Family",
+          "Local"
+        ],
+        "budget": [
+          "$",
+          "$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day"
+        ],
+        "tags": [
+          "Scenic",
+          "Beginner friendly",
+          "Must do"
+        ],
+        "bestFor": [
+          "Activity"
+        ],
+        "timeTags": [
+          "now",
+          "quick"
+        ],
+        "availability": {
+          "kind": "daylight",
+          "start": "07:00",
+          "end": "19:30"
+        },
+        "mapUrl": "https://maps.google.com/?q=Ousel+Falls+Big+Sky",
+        "kidFriendly": true,
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJz-fIY-YRUFMRwVZo3WbuWsk",
+        "googleHours": [],
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Beehive Basin",
+        "area": "Big Sky",
+        "address": "39620 Moose Rd, Big Sky, MT 59716",
+        "hours": "Open during daylight hours",
+        "note": "One of the best hikes in the area, full stop. Nine and a half miles round trip with real elevation, ending in an alpine basin surrounded by peaks. Plan for a full day and tell guests to bring layers.",
+        "vibe": [
+          "Adventure",
+          "Local"
+        ],
+        "budget": [
+          "$",
+          "$$",
+          "Flexible"
+        ],
+        "duration": [
+          "1 day",
+          "Weekend"
+        ],
+        "tags": [
+          "Hike",
+          "Adventure",
+          "Views"
+        ],
+        "bestFor": [
+          "Activity"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daylight",
+          "start": "07:00",
+          "end": "18:30"
+        },
+        "mapUrl": "https://maps.google.com/?q=Beehive+Basin+Big+Sky",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJWeSUmpYOUFMR40vKJ693Dmo",
+        "googleHours": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ],
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Big Sky Resort Scenic Lift Rides",
+        "area": "Mountain Village",
+        "address": "50 Big Sky Resort Rd, Big Sky, MT 59716",
+        "hours": "Daily 10:00 AM - 5:00 PM (summer seasonal)",
+        "note": "The gondola runs in summer for guests who want to get up on the mountain without the hike. Great views of the Spanish Peaks from the top - easy to recommend for any fitness level.",
+        "vibe": [
+          "Luxury",
+          "Family",
+          "Adventure"
+        ],
+        "budget": [
+          "$$",
+          "$$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day"
+        ],
+        "tags": [
+          "Views",
+          "Family friendly",
+          "Scenic"
+        ],
+        "bestFor": [
+          "Activity"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "10:00",
+          "end": "17:00",
+          "seasonal": "summer"
+        },
+        "mapUrl": "https://maps.google.com/?q=Big+Sky+Resort+Mountain+Village",
+        "bookingUrl": "https://www.bigskyresort.com/summer-activities",
+        "bookingLabel": "View resort activities",
+        "kidFriendly": true,
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJ8wF9ECsMUFMRdCp4xP-nHoo",
+        "googleHours": [
+          "Monday: 9:00 AM – 6:00 PM",
+          "Tuesday: 9:00 AM – 6:00 PM",
+          "Wednesday: 9:00 AM – 6:00 PM",
+          "Thursday: 9:00 AM – 6:00 PM",
+          "Friday: 9:00 AM – 6:00 PM",
+          "Saturday: 9:00 AM – 6:00 PM",
+          "Sunday: 9:00 AM – 6:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Adventure Mountain",
+        "area": "Mountain Village Plaza",
+        "address": "50 Big Sky Resort Rd, Big Sky, MT 59716",
+        "hours": "Daily 11:00 AM - 4:00 PM (summer seasonal)",
+        "note": "The activity hub at Mountain Village - zip lines, mini golf, a climbing wall, and bungee all in one spot. Easy to fill a half day, especially with kids. No need to plan ahead.",
+        "vibe": [
+          "Family",
+          "Adventure"
+        ],
+        "budget": [
+          "$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day"
+        ],
+        "tags": [
+          "Kids",
+          "Summer",
+          "Interactive"
+        ],
+        "bestFor": [
+          "Activity"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "10:00",
+          "end": "17:00",
+          "seasonal": "summer"
+        },
+        "mapUrl": "https://maps.google.com/?q=Big+Sky+Resort+Mountain+Village+Plaza",
+        "bookingUrl": "https://www.bigskyresort.com/summer-activities/adventure-mountain",
+        "bookingLabel": "View activity details",
+        "kidFriendly": true,
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJ8wF9ECsMUFMRdCp4xP-nHoo",
+        "googleHours": [
+          "Monday: 9:00 AM – 6:00 PM",
+          "Tuesday: 9:00 AM – 6:00 PM",
+          "Wednesday: 9:00 AM – 6:00 PM",
+          "Thursday: 9:00 AM – 6:00 PM",
+          "Friday: 9:00 AM – 6:00 PM",
+          "Saturday: 9:00 AM – 6:00 PM",
+          "Sunday: 9:00 AM – 6:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Warren Miller Performing Arts Center",
+        "area": "Town Center",
+        "address": "45465 Gallatin Rd, Big Sky, MT 59730",
+        "hours": "Event dependent - check warrenmillerpac.org for schedule",
+        "note": "A genuinely good venue for live music, theater, and local performances. Worth checking what's on during the guest's stay - the bigger shows sell out.",
+        "vibe": [
+          "Luxury",
+          "Cozy",
+          "Local"
+        ],
+        "budget": [
+          "$$",
+          "$$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day",
+          "Weekend"
+        ],
+        "tags": [
+          "Indoor",
+          "Culture",
+          "Events"
+        ],
+        "bestFor": [
+          "Activity"
+        ],
+        "timeTags": [
+          "quick"
+        ],
+        "availability": {
+          "kind": "event"
+        },
+        "mapUrl": "https://maps.google.com/?q=Warren+Miller+Performing+Arts+Center+Big+Sky",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJczqB_40QUFMRVgKhO1VS2Bo",
+        "googleHours": [
+          "Monday: Closed",
+          "Tuesday: Closed",
+          "Wednesday: Closed",
+          "Thursday: Closed",
+          "Friday: Closed",
+          "Saturday: 7:00 – 10:00 PM",
+          "Sunday: Closed"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Gallatin River Guides",
+        "area": "Gallatin Canyon",
+        "address": "47430 Gallatin Rd, Gallatin Gateway, MT 59730",
+        "hours": "Daily 7:00 AM - 7:00 PM (summer seasonal)",
+        "note": "The oldest fly shop in Big Sky and still the best call for fishing. They guide the Gallatin and run trips into Yellowstone. Half days work well for guests who haven't fished before.",
+        "vibe": [
+          "Adventure",
+          "Local"
+        ],
+        "budget": [
+          "$$$",
+          "Flexible"
+        ],
+        "duration": [
+          "1 day",
+          "Weekend",
+          "3+ days"
+        ],
+        "tags": [
+          "Fly fishing",
+          "Guided",
+          "Montana classic"
+        ],
+        "bestFor": [
+          "Activity"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "07:00",
+          "end": "19:00",
+          "seasonal": "summer"
+        },
+        "mapUrl": "https://maps.google.com/?q=Gallatin+River+Guides+Big+Sky",
+        "bookingUrl": "https://www.montanaflyfishing.com/big-sky-mt-guided-fishing-trips",
+        "bookingLabel": "Book a guided trip",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJ2-B50QoQUFMR3YzlSZWKQhs",
+        "googleHours": [
+          "Monday: 8:00 AM – 6:00 PM",
+          "Tuesday: 8:00 AM – 6:00 PM",
+          "Wednesday: 8:00 AM – 6:00 PM",
+          "Thursday: 8:00 AM – 6:00 PM",
+          "Friday: 8:00 AM – 6:00 PM",
+          "Saturday: 8:00 AM – 6:00 PM",
+          "Sunday: 8:00 AM – 6:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Montana Whitewater",
+        "area": "Gallatin Canyon",
+        "address": "63960 Gallatin Rd, Gallatin Gateway, MT 59730",
+        "hours": "Trips daily 9:00 AM - 4:00 PM (Memorial Day - Labor Day)",
+        "note": "The Gallatin River runs right through the canyon and Montana Whitewater puts guests on it. The half-day family run is the most popular; the Class IV stretch is legitimate whitewater for guests who want that.",
+        "vibe": [
+          "Adventure",
+          "Family"
+        ],
+        "budget": [
+          "$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day"
+        ],
+        "tags": [
+          "Rafting",
+          "Adventure",
+          "Family friendly"
+        ],
+        "bestFor": [
+          "Activity"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "09:00",
+          "end": "16:00",
+          "seasonal": "summer"
+        },
+        "mapUrl": "https://maps.google.com/?q=Montana+Whitewater+Big+Sky",
+        "bookingUrl": "https://montanawhitewater.com/",
+        "bookingLabel": "Book a rafting trip",
+        "kidFriendly": true,
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJUdoMEHqqWlMRBWC-0FmyfJ8",
+        "googleHours": [
+          "Monday: 8:00 AM – 8:00 PM",
+          "Tuesday: 8:00 AM – 8:00 PM",
+          "Wednesday: 8:00 AM – 8:00 PM",
+          "Thursday: 8:00 AM – 8:00 PM",
+          "Friday: 8:00 AM – 8:00 PM",
+          "Saturday: 8:00 AM – 8:00 PM",
+          "Sunday: 8:00 AM – 8:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Big Sky Resort Ziplines",
+        "area": "Mountain Village",
+        "address": "50 Big Sky Resort Rd, Big Sky, MT 59716",
+        "hours": "Summer season daily (weather permitting)",
+        "note": "Long lines through the trees in Huntley Hollow - the guided nature tour is good for families and the straight zipline run is fast. One of the better ways to see the mountain without hiking.",
+        "vibe": [
+          "Adventure",
+          "Family"
+        ],
+        "budget": [
+          "$$",
+          "$$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day"
+        ],
+        "tags": [
+          "Zipline",
+          "Adventure",
+          "Mountain views"
+        ],
+        "bestFor": [
+          "Activity"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "09:00",
+          "end": "17:00",
+          "seasonal": "summer"
+        },
+        "mapUrl": "https://maps.google.com/?q=Big+Sky+Resort+Ziplines",
+        "bookingUrl": "https://www.bigskyresort.com/summer-activities/ziplines",
+        "bookingLabel": "Book zipline tours",
+        "kidFriendly": true,
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJ67mfOKYaUFMRHEQzcgMcqxg",
+        "googleHours": [],
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Big Sky Resort Mountain Biking",
+        "area": "Mountain Village",
+        "address": "50 Big Sky Resort Rd, Big Sky, MT 59716",
+        "hours": "Daily June - mid September (weather permitting)",
+        "note": "Over 40 miles of lift-served trail at the resort, from easy flow runs to technical terrain. Rentals on site. One of the better lift-served bike parks in the West - worth recommending to any guest who rides.",
+        "vibe": [
+          "Adventure",
+          "Family"
+        ],
+        "budget": [
+          "$$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day",
+          "Weekend"
+        ],
+        "tags": [
+          "Biking",
+          "Lift-served",
+          "Summer"
+        ],
+        "bestFor": [
+          "Activity"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "09:00",
+          "end": "17:00",
+          "seasonal": "summer"
+        },
+        "mapUrl": "https://maps.google.com/?q=Big+Sky+Resort+Mountain+Village",
+        "bookingUrl": "https://www.bigskyresort.com/summer-activities/mountain-biking",
+        "bookingLabel": "View bike park details",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJ8wF9ECsMUFMRdCp4xP-nHoo",
+        "googleHours": [
+          "Monday: 9:00 AM – 6:00 PM",
+          "Tuesday: 9:00 AM – 6:00 PM",
+          "Wednesday: 9:00 AM – 6:00 PM",
+          "Thursday: 9:00 AM – 6:00 PM",
+          "Friday: 9:00 AM – 6:00 PM",
+          "Saturday: 9:00 AM – 6:00 PM",
+          "Sunday: 9:00 AM – 6:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Canyon Adventures Horseback Riding",
+        "area": "Gallatin Canyon",
+        "address": "47200 Gallatin Rd, Gallatin Gateway, MT 59730",
+        "hours": "May - September daily",
+        "note": "One- to three-hour guided rides into the Gallatin National Forest. Reliable operator, good for first-timers and families. Guests mention this one consistently when they come back.",
+        "vibe": [
+          "Adventure",
+          "Family",
+          "Local"
+        ],
+        "budget": [
+          "$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day"
+        ],
+        "tags": [
+          "Horseback",
+          "Family friendly",
+          "Montana"
+        ],
+        "bestFor": [
+          "Activity"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "09:00",
+          "end": "17:00",
+          "seasonal": "summer"
+        },
+        "mapUrl": "https://maps.google.com/?q=Canyon+Adventures+Big+Sky",
+        "kidFriendly": true,
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJZbFHqHYQUFMRFL7Pyts9pY0",
+        "googleHours": [
+          "Monday: 8:00 AM – 5:00 PM",
+          "Tuesday: 8:00 AM – 5:00 PM",
+          "Wednesday: 8:00 AM – 5:00 PM",
+          "Thursday: 8:00 AM – 5:00 PM",
+          "Friday: 8:00 AM – 5:00 PM",
+          "Saturday: 8:00 AM – 5:00 PM",
+          "Sunday: 8:00 AM – 5:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Lone Mountain Ranch Sleigh Ride Dinner",
+        "area": "Lone Mountain Ranch",
+        "address": "750 Lone Mountain Ranch Rd, Big Sky, MT 59716",
+        "hours": "Dec - Apr / Evening departures (reservations required)",
+        "note": "Sleigh ride out to the North Fork Cabin for a prime rib dinner - about 20 minutes each way through the trees. Books up quickly in peak season. Winter only, and guests remember it.",
+        "vibe": [
+          "Romantic",
+          "Luxury",
+          "Cozy"
+        ],
+        "budget": [
+          "$$$",
+          "Flexible"
+        ],
+        "duration": [
+          "1 day",
+          "Weekend",
+          "3+ days"
+        ],
+        "tags": [
+          "Winter only",
+          "Romantic",
+          "Unique experience"
+        ],
+        "bestFor": [
+          "Activity"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "18:00",
+          "end": "21:00",
+          "seasonal": "winter"
+        },
+        "mapUrl": "https://maps.google.com/?q=Lone+Mountain+Ranch+Big+Sky",
+        "bookingUrl": "https://lonemountainranch.com/sleigh-ride-dinner/",
+        "bookingLabel": "Reserve sleigh ride dinner",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJgV11s8wPUFMRlpczqJZJMH0",
+        "googleHours": [],
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Big Sky Resort Golf Course",
+        "area": "Big Sky",
+        "address": "2100 Black Otter Rd, Big Sky, MT 59716",
+        "hours": "Summer seasonal / Call for tee times: (406) 995-5780",
+        "note": "Arnold Palmer-designed, 18 holes at altitude with serious elevation changes and views of the Spanish Peaks. Plays differently than most courses guests are used to - a good challenge.",
+        "vibe": [
+          "Luxury",
+          "Adventure"
+        ],
+        "budget": [
+          "$$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day",
+          "Weekend"
+        ],
+        "tags": [
+          "Golf",
+          "Scenic",
+          "Summer"
+        ],
+        "bestFor": [
+          "Activity"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "07:00",
+          "end": "18:00",
+          "seasonal": "summer"
+        },
+        "mapUrl": "https://maps.google.com/?q=Big+Sky+Resort+Golf+Course",
+        "bookingUrl": "https://www.bigskyresort.com/summer-activities/golf",
+        "bookingLabel": "Book tee times",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJe1V51ycQUFMRP88FxGy2nY4",
+        "googleHours": [
+          "Monday: 9:30 AM – 5:00 PM",
+          "Tuesday: 9:30 AM – 5:00 PM",
+          "Wednesday: 9:30 AM – 5:00 PM",
+          "Thursday: 9:30 AM – 5:00 PM",
+          "Friday: 9:30 AM – 5:00 PM",
+          "Saturday: 9:30 AM – 5:00 PM",
+          "Sunday: 9:30 AM – 5:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Solace Spa & Recovery Lounge",
+        "area": "Mountain Village",
+        "address": "44 Big Sky Resort Rd, Big Sky, MT 59716",
+        "hours": "Daily 8:00 AM - 7:00 PM",
+        "note": "Full-service spa at the resort - massage, facials, and recovery equipment. Couple's suite available. Good recommendation after a big ski or hiking day. Book ahead in peak weeks.",
+        "vibe": [
+          "Luxury",
+          "Romantic"
+        ],
+        "budget": [
+          "$$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day",
+          "Weekend"
+        ],
+        "tags": [
+          "Spa",
+          "Wellness",
+          "Couples"
+        ],
+        "bestFor": [
+          "Activity"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "08:00",
+          "end": "19:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=Solace+Spa+Big+Sky+Resort",
+        "bookingUrl": "https://www.bigskyresort.com/solace-spa",
+        "bookingLabel": "Book a treatment",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJj29J4tINUFMRKuSKxy2uP_M",
+        "googleHours": [
+          "Monday: Closed",
+          "Tuesday: 10:30 AM – 7:00 PM",
+          "Wednesday: 10:30 AM – 7:00 PM",
+          "Thursday: 10:30 AM – 7:00 PM",
+          "Friday: 10:30 AM – 7:00 PM",
+          "Saturday: 10:30 AM – 7:00 PM",
+          "Sunday: Closed"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Spa Montage",
+        "area": "Montage Big Sky",
+        "address": "995 Settlement Trail, Big Sky, MT 59716",
+        "hours": "Spa 8:00 AM - 6:00 PM / Treatments 9:00 AM - 7:00 PM",
+        "note": "The biggest spa in the area - 12 treatment rooms, heated pools, steam, and an indoor pool. Non-hotel guests can book with a reservation. Right call for guests who take their spa time seriously.",
+        "vibe": [
+          "Luxury",
+          "Romantic"
+        ],
+        "budget": [
+          "$$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day",
+          "Weekend"
+        ],
+        "tags": [
+          "Spa",
+          "Luxury",
+          "Wellness"
+        ],
+        "bestFor": [
+          "Activity"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "08:00",
+          "end": "19:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=Spa+Montage+Big+Sky",
+        "bookingUrl": "https://www.montage.com/bigsky/spa/",
+        "bookingLabel": "Book at Spa Montage",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJR76qui0PUFMRc57SYm4RLLE",
+        "googleHours": [
+          "Monday: 8:00 AM – 6:00 PM",
+          "Tuesday: 8:00 AM – 6:00 PM",
+          "Wednesday: 8:00 AM – 6:00 PM",
+          "Thursday: 8:00 AM – 6:00 PM",
+          "Friday: 8:00 AM – 6:00 PM",
+          "Saturday: 8:00 AM – 6:00 PM",
+          "Sunday: 8:00 AM – 6:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Yellowstone National Park Day Tour",
+        "area": "Yellowstone",
+        "address": "Pickup at The Wilson Hotel",
+        "hours": "Full-day tours available year-round",
+        "note": "About 45 miles south and worth a full day. Multiple operators run guided tours covering wildlife, geysers, and hot springs. Having a guide makes a real difference in what guests actually see.",
+        "vibe": [
+          "Adventure",
+          "Family",
+          "Local"
+        ],
+        "budget": [
+          "$$$",
+          "Flexible"
+        ],
+        "duration": [
+          "1 day"
+        ],
+        "tags": [
+          "Yellowstone",
+          "Wildlife",
+          "Full day"
+        ],
+        "bestFor": [
+          "Activity"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "07:00",
+          "end": "19:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=Yellowstone+National+Park",
+        "bookingUrl": "https://yellowstonesafari.com/yellowstone-tours-from-big-sky/",
+        "bookingLabel": "Book a Yellowstone tour",
+        "kidFriendly": true,
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJd9KNzw0RUFMRI4YPf3aa6JA",
+        "googleHours": [],
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      }
+    ],
+    "kids": [
+      {
+        "name": "Adventure Mountain",
+        "area": "Mountain Village Plaza",
+        "address": "50 Big Sky Resort Rd, Big Sky, MT 59716",
+        "hours": "Daily 11:00 AM - 4:00 PM (summer seasonal)",
+        "note": "The activity plaza at Mountain Village - zip lines, mini golf, climbing wall, and bungee trampoline all in one spot. No planning needed; easy to fill a half day.",
+        "vibe": [
+          "Family",
+          "Adventure"
+        ],
+        "budget": [
+          "$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day"
+        ],
+        "tags": [
+          "Kids",
+          "Summer",
+          "Interactive"
+        ],
+        "bestFor": [
+          "Activity"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "10:00",
+          "end": "17:00",
+          "seasonal": "summer"
+        },
+        "mapUrl": "https://maps.google.com/?q=Big+Sky+Resort+Mountain+Village+Plaza",
+        "bookingUrl": "https://www.bigskyresort.com/summer-activities/adventure-mountain",
+        "bookingLabel": "View activity details",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJ8wF9ECsMUFMRdCp4xP-nHoo",
+        "googleHours": [
+          "Monday: 9:00 AM – 6:00 PM",
+          "Tuesday: 9:00 AM – 6:00 PM",
+          "Wednesday: 9:00 AM – 6:00 PM",
+          "Thursday: 9:00 AM – 6:00 PM",
+          "Friday: 9:00 AM – 6:00 PM",
+          "Saturday: 9:00 AM – 6:00 PM",
+          "Sunday: 9:00 AM – 6:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Ousel Falls",
+        "area": "Big Sky",
+        "address": "Ousel Falls Rd, Big Sky, MT 59716",
+        "hours": "Open during daylight hours",
+        "note": "Short, easy trail with a waterfall payoff - kids love it. About ten minutes from the hotel, 1.5 miles round trip. Good for any age that can walk.",
+        "vibe": [
+          "Family",
+          "Cozy",
+          "Local"
+        ],
+        "budget": [
+          "$",
+          "$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day"
+        ],
+        "tags": [
+          "Kids",
+          "Scenic",
+          "Easy trail"
+        ],
+        "bestFor": [
+          "Activity"
+        ],
+        "timeTags": [
+          "now",
+          "quick"
+        ],
+        "availability": {
+          "kind": "daylight",
+          "start": "07:00",
+          "end": "19:30"
+        },
+        "mapUrl": "https://maps.google.com/?q=Ousel+Falls+Big+Sky",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJz-fIY-YRUFMRwVZo3WbuWsk",
+        "googleHours": [],
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Big Sky Community Park",
+        "area": "Town Center",
+        "address": "25 Seeway Rd, Big Sky, MT 59716",
+        "hours": "Daily sunrise - 10:00 PM",
+        "note": "Open green space with a playground and room to run. Simple and free - the right call when kids need to burn energy without an agenda.",
+        "vibe": [
+          "Family",
+          "Local"
+        ],
+        "budget": [
+          "$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day"
+        ],
+        "tags": [
+          "Park",
+          "Kids",
+          "Low planning"
+        ],
+        "bestFor": [
+          "Activity"
+        ],
+        "timeTags": [
+          "now",
+          "quick"
+        ],
+        "availability": {
+          "kind": "daylight",
+          "start": "07:00",
+          "end": "20:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=Big+Sky+Community+Park",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJ0why6d8PUFMRUwD4fxQgMck",
+        "googleHours": [
+          "Monday: 8:00 AM – 10:00 PM",
+          "Tuesday: 8:00 AM – 10:00 PM",
+          "Wednesday: 8:00 AM – 10:00 PM",
+          "Thursday: 8:00 AM – 10:00 PM",
+          "Friday: 8:00 AM – 10:00 PM",
+          "Saturday: 8:00 AM – 10:00 PM",
+          "Sunday: 8:00 AM – 10:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Montana Whitewater",
+        "area": "Gallatin Canyon",
+        "address": "63960 Gallatin Rd, Gallatin Gateway, MT 59730",
+        "hours": "Trips daily 9:00 AM - 4:00 PM (summer seasonal)",
+        "note": "Class II-III runs on the Gallatin - splashy and fun, not scary. All gear provided, and kids genuinely love it. One of the better family half-days in Big Sky.",
+        "vibe": [
+          "Adventure",
+          "Family"
+        ],
+        "budget": [
+          "$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day"
+        ],
+        "tags": [
+          "Rafting",
+          "Family",
+          "Summer"
+        ],
+        "bestFor": [
+          "Activity"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "09:00",
+          "end": "16:00",
+          "seasonal": "summer"
+        },
+        "mapUrl": "https://maps.google.com/?q=Montana+Whitewater+Big+Sky",
+        "bookingUrl": "https://montanawhitewater.com/",
+        "bookingLabel": "Book a rafting trip",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJUdoMEHqqWlMRBWC-0FmyfJ8",
+        "googleHours": [
+          "Monday: 8:00 AM – 8:00 PM",
+          "Tuesday: 8:00 AM – 8:00 PM",
+          "Wednesday: 8:00 AM – 8:00 PM",
+          "Thursday: 8:00 AM – 8:00 PM",
+          "Friday: 8:00 AM – 8:00 PM",
+          "Saturday: 8:00 AM – 8:00 PM",
+          "Sunday: 8:00 AM – 8:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Big Sky Resort Ziplines",
+        "area": "Mountain Village",
+        "address": "50 Big Sky Resort Rd, Big Sky, MT 59716",
+        "hours": "Summer season daily (weather permitting)",
+        "note": "Long lines through the trees at the resort - fast, safe, and great for kids. The guided nature tour version works well for younger ones who want a bit more to it than just the zip.",
+        "vibe": [
+          "Adventure",
+          "Family"
+        ],
+        "budget": [
+          "$$",
+          "$$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day"
+        ],
+        "tags": [
+          "Zipline",
+          "Kids",
+          "Summer"
+        ],
+        "bestFor": [
+          "Activity"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "09:00",
+          "end": "17:00",
+          "seasonal": "summer"
+        },
+        "mapUrl": "https://maps.google.com/?q=Big+Sky+Resort+Ziplines",
+        "bookingUrl": "https://www.bigskyresort.com/summer-activities/ziplines",
+        "bookingLabel": "Book zipline tours",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJ67mfOKYaUFMRHEQzcgMcqxg",
+        "googleHours": [],
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Canyon Adventures Horseback Riding",
+        "area": "Gallatin Canyon",
+        "address": "47200 Gallatin Rd, Gallatin Gateway, MT 59730",
+        "hours": "May - September daily",
+        "note": "Walking-pace trail rides through the National Forest - appropriate for most ages and no experience needed. A reliable pick for families; kids consistently enjoy it.",
+        "vibe": [
+          "Adventure",
+          "Family",
+          "Local"
+        ],
+        "budget": [
+          "$$",
+          "Flexible"
+        ],
+        "duration": [
+          "Half day",
+          "1 day"
+        ],
+        "tags": [
+          "Horseback",
+          "Family",
+          "Montana"
+        ],
+        "bestFor": [
+          "Activity"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "09:00",
+          "end": "17:00",
+          "seasonal": "summer"
+        },
+        "mapUrl": "https://maps.google.com/?q=Canyon+Adventures+Big+Sky",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJZbFHqHYQUFMRFL7Pyts9pY0",
+        "googleHours": [
+          "Monday: 8:00 AM – 5:00 PM",
+          "Tuesday: 8:00 AM – 5:00 PM",
+          "Wednesday: 8:00 AM – 5:00 PM",
+          "Thursday: 8:00 AM – 5:00 PM",
+          "Friday: 8:00 AM – 5:00 PM",
+          "Saturday: 8:00 AM – 5:00 PM",
+          "Sunday: 8:00 AM – 5:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Yellowstone National Park Day Tour",
+        "area": "Yellowstone",
+        "address": "Pickup at The Wilson Hotel",
+        "hours": "Full-day tours available year-round",
+        "note": "45 miles south and a full day well spent. Geysers, bison, hot springs - having a guide matters because they know where to be and when. Great for kids of any age.",
+        "vibe": [
+          "Adventure",
+          "Family"
+        ],
+        "budget": [
+          "$$$",
+          "Flexible"
+        ],
+        "duration": [
+          "1 day"
+        ],
+        "tags": [
+          "Yellowstone",
+          "Wildlife",
+          "Family"
+        ],
+        "bestFor": [
+          "Activity"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "07:00",
+          "end": "19:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=Yellowstone+National+Park",
+        "bookingUrl": "https://yellowstonesafari.com/yellowstone-tours-from-big-sky/",
+        "bookingLabel": "Book a Yellowstone tour",
+        "transportProvider": "skyline",
+        "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "placeId": "ChIJEy43x5W5UVMRoG72Np1tT-8",
+        "googleHours": [
+          "Monday: 8:00 AM – 5:00 PM",
+          "Tuesday: 8:00 AM – 5:00 PM",
+          "Wednesday: 8:00 AM – 5:00 PM",
+          "Thursday: 8:00 AM – 5:00 PM",
+          "Friday: 8:00 AM – 5:00 PM",
+          "Saturday: 8:00 AM – 5:00 PM",
+          "Sunday: 8:00 AM – 5:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-01T08:27:15.824Z",
+        "hoursStatus": "fresh"
+      }
+    ]
+  },
+  "happyHourDeals": [
+    {
+      "name": "The Wilson Lobby Bar",
+      "time": "Daily 2:00 PM - 5:00 PM",
+      "detail": "Easy on-property happy hour before dinner or after arrival. No need to drive anywhere — right in the building.",
+      "perk": "Natural handoff from the front desk. Guests appreciate the suggestion.",
+      "mapUrl": "https://maps.google.com/?q=Residence+Inn+Big+Sky+The+Wilson+Hotel"
+    },
+    {
+      "name": "Block 3 Kitchen & Bar",
+      "time": "Pre-dinner, on property",
+      "detail": "Same building, polished bar. Good call when guests want to settle in for the evening without leaving.",
+      "perk": "Eligible for Wilson dining credit — mention it when it applies.",
+      "mapUrl": "https://maps.google.com/?q=Block+3+Kitchen+and+Bar+Big+Sky",
+      "bookingUrl": "https://www.opentable.com/r/block-3-kitchen-and-bar-big-sky"
+    },
+    {
+      "name": "By Word of Mouth",
+      "time": "Check current hours",
+      "detail": "The Dirtbag Special — a local staple at By Word of Mouth. Easy walk from the hotel, Town Center location.",
+      "perk": "A genuine local pick guests remember. Good for guests who want something less resort-polished.",
+      "mapUrl": "https://maps.google.com/?q=By+Word+of+Mouth+Big+Sky"
+    }
+  ],
+  "transportation": {
+    "connect": [
+      {
+        "title": "Big Sky Connect - Local Rides",
+        "detail": "On-demand, fare-free local transit within the Big Sky service area. Request rides at the time of need - no advance scheduling. Does not serve the airport.",
+        "bullets": [
+          "Winter (Nov 24 - Apr 26): Town Center & Meadow Village 6am-11pm / Mountain Village 7:30am-9:30pm",
+          "Spring (Apr 27 - May 24): 8am-10pm, all service areas",
+          "Summer (May 25 - Sep 20): 6am-11pm, all service areas",
+          "Fall (Sep 21 - Nov 22): 8am-10pm, all service areas",
+          "Questions? Call 406-898-4438"
+        ],
+        "primaryUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
+        "primaryLabel": "Big Sky Connect for iPhone",
+        "secondaryUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
+        "secondaryLabel": "Big Sky Connect for Android"
+      }
+    ],
+    "airport": [
+      {
+        "title": "Airport Transportation",
+        "detail": "Big Sky Connect does not serve Bozeman Yellowstone International Airport (BZN). Yellowstone Limousine offers private transfers for the 50-mile trip.",
+        "bullets": [
+          "BZN is approximately 50 miles from Big Sky",
+          "Yellowstone Limousine - private car service to/from BZN",
+          "Rates and availability at yellowstonelimousine.com",
+          "Book in advance - demand is high during peak season"
+        ],
+        "primaryUrl": "https://yellowstonelimousine.com",
+        "primaryLabel": "Yellowstone Limousine",
+        "secondaryUrl": "tel:+14069959000",
+        "secondaryLabel": "Call Front Desk"
+      }
+    ],
+    "hotel": {
+      "phoneLabel": "Wilson front desk",
+      "phoneNumber": "+1 406-995-9000",
+      "message": "Airport driver details are being finalized - contact the front desk for current availability."
+    }
+  },
+  "version": "2026-04-01T08:27:15.824Z",
+  "publishedAt": "2026-04-01T08:27:15.824Z",
+  "contentGeneratedAt": "2026-04-01T08:27:15.824Z"
+}
