@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-04-02T09:16:18.774Z",
+  "generatedAt": "2026-04-02T13:20:21.937Z",
   "sourceGeneratedAt": "2026-04-02T08:11:14.0595745Z",
   "filters": {
     "vibes": [
@@ -45,7 +45,15 @@
         "end": "14:00",
         "seasonal": null,
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 8:00 AM – 9:00 PM",
+          "Tuesday: 8:00 AM – 9:00 PM",
+          "Wednesday: 8:00 AM – 9:00 PM",
+          "Thursday: 8:00 AM – 9:00 PM",
+          "Friday: 8:00 AM – 9:00 PM",
+          "Saturday: 8:00 AM – 9:00 PM",
+          "Sunday: 8:00 AM – 9:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -75,7 +83,11 @@
       "mapUrl": "https://maps.google.com/?q=Blue+Moon+Bakery+Big+Sky",
       "bookingUrl": null,
       "bookingLabel": null,
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJNfEVW9MRUFMR1HKGZpnaUcM",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "breakfast-cafe-191",
@@ -91,7 +103,15 @@
         "end": "15:00",
         "seasonal": null,
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 6:00 AM – 3:00 PM",
+          "Tuesday: 6:00 AM – 3:00 PM",
+          "Wednesday: 6:00 AM – 3:00 PM",
+          "Thursday: 6:00 AM – 3:00 PM",
+          "Friday: 6:00 AM – 3:00 PM",
+          "Saturday: 6:00 AM – 3:00 PM",
+          "Sunday: 6:00 AM – 3:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -119,7 +139,11 @@
       "mapUrl": "https://maps.google.com/?q=Cafe+191+Big+Sky",
       "bookingUrl": null,
       "bookingLabel": null,
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJmYaKNC4bUFMRCc32RbR7nPs",
+      "openNow": true,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "breakfast-caliber-coffee",
@@ -135,7 +159,15 @@
         "end": "15:00",
         "seasonal": null,
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 7:00 AM – 3:00 PM",
+          "Tuesday: 7:00 AM – 3:00 PM",
+          "Wednesday: 7:00 AM – 3:00 PM",
+          "Thursday: 7:00 AM – 3:00 PM",
+          "Friday: 7:00 AM – 3:00 PM",
+          "Saturday: 7:00 AM – 3:00 PM",
+          "Sunday: 7:00 AM – 1:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -162,7 +194,11 @@
       "mapUrl": "https://maps.google.com/?q=Caliber+Coffee+Big+Sky",
       "bookingUrl": null,
       "bookingLabel": null,
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJ0Q-jNnoQUFMRy-ZW818rJCU",
+      "openNow": true,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "breakfast-cowboy-coffee-co",
@@ -178,7 +214,15 @@
         "end": "18:00",
         "seasonal": null,
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 6:00 AM – 6:00 PM",
+          "Tuesday: 6:00 AM – 6:00 PM",
+          "Wednesday: 6:00 AM – 6:00 PM",
+          "Thursday: 6:00 AM – 6:00 PM",
+          "Friday: 6:00 AM – 6:00 PM",
+          "Saturday: 6:00 AM – 6:00 PM",
+          "Sunday: 6:00 AM – 6:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -207,7 +251,11 @@
       "mapUrl": "https://maps.google.com/?q=Cowboy+Coffee+Big+Sky",
       "bookingUrl": null,
       "bookingLabel": null,
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJLTlj4cYRUFMR2Qn9GMPcp9o",
+      "openNow": true,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "breakfast-the-corral",
@@ -223,7 +271,15 @@
         "end": "11:30",
         "seasonal": null,
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: Closed",
+          "Tuesday: Closed",
+          "Wednesday: 10:30 AM – 9:00 PM",
+          "Thursday: 10:30 AM – 9:00 PM",
+          "Friday: 10:30 AM – 9:00 PM",
+          "Saturday: 10:30 AM – 9:00 PM",
+          "Sunday: 10:30 AM – 9:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -252,7 +308,11 @@
       "mapUrl": "https://maps.google.com/?q=The+Corral+Big+Sky",
       "bookingUrl": null,
       "bookingLabel": null,
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJSQh_qjsXUFMRET7aiuuxyOA",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "breakfast-unravel-coffee-bar",
@@ -268,7 +328,15 @@
         "end": "11:00",
         "seasonal": null,
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 7:30 AM – 8:00 PM",
+          "Tuesday: 7:30 AM – 8:00 PM",
+          "Wednesday: 7:30 AM – 8:00 PM",
+          "Thursday: 7:30 AM – 8:00 PM",
+          "Friday: 7:30 AM – 8:00 PM",
+          "Saturday: 7:30 AM – 8:00 PM",
+          "Sunday: 7:30 AM – 8:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -298,7 +366,11 @@
       "mapUrl": "https://maps.google.com/?q=Unravel+Coffee+Big+Sky",
       "bookingUrl": null,
       "bookingLabel": null,
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJ58RbNq4RUFMRLfHRDWjMRXY",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "breakfast-wildflower-market-cafe",
@@ -358,13 +430,13 @@
           ]
         },
         "googleHours": [
-          "Sunday: 6:00 AM - 6:00 PM",
-          "Monday: 6:00 AM - 6:00 PM",
-          "Tuesday: 6:00 AM - 6:00 PM",
-          "Wednesday: 6:00 AM - 6:00 PM",
-          "Thursday: 6:00 AM - 6:00 PM",
-          "Friday: 6:00 AM - 6:00 PM",
-          "Saturday: 6:00 AM - 6:00 PM"
+          "Monday: 6:00 AM – 6:00 PM",
+          "Tuesday: 6:00 AM – 6:00 PM",
+          "Wednesday: 6:00 AM – 6:00 PM",
+          "Thursday: 6:00 AM – 6:00 PM",
+          "Friday: 6:00 AM – 6:00 PM",
+          "Saturday: 6:00 AM – 6:00 PM",
+          "Sunday: 6:00 AM – 6:00 PM"
         ]
       },
       "audiences": [],
@@ -394,7 +466,11 @@
       "mapUrl": "https://maps.google.com/?q=Wildflower+Market+Montage+Big+Sky",
       "bookingUrl": null,
       "bookingLabel": null,
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJiT90_xIPUFMR392Eo52hGKA",
+      "openNow": true,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "lunch-beartooth-pub-rec",
@@ -454,13 +530,13 @@
           ]
         },
         "googleHours": [
-          "Sunday: 12:00 PM - 10:00 PM",
-          "Monday: 12:00 PM - 10:00 PM",
-          "Tuesday: 12:00 PM - 10:00 PM",
-          "Wednesday: 12:00 PM - 10:00 PM",
-          "Thursday: 12:00 PM - 10:00 PM",
-          "Friday: 12:00 PM - 10:00 PM",
-          "Saturday: 12:00 PM - 10:00 PM"
+          "Monday: 12:00 – 9:00 PM",
+          "Tuesday: 12:00 – 9:00 PM",
+          "Wednesday: 12:00 – 9:00 PM",
+          "Thursday: 12:00 – 9:00 PM",
+          "Friday: 12:00 – 9:00 PM",
+          "Saturday: 12:00 – 9:00 PM",
+          "Sunday: 12:00 – 9:00 PM"
         ]
       },
       "audiences": [],
@@ -489,7 +565,11 @@
       "mapUrl": "https://maps.google.com/?q=Beartooth+Pub+Montage+Big+Sky",
       "bookingUrl": "https://www.opentable.com/r/beartooth-pub-and-rec-big-sky",
       "bookingLabel": "Reserve on OpenTable",
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJ5-KPRQcOUFMRO51rRSPxal8",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "lunch-beehive-basin-brewery",
@@ -505,7 +585,15 @@
         "end": "22:00",
         "seasonal": null,
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 12:00 – 10:00 PM",
+          "Tuesday: 12:00 – 10:00 PM",
+          "Wednesday: 12:00 – 10:00 PM",
+          "Thursday: 12:00 – 10:00 PM",
+          "Friday: 12:00 – 10:00 PM",
+          "Saturday: 12:00 – 10:00 PM",
+          "Sunday: 12:00 – 10:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -534,7 +622,11 @@
       "mapUrl": "https://maps.google.com/?q=Beehive+Basin+Brewery+Big+Sky",
       "bookingUrl": null,
       "bookingLabel": null,
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJHx24WC4QUFMRp8STAlL4T7o",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "lunch-by-word-of-mouth",
@@ -582,13 +674,13 @@
           ]
         },
         "googleHours": [
-          "Sunday: Closed",
-          "Monday: 11:30 AM - 9:00 PM",
-          "Tuesday: 11:30 AM - 9:00 PM",
-          "Wednesday: 11:30 AM - 9:00 PM",
-          "Thursday: 11:30 AM - 9:00 PM",
-          "Friday: 11:30 AM - 9:00 PM",
-          "Saturday: Closed"
+          "Monday: 11:30 AM – 9:00 PM",
+          "Tuesday: 11:30 AM – 9:00 PM",
+          "Wednesday: 11:30 AM – 9:00 PM",
+          "Thursday: 11:30 AM – 9:00 PM",
+          "Friday: 11:30 AM – 9:00 PM",
+          "Saturday: Closed",
+          "Sunday: Closed"
         ]
       },
       "audiences": [],
@@ -617,7 +709,11 @@
       "mapUrl": "https://maps.google.com/?q=By+Word+of+Mouth+Big+Sky",
       "bookingUrl": null,
       "bookingLabel": null,
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJW9SnctMRUFMRMwSfMeN6mJ0",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "lunch-chet-s-bar-grill",
@@ -633,7 +729,15 @@
         "end": "14:30",
         "seasonal": null,
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 4:00 – 10:00 PM",
+          "Tuesday: 4:00 – 10:00 PM",
+          "Wednesday: 4:00 – 10:00 PM",
+          "Thursday: 4:00 – 10:00 PM",
+          "Friday: 4:00 – 10:00 PM",
+          "Saturday: 4:00 – 10:00 PM",
+          "Sunday: 4:00 – 10:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -662,7 +766,11 @@
       "mapUrl": "https://maps.google.com/?q=Chet%27s+Bar+and+Grill+Big+Sky",
       "bookingUrl": null,
       "bookingLabel": null,
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJwZ8lr6caUFMRnUUc-oR79FU",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "lunch-scissorbills-saloon",
@@ -678,7 +786,15 @@
         "end": "23:00",
         "seasonal": null,
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 11:00 AM – 12:00 AM",
+          "Tuesday: 11:00 AM – 12:00 AM",
+          "Wednesday: 11:00 AM – 12:00 AM",
+          "Thursday: 11:00 AM – 12:00 AM",
+          "Friday: 11:00 AM – 12:00 AM",
+          "Saturday: 11:00 AM – 12:00 AM",
+          "Sunday: 11:00 AM – 12:00 AM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -705,7 +821,11 @@
       "mapUrl": "https://maps.google.com/?q=Scissorbills+Saloon+Big+Sky",
       "bookingUrl": null,
       "bookingLabel": null,
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJhyKysNMNUFMRjOwzk2MH6bY",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "lunch-terrain-taco",
@@ -721,7 +841,15 @@
         "end": "22:00",
         "seasonal": null,
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 7:00 AM – 10:00 PM",
+          "Tuesday: 7:00 AM – 10:00 PM",
+          "Wednesday: 7:00 AM – 10:00 PM",
+          "Thursday: 7:00 AM – 10:00 PM",
+          "Friday: 7:00 AM – 10:00 PM",
+          "Saturday: 7:00 AM – 10:00 PM",
+          "Sunday: 7:00 AM – 10:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -749,7 +877,11 @@
       "mapUrl": "https://maps.google.com/?q=Terrain+Taco+Big+Sky",
       "bookingUrl": null,
       "bookingLabel": null,
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJpzKAc10RUFMRoCV4wJjXw_c",
+      "openNow": true,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "lunch-tips-up",
@@ -809,13 +941,13 @@
           ]
         },
         "googleHours": [
-          "Sunday: 11:00 AM - 9:00 PM",
-          "Monday: 3:00 PM - 10:00 PM",
-          "Tuesday: 3:00 PM - 10:00 PM",
-          "Wednesday: 3:00 PM - 10:00 PM",
-          "Thursday: 3:00 PM - 11:00 PM",
-          "Friday: 3:00 PM - 11:00 PM",
-          "Saturday: 3:00 PM - 11:00 PM"
+          "Monday: 3:00 – 10:00 PM",
+          "Tuesday: 3:00 – 10:00 PM",
+          "Wednesday: 3:00 – 10:00 PM",
+          "Thursday: 3:00 – 11:00 PM",
+          "Friday: 3:00 – 11:00 PM",
+          "Saturday: 3:00 – 11:00 PM",
+          "Sunday: 11:00 AM – 10:00 PM"
         ]
       },
       "audiences": [],
@@ -845,7 +977,11 @@
       "mapUrl": "https://maps.google.com/?q=Tips+Up+Bar+Big+Sky",
       "bookingUrl": null,
       "bookingLabel": null,
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJy7fdBIkRUFMRX4A5j0dm87s",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "dinner-alpenglow-bar",
@@ -905,13 +1041,13 @@
           ]
         },
         "googleHours": [
-          "Sunday: 11:00 AM - 11:00 PM",
-          "Monday: 11:00 AM - 11:00 PM",
-          "Tuesday: 11:00 AM - 11:00 PM",
-          "Wednesday: 11:00 AM - 11:00 PM",
-          "Thursday: 11:00 AM - 11:00 PM",
-          "Friday: 11:00 AM - 11:00 PM",
-          "Saturday: 11:00 AM - 11:00 PM"
+          "Monday: 11:00 AM – 11:00 PM",
+          "Tuesday: 11:00 AM – 11:00 PM",
+          "Wednesday: 11:00 AM – 11:00 PM",
+          "Thursday: 11:00 AM – 11:00 PM",
+          "Friday: 11:00 AM – 11:00 PM",
+          "Saturday: 11:00 AM – 11:00 PM",
+          "Sunday: 11:00 AM – 11:00 PM"
         ]
       },
       "audiences": [],
@@ -940,7 +1076,11 @@
       "mapUrl": "https://maps.google.com/?q=Alpenglow+Montage+Big+Sky",
       "bookingUrl": "https://www.opentable.com/r/alpenglow-at-montage-big-sky",
       "bookingLabel": "Reserve on OpenTable",
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJ-5XoBiEPUFMRhP1foPzrYRI",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "dinner-blend-big-sky",
@@ -984,7 +1124,11 @@
       "mapUrl": "https://maps.google.com/?q=Blend+Big+Sky",
       "bookingUrl": null,
       "bookingLabel": null,
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJt4cP4LgRUFMR8PhOYzvb08g",
+      "openNow": null,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "dinner-blue-buddha-sushi-lounge",
@@ -1000,7 +1144,15 @@
         "end": "21:00",
         "seasonal": null,
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: Closed",
+          "Tuesday: 5:00 – 9:00 PM",
+          "Wednesday: 5:00 – 9:00 PM",
+          "Thursday: 5:00 – 9:00 PM",
+          "Friday: 5:00 – 9:00 PM",
+          "Saturday: 5:00 – 9:00 PM",
+          "Sunday: Closed"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -1028,7 +1180,11 @@
       "mapUrl": "https://maps.google.com/?q=Blue+Buddha+Sushi+Big+Sky",
       "bookingUrl": null,
       "bookingLabel": null,
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJ9xyts6sRUFMRhTfUrkmAZHM",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "dinner-cabin-bar-grill",
@@ -1088,13 +1244,13 @@
           ]
         },
         "googleHours": [
-          "Sunday: 4:30 PM - 9:30 PM",
-          "Monday: 4:30 PM - 9:30 PM",
-          "Tuesday: 4:30 PM - 9:30 PM",
-          "Wednesday: 4:30 PM - 9:30 PM",
-          "Thursday: 4:30 PM - 9:30 PM",
-          "Friday: 4:30 PM - 9:30 PM",
-          "Saturday: 4:30 PM - 9:30 PM"
+          "Monday: 4:30 – 9:30 PM",
+          "Tuesday: 4:30 – 9:30 PM",
+          "Wednesday: 4:30 – 9:30 PM",
+          "Thursday: 4:30 – 9:30 PM",
+          "Friday: 4:30 – 9:30 PM",
+          "Saturday: 4:30 – 9:30 PM",
+          "Sunday: 4:30 – 9:30 PM"
         ]
       },
       "audiences": [],
@@ -1123,7 +1279,11 @@
       "mapUrl": "https://maps.google.com/?q=Cabin+Bar+and+Grill+Big+Sky",
       "bookingUrl": "https://www.opentable.com/r/cabin-bar-and-grill-big-sky-montana-big-sky",
       "bookingLabel": "Book on OpenTable",
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJpXcdNdINUFMR0bByIcfHrrA",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "dinner-copper-whiskey-bar-grill",
@@ -1167,7 +1327,11 @@
       "mapUrl": "https://maps.google.com/?q=Copper+Whiskey+Bar+Big+Sky",
       "bookingUrl": "https://www.opentable.com/r/copper-whiskey-bar-and-grill-big-sky",
       "bookingLabel": "Reserve on OpenTable",
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJsQLubfsRUFMRvt3A4jMs6vk",
+      "openNow": null,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "dinner-cortina",
@@ -1255,13 +1419,13 @@
           ]
         },
         "googleHours": [
-          "Sunday: 7:00 AM - 11:00 AM, 5:00 PM - 9:00 PM",
-          "Monday: 7:00 AM - 11:00 AM, 5:00 PM - 9:00 PM",
-          "Tuesday: 7:00 AM - 11:00 AM, 5:00 PM - 9:00 PM",
-          "Wednesday: 7:00 AM - 11:00 AM, 5:00 PM - 9:00 PM",
-          "Thursday: 7:00 AM - 11:00 AM, 5:00 PM - 9:00 PM",
-          "Friday: 7:00 AM - 11:00 AM, 5:00 PM - 9:00 PM",
-          "Saturday: 7:00 AM - 11:00 AM, 5:00 PM - 9:00 PM"
+          "Monday: 7:00 – 11:00 AM, 5:00 – 9:00 PM",
+          "Tuesday: 7:00 – 11:00 AM, 5:00 – 9:00 PM",
+          "Wednesday: 7:00 – 11:00 AM, 5:00 – 9:00 PM",
+          "Thursday: 7:00 – 11:00 AM, 5:00 – 9:00 PM",
+          "Friday: 7:00 – 11:00 AM, 5:00 – 9:00 PM",
+          "Saturday: 7:00 – 11:00 AM, 5:00 – 9:00 PM",
+          "Sunday: 7:00 – 11:00 AM, 5:00 – 9:00 PM"
         ]
       },
       "audiences": [],
@@ -1290,7 +1454,11 @@
       "mapUrl": "https://maps.google.com/?q=Cortina+Big+Sky",
       "bookingUrl": "https://www.opentable.com/r/cortina-big-sky",
       "bookingLabel": "Book on OpenTable",
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJ5-KPRQcOUFMRpSAf6FmknXg",
+      "openNow": true,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "dinner-everett-s-8800",
@@ -1306,7 +1474,15 @@
         "end": "21:00",
         "seasonal": "winter",
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 11:00 AM – 4:00 PM",
+          "Tuesday: 11:00 AM – 4:00 PM",
+          "Wednesday: 11:00 AM – 4:00 PM",
+          "Thursday: 11:00 AM – 4:00 PM",
+          "Friday: 11:00 AM – 4:00 PM",
+          "Saturday: 11:00 AM – 4:00 PM",
+          "Sunday: 11:00 AM – 4:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -1334,7 +1510,11 @@
       "mapUrl": "https://maps.google.com/?q=Everett%27s+8800+Big+Sky",
       "bookingUrl": "https://www.opentable.com/everetts-8800",
       "bookingLabel": "Reserve on OpenTable",
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJA7yXO9INUFMR4WyhEzlhbGw",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "dinner-horn-cantle",
@@ -1350,7 +1530,15 @@
         "end": "22:00",
         "seasonal": null,
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+          "Tuesday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+          "Wednesday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+          "Thursday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+          "Friday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+          "Saturday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+          "Sunday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -1377,7 +1565,11 @@
       "mapUrl": "https://maps.google.com/?q=Horn+and+Cantle+Big+Sky",
       "bookingUrl": "https://www.opentable.com/r/horn-and-cantle",
       "bookingLabel": "Book on OpenTable",
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJrU7eJ80PUFMRCKGojqHj3pc",
+      "openNow": true,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "dinner-m-by-the-alinea-group",
@@ -1393,7 +1585,15 @@
         "end": "22:00",
         "seasonal": "winter",
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 4:30 – 9:00 PM",
+          "Tuesday: 4:30 – 9:00 PM",
+          "Wednesday: 4:30 – 9:00 PM",
+          "Thursday: 4:30 – 9:00 PM",
+          "Friday: 4:30 – 9:00 PM",
+          "Saturday: 4:30 – 9:00 PM",
+          "Sunday: 4:30 – 9:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -1420,7 +1620,11 @@
       "mapUrl": "https://maps.google.com/?q=M+by+Alinea+Group+Big+Sky",
       "bookingUrl": "https://www.exploretock.com/m-by-the-alinea-group",
       "bookingLabel": "Reserve on Tock",
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJg-ZgzHQNUFMR53eVBSV18Rw",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "dinner-montana-jack",
@@ -1436,7 +1640,15 @@
         "end": "21:30",
         "seasonal": null,
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 11:00 AM – 10:00 PM",
+          "Tuesday: 11:00 AM – 10:00 PM",
+          "Wednesday: 11:00 AM – 10:00 PM",
+          "Thursday: 11:00 AM – 10:00 PM",
+          "Friday: 11:00 AM – 10:00 PM",
+          "Saturday: 11:00 AM – 10:00 PM",
+          "Sunday: 11:00 AM – 10:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -1464,7 +1676,11 @@
       "mapUrl": "https://maps.google.com/?q=Montana+Jack+Big+Sky",
       "bookingUrl": null,
       "bookingLabel": null,
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJY7YGRdINUFMRalf3F0mot0E",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "dinner-tres-toros-tacos-tequila",
@@ -1480,7 +1696,15 @@
         "end": "22:00",
         "seasonal": null,
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 3:00 – 10:00 PM",
+          "Tuesday: 3:00 – 10:00 PM",
+          "Wednesday: 3:00 – 10:00 PM",
+          "Thursday: Closed",
+          "Friday: 3:00 – 10:00 PM",
+          "Saturday: 3:00 – 10:00 PM",
+          "Sunday: 3:00 – 10:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -1508,7 +1732,11 @@
       "mapUrl": "https://maps.google.com/?q=Tres+Toros+Big+Sky",
       "bookingUrl": null,
       "bookingLabel": null,
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJ_WSd5h0RUFMRTaTd2iN8j1U",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "dinner-wild-caddis-at-rainbow-ranch",
@@ -1524,7 +1752,15 @@
         "end": "21:00",
         "seasonal": null,
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 4:00 – 9:00 PM",
+          "Tuesday: 4:00 – 9:00 PM",
+          "Wednesday: 4:00 – 9:00 PM",
+          "Thursday: 4:00 – 9:00 PM",
+          "Friday: 4:00 – 9:00 PM",
+          "Saturday: 4:00 – 9:00 PM",
+          "Sunday: 4:00 – 9:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -1552,7 +1788,11 @@
       "mapUrl": "https://maps.google.com/?q=Rainbow+Ranch+Lodge+Big+Sky",
       "bookingUrl": "https://www.opentable.com/r/wild-caddis-big-sky",
       "bookingLabel": "Reserve on OpenTable",
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJG3YOewAXUFMRB6TIJvmmuE8",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "activity-adventure-mountain",
@@ -1568,7 +1808,15 @@
         "end": "17:00",
         "seasonal": "summer",
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 9:00 AM – 6:00 PM",
+          "Tuesday: 9:00 AM – 6:00 PM",
+          "Wednesday: 9:00 AM – 6:00 PM",
+          "Thursday: 9:00 AM – 6:00 PM",
+          "Friday: 9:00 AM – 6:00 PM",
+          "Saturday: 9:00 AM – 6:00 PM",
+          "Sunday: 9:00 AM – 6:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -1594,7 +1842,11 @@
       "mapUrl": "https://maps.google.com/?q=Big+Sky+Resort+Mountain+Village+Plaza",
       "bookingUrl": "https://www.bigskyresort.com/summer-activities/adventure-mountain",
       "bookingLabel": "View activity details",
-      "isKidFriendly": true
+      "isKidFriendly": true,
+      "placeId": "ChIJ8wF9ECsMUFMRdCp4xP-nHoo",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "activity-beehive-basin",
@@ -1610,7 +1862,15 @@
         "end": "18:30",
         "seasonal": null,
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -1637,7 +1897,11 @@
       "mapUrl": "https://maps.google.com/?q=Beehive+Basin+Big+Sky",
       "bookingUrl": null,
       "bookingLabel": null,
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJWeSUmpYOUFMR40vKJ693Dmo",
+      "openNow": true,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "activity-big-sky-resort-golf-course",
@@ -1653,7 +1917,15 @@
         "end": "18:00",
         "seasonal": "summer",
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 9:30 AM – 5:00 PM",
+          "Tuesday: 9:30 AM – 5:00 PM",
+          "Wednesday: 9:30 AM – 5:00 PM",
+          "Thursday: 9:30 AM – 5:00 PM",
+          "Friday: 9:30 AM – 5:00 PM",
+          "Saturday: 9:30 AM – 5:00 PM",
+          "Sunday: 9:30 AM – 5:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -1680,7 +1952,11 @@
       "mapUrl": "https://maps.google.com/?q=Big+Sky+Resort+Golf+Course",
       "bookingUrl": "https://www.bigskyresort.com/summer-activities/golf",
       "bookingLabel": "Book tee times",
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJe1V51ycQUFMRP88FxGy2nY4",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "activity-big-sky-resort-mountain-biking",
@@ -1696,7 +1972,15 @@
         "end": "17:00",
         "seasonal": "summer",
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 9:00 AM – 6:00 PM",
+          "Tuesday: 9:00 AM – 6:00 PM",
+          "Wednesday: 9:00 AM – 6:00 PM",
+          "Thursday: 9:00 AM – 6:00 PM",
+          "Friday: 9:00 AM – 6:00 PM",
+          "Saturday: 9:00 AM – 6:00 PM",
+          "Sunday: 9:00 AM – 6:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -1723,7 +2007,11 @@
       "mapUrl": "https://maps.google.com/?q=Big+Sky+Resort+Mountain+Village",
       "bookingUrl": "https://www.bigskyresort.com/summer-activities/mountain-biking",
       "bookingLabel": "View bike park details",
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJ8wF9ECsMUFMRdCp4xP-nHoo",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "activity-big-sky-resort-scenic-lift-rides",
@@ -1767,7 +2055,11 @@
       "mapUrl": "https://maps.google.com/?q=Big+Sky+Resort+Mountain+Village",
       "bookingUrl": "https://www.bigskyresort.com/summer-activities",
       "bookingLabel": "View resort activities",
-      "isKidFriendly": true
+      "isKidFriendly": true,
+      "placeId": "ChIJjbpxQgANUFMRAUiw2EQjL9k",
+      "openNow": null,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "activity-big-sky-resort-ziplines",
@@ -1810,7 +2102,11 @@
       "mapUrl": "https://maps.google.com/?q=Big+Sky+Resort+Ziplines",
       "bookingUrl": "https://www.bigskyresort.com/summer-activities/ziplines",
       "bookingLabel": "Book zipline tours",
-      "isKidFriendly": true
+      "isKidFriendly": true,
+      "placeId": "ChIJ67mfOKYaUFMRHEQzcgMcqxg",
+      "openNow": null,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "activity-canyon-adventures-horseback-riding",
@@ -1826,7 +2122,15 @@
         "end": "17:00",
         "seasonal": "summer",
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 8:00 AM – 5:00 PM",
+          "Tuesday: 8:00 AM – 5:00 PM",
+          "Wednesday: 8:00 AM – 5:00 PM",
+          "Thursday: 8:00 AM – 5:00 PM",
+          "Friday: 8:00 AM – 5:00 PM",
+          "Saturday: 8:00 AM – 5:00 PM",
+          "Sunday: 8:00 AM – 5:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -1853,7 +2157,11 @@
       "mapUrl": "https://maps.google.com/?q=Canyon+Adventures+Big+Sky",
       "bookingUrl": null,
       "bookingLabel": null,
-      "isKidFriendly": true
+      "isKidFriendly": true,
+      "placeId": "ChIJZbFHqHYQUFMRFL7Pyts9pY0",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "activity-gallatin-river-guides",
@@ -1869,7 +2177,15 @@
         "end": "19:00",
         "seasonal": "summer",
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 8:00 AM – 6:00 PM",
+          "Tuesday: 8:00 AM – 6:00 PM",
+          "Wednesday: 8:00 AM – 6:00 PM",
+          "Thursday: 8:00 AM – 6:00 PM",
+          "Friday: 8:00 AM – 6:00 PM",
+          "Saturday: 8:00 AM – 6:00 PM",
+          "Sunday: 8:00 AM – 6:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -1896,7 +2212,11 @@
       "mapUrl": "https://maps.google.com/?q=Gallatin+River+Guides+Big+Sky",
       "bookingUrl": "https://www.montanaflyfishing.com/big-sky-mt-guided-fishing-trips",
       "bookingLabel": "Book a guided trip",
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJ2-B50QoQUFMR3YzlSZWKQhs",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "activity-lone-mountain-ranch-sleigh-ride-dinner",
@@ -1940,7 +2260,11 @@
       "mapUrl": "https://maps.google.com/?q=Lone+Mountain+Ranch+Big+Sky",
       "bookingUrl": "https://lonemountainranch.com/sleigh-ride-dinner/",
       "bookingLabel": "Reserve sleigh ride dinner",
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJgV11s8wPUFMRlpczqJZJMH0",
+      "openNow": null,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "activity-montana-whitewater",
@@ -1956,7 +2280,15 @@
         "end": "16:00",
         "seasonal": "summer",
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 8:00 AM – 8:00 PM",
+          "Tuesday: 8:00 AM – 8:00 PM",
+          "Wednesday: 8:00 AM – 8:00 PM",
+          "Thursday: 8:00 AM – 8:00 PM",
+          "Friday: 8:00 AM – 8:00 PM",
+          "Saturday: 8:00 AM – 8:00 PM",
+          "Sunday: 8:00 AM – 8:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -1982,7 +2314,11 @@
       "mapUrl": "https://maps.google.com/?q=Montana+Whitewater+Big+Sky",
       "bookingUrl": "https://montanawhitewater.com/",
       "bookingLabel": "Book a rafting trip",
-      "isKidFriendly": true
+      "isKidFriendly": true,
+      "placeId": "ChIJUdoMEHqqWlMRBWC-0FmyfJ8",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "activity-ousel-falls",
@@ -2027,7 +2363,11 @@
       "mapUrl": "https://maps.google.com/?q=Ousel+Falls+Big+Sky",
       "bookingUrl": null,
       "bookingLabel": null,
-      "isKidFriendly": true
+      "isKidFriendly": true,
+      "placeId": "ChIJz-fIY-YRUFMRwVZo3WbuWsk",
+      "openNow": null,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "activity-solace-spa-recovery-lounge",
@@ -2043,7 +2383,15 @@
         "end": "19:00",
         "seasonal": null,
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: Closed",
+          "Tuesday: 10:30 AM – 7:00 PM",
+          "Wednesday: 10:30 AM – 7:00 PM",
+          "Thursday: 10:30 AM – 7:00 PM",
+          "Friday: 10:30 AM – 7:00 PM",
+          "Saturday: 10:30 AM – 7:00 PM",
+          "Sunday: Closed"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -2070,7 +2418,11 @@
       "mapUrl": "https://maps.google.com/?q=Solace+Spa+Big+Sky+Resort",
       "bookingUrl": "https://www.bigskyresort.com/solace-spa",
       "bookingLabel": "Book a treatment",
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJj29J4tINUFMRKuSKxy2uP_M",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "activity-spa-montage",
@@ -2086,7 +2438,15 @@
         "end": "19:00",
         "seasonal": null,
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 8:00 AM – 6:00 PM",
+          "Tuesday: 8:00 AM – 6:00 PM",
+          "Wednesday: 8:00 AM – 6:00 PM",
+          "Thursday: 8:00 AM – 6:00 PM",
+          "Friday: 8:00 AM – 6:00 PM",
+          "Saturday: 8:00 AM – 6:00 PM",
+          "Sunday: 8:00 AM – 6:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -2113,7 +2473,11 @@
       "mapUrl": "https://maps.google.com/?q=Spa+Montage+Big+Sky",
       "bookingUrl": "https://www.montage.com/bigsky/spa/",
       "bookingLabel": "Book at Spa Montage",
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJR76qui0PUFMRc57SYm4RLLE",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "activity-warren-miller-performing-arts-center",
@@ -2129,7 +2493,15 @@
         "end": null,
         "seasonal": null,
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: Closed",
+          "Tuesday: Closed",
+          "Wednesday: Closed",
+          "Thursday: Closed",
+          "Friday: Closed",
+          "Saturday: 7:00 – 10:00 PM",
+          "Sunday: Closed"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -2158,7 +2530,11 @@
       "mapUrl": "https://maps.google.com/?q=Warren+Miller+Performing+Arts+Center+Big+Sky",
       "bookingUrl": null,
       "bookingLabel": null,
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJczqB_40QUFMRVgKhO1VS2Bo",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "activity-yellowstone-national-park-day-tour",
@@ -2174,7 +2550,15 @@
         "end": "19:00",
         "seasonal": null,
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -2200,7 +2584,11 @@
       "mapUrl": null,
       "bookingUrl": "https://yellowstonesafari.com/yellowstone-tours-from-big-sky/",
       "bookingLabel": "Book a Yellowstone tour",
-      "isKidFriendly": true
+      "isKidFriendly": true,
+      "placeId": "ChIJVVVVVVXlUVMRu-GPNDD5qKw",
+      "openNow": true,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "kids-adventure-mountain",
@@ -2216,7 +2604,15 @@
         "end": "17:00",
         "seasonal": "summer",
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 9:00 AM – 6:00 PM",
+          "Tuesday: 9:00 AM – 6:00 PM",
+          "Wednesday: 9:00 AM – 6:00 PM",
+          "Thursday: 9:00 AM – 6:00 PM",
+          "Friday: 9:00 AM – 6:00 PM",
+          "Saturday: 9:00 AM – 6:00 PM",
+          "Sunday: 9:00 AM – 6:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -2242,7 +2638,11 @@
       "mapUrl": "https://maps.google.com/?q=Big+Sky+Resort+Mountain+Village+Plaza",
       "bookingUrl": "https://www.bigskyresort.com/summer-activities/adventure-mountain",
       "bookingLabel": "View activity details",
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJ8wF9ECsMUFMRdCp4xP-nHoo",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "kids-big-sky-community-park",
@@ -2258,7 +2658,15 @@
         "end": "20:00",
         "seasonal": null,
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 8:00 AM – 10:00 PM",
+          "Tuesday: 8:00 AM – 10:00 PM",
+          "Wednesday: 8:00 AM – 10:00 PM",
+          "Thursday: 8:00 AM – 10:00 PM",
+          "Friday: 8:00 AM – 10:00 PM",
+          "Saturday: 8:00 AM – 10:00 PM",
+          "Sunday: 8:00 AM – 10:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -2284,7 +2692,11 @@
       "mapUrl": "https://maps.google.com/?q=Big+Sky+Community+Park",
       "bookingUrl": null,
       "bookingLabel": null,
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJ0why6d8PUFMRUwD4fxQgMck",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "kids-big-sky-resort-ziplines",
@@ -2327,7 +2739,11 @@
       "mapUrl": "https://maps.google.com/?q=Big+Sky+Resort+Ziplines",
       "bookingUrl": "https://www.bigskyresort.com/summer-activities/ziplines",
       "bookingLabel": "Book zipline tours",
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJ67mfOKYaUFMRHEQzcgMcqxg",
+      "openNow": null,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "kids-canyon-adventures-horseback-riding",
@@ -2343,7 +2759,15 @@
         "end": "17:00",
         "seasonal": "summer",
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 8:00 AM – 5:00 PM",
+          "Tuesday: 8:00 AM – 5:00 PM",
+          "Wednesday: 8:00 AM – 5:00 PM",
+          "Thursday: 8:00 AM – 5:00 PM",
+          "Friday: 8:00 AM – 5:00 PM",
+          "Saturday: 8:00 AM – 5:00 PM",
+          "Sunday: 8:00 AM – 5:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -2370,7 +2794,11 @@
       "mapUrl": "https://maps.google.com/?q=Canyon+Adventures+Big+Sky",
       "bookingUrl": null,
       "bookingLabel": null,
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJZbFHqHYQUFMRFL7Pyts9pY0",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "kids-montana-whitewater",
@@ -2386,7 +2814,15 @@
         "end": "16:00",
         "seasonal": "summer",
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 8:00 AM – 8:00 PM",
+          "Tuesday: 8:00 AM – 8:00 PM",
+          "Wednesday: 8:00 AM – 8:00 PM",
+          "Thursday: 8:00 AM – 8:00 PM",
+          "Friday: 8:00 AM – 8:00 PM",
+          "Saturday: 8:00 AM – 8:00 PM",
+          "Sunday: 8:00 AM – 8:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -2412,7 +2848,11 @@
       "mapUrl": "https://maps.google.com/?q=Montana+Whitewater+Big+Sky",
       "bookingUrl": "https://montanawhitewater.com/",
       "bookingLabel": "Book a rafting trip",
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJUdoMEHqqWlMRBWC-0FmyfJ8",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "kids-ousel-falls",
@@ -2456,7 +2896,11 @@
       "mapUrl": "https://maps.google.com/?q=Ousel+Falls+Big+Sky",
       "bookingUrl": null,
       "bookingLabel": null,
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJz-fIY-YRUFMRwVZo3WbuWsk",
+      "openNow": null,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "kids-yellowstone-national-park-day-tour",
@@ -2472,7 +2916,15 @@
         "end": "19:00",
         "seasonal": null,
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -2497,7 +2949,11 @@
       "mapUrl": null,
       "bookingUrl": "https://yellowstonesafari.com/yellowstone-tours-from-big-sky/",
       "bookingLabel": "Book a Yellowstone tour",
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJVVVVVVXlUVMRu-GPNDD5qKw",
+      "openNow": true,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     },
     {
       "id": "dinner-the-waypoint",
@@ -2513,7 +2969,15 @@
         "end": "22:00",
         "seasonal": null,
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 4:00 PM – 12:00 AM",
+          "Tuesday: 4:00 PM – 12:00 AM",
+          "Wednesday: 4:00 PM – 12:00 AM",
+          "Thursday: 4:00 PM – 12:00 AM",
+          "Friday: 4:00 PM – 12:00 AM",
+          "Saturday: 4:00 PM – 12:00 AM",
+          "Sunday: 4:00 PM – 12:00 AM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -2541,7 +3005,11 @@
       "mapUrl": "https://maps.google.com/?q=50+Ousel+Falls+Road+Big+Sky+MT+59716",
       "bookingUrl": "https://thebigskywaypoint.com/dining-old",
       "bookingLabel": "View dining details",
-      "isKidFriendly": false
+      "isKidFriendly": false,
+      "placeId": "ChIJ5yF1pgURUFMRrQCpmM6-o1Y",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursStatus": "fresh"
     }
   ],
   "deals": [
@@ -2617,5 +3085,7 @@
       "Rewrote obvious hotel-specific copy to destination-neutral language.",
       "Removed front-desk fallback from transport actions."
     ]
-  }
+  },
+  "version": "2026-04-02T13:20:21.937Z",
+  "publishedAt": "2026-04-02T13:20:21.937Z"
 }
