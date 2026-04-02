@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-04-02T08:11:39.413Z",
+  "generatedAt": "2026-04-02T09:16:18.774Z",
   "sourceGeneratedAt": "2026-04-02T08:11:14.0595745Z",
   "filters": {
     "vibes": [
@@ -2498,9 +2498,70 @@
       "bookingUrl": "https://yellowstonesafari.com/yellowstone-tours-from-big-sky/",
       "bookingLabel": "Book a Yellowstone tour",
       "isKidFriendly": false
+    },
+    {
+      "id": "dinner-the-waypoint",
+      "category": "dinner",
+      "name": "The Waypoint",
+      "area": "Town Center",
+      "address": "50 Ousel Falls Rd, Big Sky, MT 59716",
+      "summary": "Cinema, bar, and dinner stop in Town Center with a stronger Sunday night value play if you want to pair dinner with a movie.",
+      "hoursText": "Daily 4:00 PM - Close",
+      "availability": {
+        "kind": "daily",
+        "start": "16:00",
+        "end": "22:00",
+        "seasonal": null,
+        "weeklyHours": null,
+        "googleHours": null
+      },
+      "audiences": [],
+      "vibes": [
+        "Local",
+        "Cozy",
+        "Adventure"
+      ],
+      "priceTiers": [
+        "$$",
+        "$$$",
+        "Flexible"
+      ],
+      "durations": [
+        "Half day",
+        "1 day"
+      ],
+      "tags": [
+        "Dinner",
+        "Movies",
+        "Town Center"
+      ],
+      "focusAreas": [
+        "Dinner"
+      ],
+      "mapUrl": "https://maps.google.com/?q=50+Ousel+Falls+Road+Big+Sky+MT+59716",
+      "bookingUrl": "https://thebigskywaypoint.com/dining-old",
+      "bookingLabel": "View dining details",
+      "isKidFriendly": false
     }
   ],
-  "deals": [],
+  "deals": [
+    {
+      "id": "deal-by-word-of-mouth-burger-combo",
+      "name": "By Word of Mouth",
+      "time": "Daily 3:30 PM - 5:30 PM",
+      "description": "Happy hour combo: MAP Party Lager, pineapple shot, and the BYWOM burger for $19.",
+      "mapUrl": "https://maps.google.com/?q=By+Word+of+Mouth+Big+Sky",
+      "bookingUrl": "https://www.bywombywordofmouth.com/"
+    },
+    {
+      "id": "deal-the-waypoint-dinner-and-a-movie",
+      "name": "The Waypoint",
+      "time": "Sundays 4:00 PM - Close",
+      "description": "Dinner and a Movie Sundays: one free movie ticket and one small concession drink per entree ordered.",
+      "mapUrl": "https://maps.google.com/?q=50+Ousel+Falls+Road+Big+Sky+MT+59716",
+      "bookingUrl": "https://thebigskywaypoint.com/dining-old"
+    }
+  ],
   "transport": {
     "local": [
       {
@@ -2542,8 +2603,8 @@
           "url": "https://yellowstonelimousine.com"
         },
         "secondaryAction": {
-          "label": "App Support",
-          "url": "tel:+14065891450"
+          "label": "Reach Out",
+          "url": "sms:+19177158126"
         }
       }
     ]
