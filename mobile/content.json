@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-04-02T13:20:21.937Z",
+  "generatedAt": "2026-04-06T08:33:40.711Z",
   "sourceGeneratedAt": "2026-04-02T08:11:14.0595745Z",
   "filters": {
     "vibes": [
@@ -41,8 +41,8 @@
       "hoursText": "Daily 8:00 AM - 9:00 PM",
       "availability": {
         "kind": "daily",
-        "start": "07:00",
-        "end": "14:00",
+        "start": "08:00",
+        "end": "11:30",
         "seasonal": null,
         "weeklyHours": null,
         "googleHours": [
@@ -86,7 +86,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJNfEVW9MRUFMR1HKGZpnaUcM",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -141,8 +141,64 @@
       "bookingLabel": null,
       "isKidFriendly": false,
       "placeId": "ChIJmYaKNC4bUFMRCc32RbR7nPs",
-      "openNow": true,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
+      "hoursStatus": "fresh"
+    },
+    {
+      "id": "lunch-cafe-191",
+      "category": "lunch",
+      "name": "Cafe 191",
+      "area": "Gallatin Canyon",
+      "address": "47995 Gallatin Rd Suite 101, Big Sky, MT 59716",
+      "summary": "Reliable roadside lunch stop on 191 with burgers, sandwiches, and an easy sit-down option when you are heading in or out of Big Sky. Lunch service starts at 11:00 AM.",
+      "hoursText": "Daily 6:00 AM - 3:00 PM / Lunch starts at 11:00 AM",
+      "availability": {
+        "kind": "daily",
+        "start": "11:00",
+        "end": "15:00",
+        "seasonal": null,
+        "weeklyHours": null,
+        "googleHours": [
+          "Monday: 6:00 AM – 3:00 PM",
+          "Tuesday: 6:00 AM – 3:00 PM",
+          "Wednesday: 6:00 AM – 3:00 PM",
+          "Thursday: 6:00 AM – 3:00 PM",
+          "Friday: 6:00 AM – 3:00 PM",
+          "Saturday: 6:00 AM – 3:00 PM",
+          "Sunday: 6:00 AM – 3:00 PM"
+        ]
+      },
+      "audiences": [],
+      "vibes": [
+        "Local",
+        "Family",
+        "Cozy"
+      ],
+      "priceTiers": [
+        "$",
+        "$$",
+        "Flexible"
+      ],
+      "durations": [
+        "Half day",
+        "1 day"
+      ],
+      "tags": [
+        "Lunch",
+        "Casual",
+        "Strong coffee"
+      ],
+      "focusAreas": [
+        "Lunch"
+      ],
+      "mapUrl": "https://maps.google.com/?q=Cafe+191+Big+Sky",
+      "bookingUrl": null,
+      "bookingLabel": null,
+      "isKidFriendly": false,
+      "placeId": "ChIJmYaKNC4bUFMRCc32RbR7nPs",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -196,8 +252,8 @@
       "bookingLabel": null,
       "isKidFriendly": false,
       "placeId": "ChIJ0Q-jNnoQUFMRy-ZW818rJCU",
-      "openNow": true,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -211,7 +267,7 @@
       "availability": {
         "kind": "daily",
         "start": "06:00",
-        "end": "18:00",
+        "end": "11:30",
         "seasonal": null,
         "weeklyHours": null,
         "googleHours": [
@@ -253,8 +309,8 @@
       "bookingLabel": null,
       "isKidFriendly": false,
       "placeId": "ChIJLTlj4cYRUFMR2Qn9GMPcp9o",
-      "openNow": true,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -267,8 +323,8 @@
       "hoursText": "Wed - Sun 10:30 AM - 9:00 PM",
       "availability": {
         "kind": "daily",
-        "start": "07:00",
-        "end": "11:30",
+        "start": "10:30",
+        "end": "12:30",
         "seasonal": null,
         "weeklyHours": null,
         "googleHours": [
@@ -311,7 +367,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJSQh_qjsXUFMRET7aiuuxyOA",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -320,8 +376,8 @@
       "name": "Unravel Coffee + Bar",
       "area": "Town Center",
       "address": "88 Big Pine Dr, Big Sky, MT 59716",
-      "summary": "Inside Gravity Haus - single-origin espresso and a proper breakfast. The patio opens when the weather's right. Same space turns into a full bar at night.",
-      "hoursText": "Daily 7:00 AM - 8:00 PM",
+      "summary": "Inside Gravity Haus - coffee service runs through the day, but breakfast service is a morning window before the space shifts toward tacos and bar service later on.",
+      "hoursText": "Coffee daily 7:00 AM - 8:00 PM / Breakfast 7:00 - 11:00 AM",
       "availability": {
         "kind": "daily",
         "start": "07:00",
@@ -369,7 +425,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJ58RbNq4RUFMRLfHRDWjMRXY",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -383,49 +439,49 @@
       "availability": {
         "kind": "daily",
         "start": "06:00",
-        "end": "18:00",
+        "end": "11:30",
         "seasonal": null,
         "weeklyHours": {
           "0": [
             [
               "06:00",
-              "18:00"
+              "11:30"
             ]
           ],
           "1": [
             [
               "06:00",
-              "18:00"
+              "11:30"
             ]
           ],
           "2": [
             [
               "06:00",
-              "18:00"
+              "11:30"
             ]
           ],
           "3": [
             [
               "06:00",
-              "18:00"
+              "11:30"
             ]
           ],
           "4": [
             [
               "06:00",
-              "18:00"
+              "11:30"
             ]
           ],
           "5": [
             [
               "06:00",
-              "18:00"
+              "11:30"
             ]
           ],
           "6": [
             [
               "06:00",
-              "18:00"
+              "11:30"
             ]
           ]
         },
@@ -468,8 +524,8 @@
       "bookingLabel": null,
       "isKidFriendly": false,
       "placeId": "ChIJiT90_xIPUFMR392Eo52hGKA",
-      "openNow": true,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -568,64 +624,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJ5-KPRQcOUFMRO51rRSPxal8",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
-      "hoursStatus": "fresh"
-    },
-    {
-      "id": "lunch-beehive-basin-brewery",
-      "category": "lunch",
-      "name": "Beehive Basin Brewery",
-      "area": "Town Center",
-      "address": "245 Town Center Ave, Big Sky, MT 59716",
-      "summary": "Big Sky's local craft brewery with year-round staples and rotating seasonal taps. Neighborhood taproom feel, outdoor seating. Good stop when guests want to drink something made here.",
-      "hoursText": "Daily 12:00 PM - 10:00 PM",
-      "availability": {
-        "kind": "daily",
-        "start": "12:00",
-        "end": "22:00",
-        "seasonal": null,
-        "weeklyHours": null,
-        "googleHours": [
-          "Monday: 12:00 – 10:00 PM",
-          "Tuesday: 12:00 – 10:00 PM",
-          "Wednesday: 12:00 – 10:00 PM",
-          "Thursday: 12:00 – 10:00 PM",
-          "Friday: 12:00 – 10:00 PM",
-          "Saturday: 12:00 – 10:00 PM",
-          "Sunday: 12:00 – 10:00 PM"
-        ]
-      },
-      "audiences": [],
-      "vibes": [
-        "Local",
-        "Cozy",
-        "Family"
-      ],
-      "priceTiers": [
-        "$",
-        "$$",
-        "Flexible"
-      ],
-      "durations": [
-        "Half day",
-        "1 day",
-        "Weekend"
-      ],
-      "tags": [
-        "Brewery",
-        "Local",
-        "Outdoor seating"
-      ],
-      "focusAreas": [
-        "Lunch"
-      ],
-      "mapUrl": "https://maps.google.com/?q=Beehive+Basin+Brewery+Big+Sky",
-      "bookingUrl": null,
-      "bookingLabel": null,
-      "isKidFriendly": false,
-      "placeId": "ChIJHx24WC4QUFMRp8STAlL4T7o",
-      "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -712,7 +711,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJW9SnctMRUFMRMwSfMeN6mJ0",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -769,7 +768,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJwZ8lr6caUFMRnUUc-oR79FU",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -824,7 +823,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJhyKysNMNUFMRjOwzk2MH6bY",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -834,10 +833,10 @@
       "area": "Town Center",
       "address": "88 Big Pine Dr, Big Sky, MT 59716",
       "summary": "Tacos and margaritas inside Gravity Haus with a patio when the weather's right. Locally sourced proteins, creative fillings - a solid lunch especially after a morning on the mountain.",
-      "hoursText": "Daily 11:00 AM - 10:00 PM",
+      "hoursText": "Daily 11:30 AM - 10:00 PM",
       "availability": {
         "kind": "daily",
-        "start": "11:00",
+        "start": "11:30",
         "end": "22:00",
         "seasonal": null,
         "weeklyHours": null,
@@ -879,27 +878,27 @@
       "bookingLabel": null,
       "isKidFriendly": false,
       "placeId": "ChIJpzKAc10RUFMRoCV4wJjXw_c",
-      "openNow": true,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
-      "id": "lunch-tips-up",
-      "category": "lunch",
+      "id": "dinner-tips-up",
+      "category": "dinner",
       "name": "Tips Up",
       "area": "Town Center",
       "address": "76 Town Center Ave, Big Sky, MT 59716",
       "summary": "Big Sky's social hub - cold beers, burgers, live music, pool tables, and cornhole outside. The right call for casual groups where afternoon drinks tend to turn into an evening.",
-      "hoursText": "Sun 11:00 AM - 9:00 PM / Mon - Wed 3:00 - 10:00 PM / Thu - Sat 3:00 - 11:00 PM",
+      "hoursText": "Sun food 12:00 PM - 9:00 PM / Mon - Wed 3:00 - 10:00 PM / Thu - Sat 3:00 - 11:00 PM",
       "availability": {
         "kind": "daily",
-        "start": "11:00",
+        "start": "15:00",
         "end": "23:00",
         "seasonal": null,
         "weeklyHours": {
           "0": [
             [
-              "11:00",
+              "12:00",
               "21:00"
             ]
           ],
@@ -945,9 +944,9 @@
           "Tuesday: 3:00 – 10:00 PM",
           "Wednesday: 3:00 – 10:00 PM",
           "Thursday: 3:00 – 11:00 PM",
-          "Friday: 3:00 – 11:00 PM",
-          "Saturday: 3:00 – 11:00 PM",
-          "Sunday: 11:00 AM – 10:00 PM"
+          "Friday: 3:00 PM – 12:00 AM",
+          "Saturday: 3:00 PM – 12:00 AM",
+          "Sunday: 3:00 – 10:00 PM"
         ]
       },
       "audiences": [],
@@ -972,7 +971,7 @@
         "Casual"
       ],
       "focusAreas": [
-        "Lunch"
+        "Dinner"
       ],
       "mapUrl": "https://maps.google.com/?q=Tips+Up+Bar+Big+Sky",
       "bookingUrl": null,
@@ -980,7 +979,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJy7fdBIkRUFMRX4A5j0dm87s",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1079,7 +1078,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJ-5XoBiEPUFMRhP1foPzrYRI",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1127,7 +1126,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJt4cP4LgRUFMR8PhOYzvb08g",
       "openNow": null,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1183,7 +1182,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJ9xyts6sRUFMRhTfUrkmAZHM",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1282,7 +1281,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJpXcdNdINUFMR0bByIcfHrrA",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1330,7 +1329,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJsQLubfsRUFMRvt3A4jMs6vk",
       "openNow": null,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1456,8 +1455,8 @@
       "bookingLabel": "Book on OpenTable",
       "isKidFriendly": false,
       "placeId": "ChIJ5-KPRQcOUFMRpSAf6FmknXg",
-      "openNow": true,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1513,7 +1512,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJA7yXO9INUFMR4WyhEzlhbGw",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1567,8 +1566,8 @@
       "bookingLabel": "Book on OpenTable",
       "isKidFriendly": false,
       "placeId": "ChIJrU7eJ80PUFMRCKGojqHj3pc",
-      "openNow": true,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1585,15 +1584,7 @@
         "end": "22:00",
         "seasonal": "winter",
         "weeklyHours": null,
-        "googleHours": [
-          "Monday: 4:30 – 9:00 PM",
-          "Tuesday: 4:30 – 9:00 PM",
-          "Wednesday: 4:30 – 9:00 PM",
-          "Thursday: 4:30 – 9:00 PM",
-          "Friday: 4:30 – 9:00 PM",
-          "Saturday: 4:30 – 9:00 PM",
-          "Sunday: 4:30 – 9:00 PM"
-        ]
+        "googleHours": null
       },
       "audiences": [],
       "vibes": [
@@ -1622,8 +1613,8 @@
       "bookingLabel": "Reserve on Tock",
       "isKidFriendly": false,
       "placeId": "ChIJg-ZgzHQNUFMR53eVBSV18Rw",
-      "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "openNow": null,
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1679,7 +1670,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJY7YGRdINUFMRalf3F0mot0E",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1735,7 +1726,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJ_WSd5h0RUFMRTaTd2iN8j1U",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1791,7 +1782,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJG3YOewAXUFMRB6TIJvmmuE8",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1804,8 +1795,8 @@
       "hoursText": "Daily 11:00 AM - 4:00 PM (summer seasonal)",
       "availability": {
         "kind": "daily",
-        "start": "10:00",
-        "end": "17:00",
+        "start": "11:00",
+        "end": "16:00",
         "seasonal": "summer",
         "weeklyHours": null,
         "googleHours": [
@@ -1845,7 +1836,7 @@
       "isKidFriendly": true,
       "placeId": "ChIJ8wF9ECsMUFMRdCp4xP-nHoo",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1900,7 +1891,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJWeSUmpYOUFMR40vKJ693Dmo",
       "openNow": true,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1955,7 +1946,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJe1V51ycQUFMRP88FxGy2nY4",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2010,7 +2001,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJ8wF9ECsMUFMRdCp4xP-nHoo",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2027,7 +2018,15 @@
         "end": "17:00",
         "seasonal": "summer",
         "weeklyHours": null,
-        "googleHours": null
+        "googleHours": [
+          "Monday: 9:00 AM – 6:00 PM",
+          "Tuesday: 9:00 AM – 6:00 PM",
+          "Wednesday: 9:00 AM – 6:00 PM",
+          "Thursday: 9:00 AM – 6:00 PM",
+          "Friday: 9:00 AM – 6:00 PM",
+          "Saturday: 9:00 AM – 6:00 PM",
+          "Sunday: 9:00 AM – 6:00 PM"
+        ]
       },
       "audiences": [],
       "vibes": [
@@ -2056,9 +2055,9 @@
       "bookingUrl": "https://www.bigskyresort.com/summer-activities",
       "bookingLabel": "View resort activities",
       "isKidFriendly": true,
-      "placeId": "ChIJjbpxQgANUFMRAUiw2EQjL9k",
-      "openNow": null,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "placeId": "ChIJ8wF9ECsMUFMRdCp4xP-nHoo",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2105,7 +2104,7 @@
       "isKidFriendly": true,
       "placeId": "ChIJ67mfOKYaUFMRHEQzcgMcqxg",
       "openNow": null,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2160,7 +2159,7 @@
       "isKidFriendly": true,
       "placeId": "ChIJZbFHqHYQUFMRFL7Pyts9pY0",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2215,7 +2214,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJ2-B50QoQUFMR3YzlSZWKQhs",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2263,7 +2262,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJgV11s8wPUFMRlpczqJZJMH0",
       "openNow": null,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2317,7 +2316,7 @@
       "isKidFriendly": true,
       "placeId": "ChIJUdoMEHqqWlMRBWC-0FmyfJ8",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2366,7 +2365,7 @@
       "isKidFriendly": true,
       "placeId": "ChIJz-fIY-YRUFMRwVZo3WbuWsk",
       "openNow": null,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2421,7 +2420,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJj29J4tINUFMRKuSKxy2uP_M",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2476,7 +2475,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJR76qui0PUFMRc57SYm4RLLE",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2533,7 +2532,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJczqB_40QUFMRVgKhO1VS2Bo",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2551,13 +2550,13 @@
         "seasonal": null,
         "weeklyHours": null,
         "googleHours": [
-          "Monday: Open 24 hours",
-          "Tuesday: Open 24 hours",
-          "Wednesday: Open 24 hours",
-          "Thursday: Open 24 hours",
-          "Friday: Open 24 hours",
-          "Saturday: Open 24 hours",
-          "Sunday: Open 24 hours"
+          "Monday: 8:00 AM – 5:00 PM",
+          "Tuesday: 8:00 AM – 5:00 PM",
+          "Wednesday: 8:00 AM – 5:00 PM",
+          "Thursday: 8:00 AM – 5:00 PM",
+          "Friday: 8:00 AM – 5:00 PM",
+          "Saturday: 8:00 AM – 5:00 PM",
+          "Sunday: 8:00 AM – 5:00 PM"
         ]
       },
       "audiences": [],
@@ -2585,9 +2584,9 @@
       "bookingUrl": "https://yellowstonesafari.com/yellowstone-tours-from-big-sky/",
       "bookingLabel": "Book a Yellowstone tour",
       "isKidFriendly": true,
-      "placeId": "ChIJVVVVVVXlUVMRu-GPNDD5qKw",
-      "openNow": true,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "placeId": "ChIJEy43x5W5UVMRoG72Np1tT-8",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2641,7 +2640,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJ8wF9ECsMUFMRdCp4xP-nHoo",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2695,7 +2694,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJ0why6d8PUFMRUwD4fxQgMck",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2742,7 +2741,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJ67mfOKYaUFMRHEQzcgMcqxg",
       "openNow": null,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2797,7 +2796,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJZbFHqHYQUFMRFL7Pyts9pY0",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2851,7 +2850,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJUdoMEHqqWlMRBWC-0FmyfJ8",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2899,7 +2898,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJz-fIY-YRUFMRwVZo3WbuWsk",
       "openNow": null,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2917,13 +2916,13 @@
         "seasonal": null,
         "weeklyHours": null,
         "googleHours": [
-          "Monday: Open 24 hours",
-          "Tuesday: Open 24 hours",
-          "Wednesday: Open 24 hours",
-          "Thursday: Open 24 hours",
-          "Friday: Open 24 hours",
-          "Saturday: Open 24 hours",
-          "Sunday: Open 24 hours"
+          "Monday: 8:00 AM – 5:00 PM",
+          "Tuesday: 8:00 AM – 5:00 PM",
+          "Wednesday: 8:00 AM – 5:00 PM",
+          "Thursday: 8:00 AM – 5:00 PM",
+          "Friday: 8:00 AM – 5:00 PM",
+          "Saturday: 8:00 AM – 5:00 PM",
+          "Sunday: 8:00 AM – 5:00 PM"
         ]
       },
       "audiences": [],
@@ -2950,9 +2949,9 @@
       "bookingUrl": "https://yellowstonesafari.com/yellowstone-tours-from-big-sky/",
       "bookingLabel": "Book a Yellowstone tour",
       "isKidFriendly": false,
-      "placeId": "ChIJVVVVVVXlUVMRu-GPNDD5qKw",
-      "openNow": true,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "placeId": "ChIJEy43x5W5UVMRoG72Np1tT-8",
+      "openNow": false,
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     },
     {
@@ -3008,7 +3007,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJ5yF1pgURUFMRrQCpmM6-o1Y",
       "openNow": false,
-      "hoursFetchedAt": "2026-04-02T13:20:21.937Z",
+      "hoursFetchedAt": "2026-04-06T08:33:40.711Z",
       "hoursStatus": "fresh"
     }
   ],
@@ -3086,6 +3085,6 @@
       "Removed front-desk fallback from transport actions."
     ]
   },
-  "version": "2026-04-02T13:20:21.937Z",
-  "publishedAt": "2026-04-02T13:20:21.937Z"
+  "version": "2026-04-06T08:33:40.711Z",
+  "publishedAt": "2026-04-06T08:33:40.711Z"
 }
