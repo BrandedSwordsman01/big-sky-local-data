@@ -78,7 +78,7 @@
         "placeId": "ChIJWSsU1AARUFMRRVOd4Y2qarA",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -134,8 +134,8 @@
           "Saturday: 8:00 AM – 9:00 PM",
           "Sunday: 8:00 AM – 9:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -189,8 +189,8 @@
           "Saturday: 10:30 AM – 9:00 PM",
           "Sunday: 10:30 AM – 9:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -246,7 +246,7 @@
           "Sunday: 6:00 AM – 6:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -302,8 +302,8 @@
           "Saturday: 7:30 AM – 8:00 PM",
           "Sunday: 7:30 AM – 8:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -359,7 +359,7 @@
           "Sunday: 6:00 AM – 6:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       }
     ],
@@ -415,8 +415,8 @@
           "Saturday: Closed",
           "Sunday: Closed"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -470,8 +470,8 @@
           "Saturday: 4:00 – 10:00 PM",
           "Sunday: 4:00 – 10:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -527,8 +527,8 @@
           "Saturday: 4:30 – 9:30 PM",
           "Sunday: 4:30 – 9:30 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -582,8 +582,8 @@
           "Saturday: 7:00 AM – 10:00 PM",
           "Sunday: 7:00 AM – 10:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -637,8 +637,8 @@
           "Saturday: 3:00 PM – 12:00 AM",
           "Sunday: 3:00 – 10:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -692,8 +692,8 @@
           "Saturday: 12:00 – 10:00 PM",
           "Sunday: 12:00 – 10:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -745,8 +745,8 @@
           "Saturday: 11:00 AM – 12:00 AM",
           "Sunday: 11:00 AM – 12:00 AM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -801,8 +801,8 @@
           "Saturday: 12:00 – 9:00 PM",
           "Sunday: 12:00 – 9:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       }
     ],
@@ -863,7 +863,7 @@
           "Sunday: 5:00 – 9:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -918,7 +918,7 @@
           "Sunday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -974,7 +974,7 @@
           "Sunday: 7:00 – 11:00 AM, 5:00 – 9:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1028,8 +1028,8 @@
           "Saturday: 11:00 AM – 10:00 PM",
           "Sunday: 11:00 AM – 10:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1084,8 +1084,8 @@
           "Saturday: 4:00 – 9:00 PM",
           "Sunday: 4:00 – 9:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1133,7 +1133,7 @@
         "placeId": "ChIJg-ZgzHQNUFMR53eVBSV18Rw",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1190,7 +1190,7 @@
           "Sunday: 11:00 AM – 4:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1244,7 +1244,7 @@
           "Sunday: Closed"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1297,8 +1297,8 @@
           "Saturday: 3:00 – 10:00 PM",
           "Sunday: 3:00 – 10:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1346,7 +1346,7 @@
         "placeId": "ChIJsQLubfsRUFMRvt3A4jMs6vk",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1401,8 +1401,8 @@
           "Saturday: 11:00 AM – 11:00 PM",
           "Sunday: 11:00 AM – 11:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1448,7 +1448,7 @@
         "placeId": "ChIJt4cP4LgRUFMR8PhOYzvb08g",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       }
     ],
@@ -1499,7 +1499,7 @@
         "placeId": "ChIJz-fIY-YRUFMRwVZo3WbuWsk",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1552,7 +1552,7 @@
           "Sunday: Open 24 hours"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1609,8 +1609,8 @@
           "Saturday: 9:00 AM – 6:00 PM",
           "Sunday: 9:00 AM – 6:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1665,8 +1665,8 @@
           "Saturday: 9:00 AM – 6:00 PM",
           "Sunday: 9:00 AM – 6:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1719,7 +1719,7 @@
           "Sunday: Closed"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1774,8 +1774,8 @@
           "Saturday: 8:00 AM – 6:00 PM",
           "Sunday: 8:00 AM – 6:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1830,8 +1830,8 @@
           "Saturday: 8:00 AM – 8:00 PM",
           "Sunday: 8:00 AM – 8:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1880,7 +1880,7 @@
         "placeId": "ChIJ67mfOKYaUFMRHEQzcgMcqxg",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1935,8 +1935,8 @@
           "Saturday: 9:00 AM – 6:00 PM",
           "Sunday: 9:00 AM – 6:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1990,8 +1990,8 @@
           "Saturday: 8:00 AM – 5:00 PM",
           "Sunday: 8:00 AM – 5:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2040,7 +2040,7 @@
         "placeId": "ChIJgV11s8wPUFMRlpczqJZJMH0",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2095,8 +2095,8 @@
           "Saturday: 9:30 AM – 5:00 PM",
           "Sunday: 9:30 AM – 5:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2150,8 +2150,8 @@
           "Saturday: 10:30 AM – 7:00 PM",
           "Sunday: Closed"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2205,8 +2205,8 @@
           "Saturday: 8:00 AM – 6:00 PM",
           "Sunday: 8:00 AM – 6:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2250,10 +2250,18 @@
         "transportProvider": "skyline",
         "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
         "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
-        "placeId": "ChIJd9KNzw0RUFMRI4YPf3aa6JA",
-        "googleHours": [],
-        "openNow": null,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "placeId": "ChIJVVVVVVXlUVMRu-GPNDD5qKw",
+        "googleHours": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ],
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       }
     ],
@@ -2309,8 +2317,8 @@
           "Saturday: 9:00 AM – 6:00 PM",
           "Sunday: 9:00 AM – 6:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2357,7 +2365,7 @@
         "placeId": "ChIJz-fIY-YRUFMRwVZo3WbuWsk",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2409,8 +2417,8 @@
           "Saturday: 8:00 AM – 10:00 PM",
           "Sunday: 8:00 AM – 10:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2464,8 +2472,8 @@
           "Saturday: 8:00 AM – 8:00 PM",
           "Sunday: 8:00 AM – 8:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2513,7 +2521,7 @@
         "placeId": "ChIJ67mfOKYaUFMRHEQzcgMcqxg",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2566,8 +2574,8 @@
           "Saturday: 8:00 AM – 5:00 PM",
           "Sunday: 8:00 AM – 5:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2609,10 +2617,18 @@
         "transportProvider": "skyline",
         "rideIosUrl": "https://apps.apple.com/us/app/big-sky-connect/id1660003561",
         "rideAndroidUrl": "https://play.google.com/store/apps/details?id=com.downtownerapp.bigsky",
-        "placeId": "ChIJd9KNzw0RUFMRI4YPf3aa6JA",
-        "googleHours": [],
-        "openNow": null,
-        "hoursFetchedAt": "2026-04-06T12:00:01.744Z",
+        "placeId": "ChIJVVVVVVXlUVMRu-GPNDD5qKw",
+        "googleHours": [
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
+        ],
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-08T22:59:32.539Z",
         "hoursStatus": "fresh"
       }
     ]
@@ -2681,7 +2697,7 @@
       "message": "Airport driver details are being finalized - contact the front desk for current availability."
     }
   },
-  "version": "2026-04-06T12:00:01.744Z",
-  "publishedAt": "2026-04-06T12:00:01.744Z",
-  "contentGeneratedAt": "2026-04-06T12:00:01.744Z"
+  "version": "2026-04-08T22:59:32.539Z",
+  "publishedAt": "2026-04-08T22:59:32.539Z",
+  "contentGeneratedAt": "2026-04-08T22:59:32.539Z"
 }
