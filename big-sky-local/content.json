@@ -107,7 +107,7 @@
         "placeId": "ChIJWSsU1AARUFMRRVOd4Y2qarA",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -155,7 +155,7 @@
           "Sunday: 8:00 AM – 9:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -202,7 +202,56 @@
           "Sunday: 6:00 AM – 6:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Hungry Moose Market & Deli",
+        "area": "Town Center",
+        "address": "209 Aspen Leaf Dr, Big Sky, MT 59716",
+        "hours": "Daily 6:30 AM - 9:00 PM / deli starts early for breakfast",
+        "note": "Town Center deli, bakery, espresso, and grab-and-go market. Strong breakfast answer when guests want burritos, pastries, coffee, or something easy to take on the road.",
+        "vibe": [
+          "Local",
+          "Family",
+          "Convenient"
+        ],
+        "budget": [
+          "$",
+          "Flexible"
+        ],
+        "tags": [
+          "Deli",
+          "Coffee",
+          "Grab-and-go"
+        ],
+        "bestFor": [
+          "Breakfast"
+        ],
+        "timeTags": [
+          "now",
+          "quick"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "06:30",
+          "end": "11:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=Hungry+Moose+Market+and+Deli+Big+Sky",
+        "bookingUrl": "https://www.hungrymoose.com/locations/town-center",
+        "bookingLabel": "View deli",
+        "placeId": "ChIJF6EwLdMRUFMRBevJlGCCBnc",
+        "googleHours": [
+          "Monday: 6:30 AM – 9:00 PM",
+          "Tuesday: 6:30 AM – 9:00 PM",
+          "Wednesday: 6:30 AM – 9:00 PM",
+          "Thursday: 6:30 AM – 9:00 PM",
+          "Friday: 6:30 AM – 9:00 PM",
+          "Saturday: 6:30 AM – 9:00 PM",
+          "Sunday: 6:30 AM – 9:00 PM"
+        ],
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -250,7 +299,7 @@
           "Sunday: 7:30 AM – 8:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -341,7 +390,7 @@
           "Sunday: 7:00 AM – 1:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -389,7 +438,7 @@
           "Sunday: 6:00 AM – 3:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -465,7 +514,7 @@
           "Sunday: Closed"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       }
     ],
@@ -546,7 +595,7 @@
         "mapUrl": "https://maps.google.com/?q=By+Word+of+Mouth+Big+Sky",
         "placeId": "ChIJW9SnctMRUFMRMwSfMeN6mJ0",
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -593,7 +642,7 @@
           "Sunday: 4:00 – 10:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -640,7 +689,7 @@
           "Sunday: 7:00 AM – 10:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -688,7 +737,7 @@
           "Sunday: Closed"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -735,7 +784,7 @@
           "Sunday: 11:30 AM – 6:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -782,7 +831,56 @@
           "Sunday: 6:00 AM – 6:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Hungry Moose Market & Deli",
+        "area": "Town Center",
+        "address": "209 Aspen Leaf Dr, Big Sky, MT 59716",
+        "hours": "Daily 6:30 AM - 9:00 PM / lunch-friendly deli and grab-and-go",
+        "note": "One of the easiest Town Center lunch handoffs for sandwiches, salads, baked goods, and quick market pickup when guests do not want a full sit-down meal.",
+        "vibe": [
+          "Local",
+          "Family",
+          "Convenient"
+        ],
+        "budget": [
+          "$",
+          "Flexible"
+        ],
+        "tags": [
+          "Deli",
+          "Grab-and-go",
+          "Quick stop"
+        ],
+        "bestFor": [
+          "Lunch"
+        ],
+        "timeTags": [
+          "now",
+          "quick"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "11:00",
+          "end": "16:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=Hungry+Moose+Market+and+Deli+Big+Sky",
+        "bookingUrl": "https://www.hungrymoose.com/deli-and-bakery-menus/deli",
+        "bookingLabel": "View deli",
+        "placeId": "ChIJF6EwLdMRUFMRBevJlGCCBnc",
+        "googleHours": [
+          "Monday: 6:30 AM – 9:00 PM",
+          "Tuesday: 6:30 AM – 9:00 PM",
+          "Wednesday: 6:30 AM – 9:00 PM",
+          "Thursday: 6:30 AM – 9:00 PM",
+          "Friday: 6:30 AM – 9:00 PM",
+          "Saturday: 6:30 AM – 9:00 PM",
+          "Sunday: 6:30 AM – 9:00 PM"
+        ],
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -829,7 +927,7 @@
           "Sunday: 11:00 AM – 8:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -875,7 +973,7 @@
           "Sunday: 11:00 AM – 12:00 AM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -959,7 +1057,7 @@
         "bookingLabel": "Reserve on OpenTable",
         "placeId": "ChIJ5-KPRQcOUFMRO51rRSPxal8",
         "openNow": null,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1007,7 +1105,82 @@
           "Sunday: 6:00 AM – 3:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "The Corral Bar, Steakhouse & Motel",
+        "area": "Gallatin Canyon",
+        "address": "42895 Gallatin Rd, Gallatin Gateway, MT 59730",
+        "hours": "Wed-Sun 10:30 AM - 9:00 PM / Closed Mon-Tue",
+        "note": "Classic roadside steakhouse and bar south of town. Good lunch answer when guests are headed through the canyon and want a more old-school Montana stop than Town Center.",
+        "vibe": [
+          "Local",
+          "Classic",
+          "Adventure"
+        ],
+        "budget": [
+          "$$",
+          "Flexible"
+        ],
+        "tags": [
+          "Steakhouse",
+          "Bar",
+          "Drive required"
+        ],
+        "bestFor": [
+          "Lunch"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "weeklyHours": {
+          "0": [
+            [
+              "10:30",
+              "21:00"
+            ]
+          ],
+          "3": [
+            [
+              "10:30",
+              "21:00"
+            ]
+          ],
+          "4": [
+            [
+              "10:30",
+              "21:00"
+            ]
+          ],
+          "5": [
+            [
+              "10:30",
+              "21:00"
+            ]
+          ],
+          "6": [
+            [
+              "10:30",
+              "21:00"
+            ]
+          ]
+        },
+        "mapUrl": "https://maps.google.com/?q=Corral+Bar+Steakhouse+Big+Sky",
+        "bookingUrl": "https://corralbar.com/bar-steakhouse/",
+        "bookingLabel": "View steakhouse",
+        "placeId": "ChIJSQh_qjsXUFMRET7aiuuxyOA",
+        "googleHours": [
+          "Monday: Closed",
+          "Tuesday: Closed",
+          "Wednesday: 10:30 AM – 9:00 PM",
+          "Thursday: 10:30 AM – 9:00 PM",
+          "Friday: 10:30 AM – 9:00 PM",
+          "Saturday: 10:30 AM – 9:00 PM",
+          "Sunday: 10:30 AM – 9:00 PM"
+        ],
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1083,7 +1256,7 @@
           "Sunday: Closed"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1132,7 +1305,7 @@
           "Sunday: Closed"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       }
     ],
@@ -1228,8 +1401,8 @@
         "bookingLabel": "Book on OpenTable",
         "rebateNote": "Eligible Wilson dining choice. Mention guest dining credit benefits when they apply.",
         "placeId": "ChIJ36TqRywQUFMRtTa-Wfv_8aQ",
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1322,7 +1495,7 @@
         "bookingLabel": "Book on OpenTable",
         "placeId": "ChIJpXcdNdINUFMR0bByIcfHrrA",
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1368,8 +1541,8 @@
           "Saturday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
           "Sunday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1481,7 +1654,7 @@
         "bookingLabel": "Book on OpenTable",
         "placeId": "ChIJ5-KPRQcOUFMRpSAf6FmknXg",
         "openNow": null,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1527,7 +1700,7 @@
           "Sunday: 11:00 AM – 10:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1575,7 +1748,130 @@
           "Sunday: 4:00 – 9:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Riverhouse BBQ & Events",
+        "area": "Gallatin Canyon",
+        "address": "45130 Gallatin Rd, Gallatin Gateway, MT 59730",
+        "hours": "Daily 3:00 PM - 9:00 PM / summer runs later to 10:00 PM",
+        "note": "Reliable canyon dinner with smoked meats, river setting, and a strong local following. Best when guests want a relaxed Highway 191 dinner instead of another Town Center stop.",
+        "vibe": [
+          "Local",
+          "Family",
+          "Adventure"
+        ],
+        "budget": [
+          "$$",
+          "Flexible"
+        ],
+        "tags": [
+          "BBQ",
+          "River views",
+          "Drive required"
+        ],
+        "bestFor": [
+          "Dinner"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "15:00",
+          "end": "21:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=Riverhouse+BBQ+Big+Sky",
+        "bookingUrl": "https://riverhousebbq.com/",
+        "bookingLabel": "View BBQ restaurant",
+        "placeId": "ChIJ9dyCjpMQUFMRscTxTIUhuso",
+        "googleHours": [
+          "Monday: 3:00 – 9:00 PM",
+          "Tuesday: 3:00 – 9:00 PM",
+          "Wednesday: 3:00 – 9:00 PM",
+          "Thursday: 3:00 – 9:00 PM",
+          "Friday: 3:00 – 9:00 PM",
+          "Saturday: 3:00 – 9:00 PM",
+          "Sunday: 3:00 – 9:00 PM"
+        ],
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "The Corral Bar, Steakhouse & Motel",
+        "area": "Gallatin Canyon",
+        "address": "42895 Gallatin Rd, Gallatin Gateway, MT 59730",
+        "hours": "Wed-Sun 10:30 AM - 9:00 PM / Closed Mon-Tue",
+        "note": "Classic canyon steakhouse with burgers, steaks, drinks, and a true old-Big-Sky feel. Strong dinner call when guests want a Montana-style meal on the south side of town.",
+        "vibe": [
+          "Local",
+          "Classic",
+          "Adventure"
+        ],
+        "budget": [
+          "$$",
+          "Flexible"
+        ],
+        "tags": [
+          "Steakhouse",
+          "Classic",
+          "Drive required"
+        ],
+        "bestFor": [
+          "Dinner"
+        ],
+        "timeTags": [
+          "now"
+        ],
+        "weeklyHours": {
+          "0": [
+            [
+              "10:30",
+              "21:00"
+            ]
+          ],
+          "3": [
+            [
+              "10:30",
+              "21:00"
+            ]
+          ],
+          "4": [
+            [
+              "10:30",
+              "21:00"
+            ]
+          ],
+          "5": [
+            [
+              "10:30",
+              "21:00"
+            ]
+          ],
+          "6": [
+            [
+              "10:30",
+              "21:00"
+            ]
+          ]
+        },
+        "mapUrl": "https://maps.google.com/?q=Corral+Bar+Steakhouse+Big+Sky",
+        "bookingUrl": "https://corralbar.com/bar-steakhouse/",
+        "bookingLabel": "View steakhouse",
+        "placeId": "ChIJSQh_qjsXUFMRET7aiuuxyOA",
+        "googleHours": [
+          "Monday: Closed",
+          "Tuesday: Closed",
+          "Wednesday: 10:30 AM – 9:00 PM",
+          "Thursday: 10:30 AM – 9:00 PM",
+          "Friday: 10:30 AM – 9:00 PM",
+          "Saturday: 10:30 AM – 9:00 PM",
+          "Sunday: 10:30 AM – 9:00 PM"
+        ],
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1649,8 +1945,8 @@
           "Saturday: Closed",
           "Sunday: Closed"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1725,7 +2021,7 @@
         "placeId": "ChIJEdBy_CAQUFMRnjdJD9fdjQg",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1774,7 +2070,7 @@
           "Sunday: Closed"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1821,7 +2117,7 @@
           "Sunday: 11:00 AM – 8:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1867,7 +2163,7 @@
           "Sunday: 12:00 – 10:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1906,7 +2202,7 @@
         "placeId": "ChIJBxLa-YARUFMRx63KYLiSJrQ",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1954,7 +2250,7 @@
           "Sunday: 4:30 – 9:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1999,8 +2295,8 @@
           "Saturday: 5:00 – 9:00 PM",
           "Sunday: 5:00 – 9:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2049,7 +2345,7 @@
           "Sunday: 11:00 AM – 4:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2094,8 +2390,8 @@
           "Saturday: 5:00 – 9:00 PM",
           "Sunday: Closed"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "openNow": true,
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2179,7 +2475,7 @@
         "mapUrl": "https://maps.google.com/?q=Tres+Toros+Big+Sky",
         "placeId": "ChIJ_WSd5h0RUFMRTaTd2iN8j1U",
         "openNow": false,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       }
     ],
@@ -2223,7 +2519,7 @@
         "placeId": "ChIJz-fIY-YRUFMRwVZo3WbuWsk",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2263,7 +2559,7 @@
         "placeId": "ChIJb-ZvcgwRUFMRCyAoesjB_Uw",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2303,7 +2599,7 @@
         "placeId": "ChIJqQHKKIURUFMRC1o6O8vAauw",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2342,7 +2638,7 @@
         "placeId": "ChIJr-FaBOsRUFMRyS7xYk8Vumo",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2388,7 +2684,7 @@
           "Sunday: Open 24 hours"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2439,7 +2735,7 @@
           "Sunday: 9:00 AM – 6:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2488,7 +2784,7 @@
           "Sunday: 9:00 AM – 6:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2535,7 +2831,7 @@
           "Sunday: 4:00 PM – 12:00 AM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2582,7 +2878,7 @@
           "Sunday: 8:00 AM – 6:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2631,7 +2927,7 @@
           "Sunday: 8:00 AM – 8:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2673,7 +2969,7 @@
         "placeId": "ChIJ67mfOKYaUFMRHEQzcgMcqxg",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2721,7 +3017,7 @@
           "Sunday: 9:00 AM – 6:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2768,8 +3064,8 @@
           "Saturday: 8:00 AM – 5:00 PM",
           "Sunday: 8:00 AM – 5:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2810,7 +3106,7 @@
         "placeId": "ChIJgV11s8wPUFMRlpczqJZJMH0",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2857,8 +3153,8 @@
           "Saturday: 9:30 AM – 5:00 PM",
           "Sunday: 9:30 AM – 5:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2905,7 +3201,7 @@
           "Sunday: Closed"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2952,7 +3248,7 @@
           "Sunday: 8:00 AM – 6:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2993,7 +3289,7 @@
           "Sunday: 10:00 AM – 5:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3034,7 +3330,7 @@
         "placeId": "ChIJd9KNzw0RUFMRI4YPf3aa6JA",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       }
     ],
@@ -3084,7 +3380,7 @@
           "Sunday: 9:00 AM – 6:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3124,7 +3420,7 @@
         "placeId": "ChIJz-fIY-YRUFMRwVZo3WbuWsk",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3170,7 +3466,7 @@
           "Sunday: 8:00 AM – 10:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3218,7 +3514,7 @@
           "Sunday: 4:00 PM – 12:00 AM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3266,7 +3562,7 @@
           "Sunday: 8:00 AM – 8:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3307,7 +3603,7 @@
         "placeId": "ChIJ67mfOKYaUFMRHEQzcgMcqxg",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3353,8 +3649,8 @@
           "Saturday: 8:00 AM – 5:00 PM",
           "Sunday: 8:00 AM – 5:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3393,7 +3689,7 @@
         "placeId": "ChIJd9KNzw0RUFMRI4YPf3aa6JA",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-23T22:51:39.470Z",
+        "hoursFetchedAt": "2026-04-23T23:01:48.627Z",
         "hoursStatus": "fresh"
       }
     ]
@@ -3460,9 +3756,9 @@
       "message": "For current airport transportation options or help coordinating a preferred local driver, contact the front desk."
     }
   },
-  "version": "2026-04-23T22:51:39.470Z",
-  "publishedAt": "2026-04-23T22:51:39.470Z",
-  "contentGeneratedAt": "2026-04-23T22:51:39.470Z",
+  "version": "2026-04-23T23:01:48.627Z",
+  "publishedAt": "2026-04-23T23:01:48.627Z",
+  "contentGeneratedAt": "2026-04-23T23:01:48.627Z",
   "opsOverridesApplied": [],
   "publishProfile": "desktop",
   "publishHost": "DESKTOP-8ON1UF4"
