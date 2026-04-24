@@ -107,7 +107,7 @@
         "placeId": "ChIJWSsU1AARUFMRRVOd4Y2qarA",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -154,8 +154,8 @@
           "Saturday: 8:00 AM – 9:00 PM",
           "Sunday: 8:00 AM – 9:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -202,7 +202,7 @@
           "Sunday: 6:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -250,8 +250,8 @@
           "Saturday: 6:30 AM – 9:00 PM",
           "Sunday: 6:30 AM – 9:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -298,8 +298,8 @@
           "Saturday: 7:30 AM – 8:00 PM",
           "Sunday: 7:30 AM – 8:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -390,7 +390,7 @@
           "Sunday: 7:00 AM – 1:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -438,7 +438,7 @@
           "Sunday: 6:00 AM – 3:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -514,7 +514,7 @@
           "Sunday: Closed"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       }
     ],
@@ -594,8 +594,8 @@
         },
         "mapUrl": "https://maps.google.com/?q=By+Word+of+Mouth+Big+Sky",
         "placeId": "ChIJW9SnctMRUFMRMwSfMeN6mJ0",
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -641,8 +641,8 @@
           "Saturday: 4:00 – 10:00 PM",
           "Sunday: 4:00 – 10:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -688,8 +688,8 @@
           "Saturday: 7:00 AM – 10:00 PM",
           "Sunday: 7:00 AM – 10:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -737,7 +737,7 @@
           "Sunday: Closed"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -784,7 +784,7 @@
           "Sunday: 11:30 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -831,7 +831,7 @@
           "Sunday: 6:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -879,8 +879,8 @@
           "Saturday: 6:30 AM – 9:00 PM",
           "Sunday: 6:30 AM – 9:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -926,8 +926,8 @@
           "Saturday: 11:00 AM – 8:00 PM",
           "Sunday: 11:00 AM – 8:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -973,7 +973,7 @@
           "Sunday: 11:00 AM – 12:00 AM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1057,7 +1057,7 @@
         "bookingLabel": "Reserve on OpenTable",
         "placeId": "ChIJ5-KPRQcOUFMRO51rRSPxal8",
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1105,7 +1105,7 @@
           "Sunday: 6:00 AM – 3:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1179,8 +1179,8 @@
           "Saturday: 10:30 AM – 9:00 PM",
           "Sunday: 10:30 AM – 9:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1256,7 +1256,7 @@
           "Sunday: Closed"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1304,8 +1304,8 @@
           "Saturday: 10:00 AM – 7:00 PM",
           "Sunday: Closed"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       }
     ],
@@ -1401,8 +1401,8 @@
         "bookingLabel": "Book on OpenTable",
         "rebateNote": "Eligible Wilson dining choice. Mention guest dining credit benefits when they apply.",
         "placeId": "ChIJ36TqRywQUFMRtTa-Wfv_8aQ",
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1494,8 +1494,8 @@
         "bookingUrl": "https://www.opentable.com/r/cabin-bar-and-grill-big-sky-montana-big-sky",
         "bookingLabel": "Book on OpenTable",
         "placeId": "ChIJpXcdNdINUFMR0bByIcfHrrA",
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1541,8 +1541,8 @@
           "Saturday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
           "Sunday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1654,7 +1654,7 @@
         "bookingLabel": "Book on OpenTable",
         "placeId": "ChIJ5-KPRQcOUFMRpSAf6FmknXg",
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1699,8 +1699,8 @@
           "Saturday: 11:00 AM – 10:00 PM",
           "Sunday: 11:00 AM – 10:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1747,8 +1747,8 @@
           "Saturday: 4:00 – 9:00 PM",
           "Sunday: 4:00 – 9:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1795,8 +1795,8 @@
           "Saturday: 3:00 – 9:00 PM",
           "Sunday: 3:00 – 9:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1870,8 +1870,8 @@
           "Saturday: 10:30 AM – 9:00 PM",
           "Sunday: 10:30 AM – 9:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1945,8 +1945,8 @@
           "Saturday: Closed",
           "Sunday: Closed"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2021,7 +2021,7 @@
         "placeId": "ChIJEdBy_CAQUFMRnjdJD9fdjQg",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2069,8 +2069,8 @@
           "Saturday: 10:00 AM – 7:00 PM",
           "Sunday: Closed"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2116,8 +2116,8 @@
           "Saturday: 11:00 AM – 9:00 PM",
           "Sunday: 11:00 AM – 8:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2163,7 +2163,46 @@
           "Sunday: 12:00 – 10:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
+        "hoursStatus": "fresh"
+      },
+      {
+        "name": "Pinky G's Pizzeria",
+        "area": "Town Center",
+        "address": "47 Town Center Ave, Unit A1, Big Sky, MT 59716",
+        "hours": "Daily 5:00 PM - 9:00 PM",
+        "note": "Casual pizza in the core with a real locals' feel. Good fallback dinner when guests want something familiar, easy for groups, and simple to explain from the desk.",
+        "vibe": [
+          "Family",
+          "Local",
+          "Cozy"
+        ],
+        "budget": [
+          "$$",
+          "Flexible"
+        ],
+        "tags": [
+          "Walkable",
+          "Pizza",
+          "Casual"
+        ],
+        "bestFor": [
+          "Dinner"
+        ],
+        "timeTags": [
+          "now",
+          "quick"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "17:00",
+          "end": "21:00"
+        },
+        "mapUrl": "https://maps.google.com/?q=Pinky+Gs+Pizzeria+Big+Sky",
+        "placeId": "ChIJBxLa-YARUFMRx63KYLiSJrQ",
+        "googleHours": [],
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2210,8 +2249,8 @@
           "Saturday: 4:30 – 9:00 PM",
           "Sunday: 4:30 – 9:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2256,8 +2295,8 @@
           "Saturday: 5:00 – 9:00 PM",
           "Sunday: 5:00 – 9:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2306,7 +2345,7 @@
           "Sunday: 11:00 AM – 4:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2351,8 +2390,8 @@
           "Saturday: 5:00 – 9:00 PM",
           "Sunday: Closed"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2436,7 +2475,7 @@
         "mapUrl": "https://maps.google.com/?q=Tres+Toros+Big+Sky",
         "placeId": "ChIJ_WSd5h0RUFMRTaTd2iN8j1U",
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       }
     ],
@@ -2480,7 +2519,7 @@
         "placeId": "ChIJz-fIY-YRUFMRwVZo3WbuWsk",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2520,7 +2559,7 @@
         "placeId": "ChIJb-ZvcgwRUFMRCyAoesjB_Uw",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2560,7 +2599,7 @@
         "placeId": "ChIJqQHKKIURUFMRC1o6O8vAauw",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2599,7 +2638,7 @@
         "placeId": "ChIJr-FaBOsRUFMRyS7xYk8Vumo",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2645,7 +2684,7 @@
           "Sunday: Open 24 hours"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2696,7 +2735,7 @@
           "Sunday: 9:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2745,7 +2784,7 @@
           "Sunday: 9:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2792,7 +2831,7 @@
           "Sunday: 4:00 PM – 12:00 AM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2839,7 +2878,7 @@
           "Sunday: 8:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2887,8 +2926,8 @@
           "Saturday: 8:00 AM – 8:00 PM",
           "Sunday: 8:00 AM – 8:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2930,7 +2969,7 @@
         "placeId": "ChIJ67mfOKYaUFMRHEQzcgMcqxg",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2978,7 +3017,7 @@
           "Sunday: 9:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3026,7 +3065,7 @@
           "Sunday: 8:00 AM – 5:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3067,7 +3106,7 @@
         "placeId": "ChIJgV11s8wPUFMRlpczqJZJMH0",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3115,7 +3154,7 @@
           "Sunday: 9:30 AM – 5:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3161,8 +3200,8 @@
           "Saturday: 10:30 AM – 7:00 PM",
           "Sunday: Closed"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3209,7 +3248,7 @@
           "Sunday: 8:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3250,7 +3289,7 @@
           "Sunday: 10:00 AM – 5:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3288,10 +3327,18 @@
         "bookingUrl": "https://yellowstonesafari.com/yellowstone-tours-from-big-sky/",
         "bookingLabel": "Book a Yellowstone tour",
         "kidFriendly": true,
-        "placeId": "ChIJd9KNzw0RUFMRI4YPf3aa6JA",
-        "googleHours": [],
-        "openNow": null,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "placeId": "ChIJEy43x5W5UVMRoG72Np1tT-8",
+        "googleHours": [
+          "Monday: 8:00 AM – 5:00 PM",
+          "Tuesday: 8:00 AM – 5:00 PM",
+          "Wednesday: 8:00 AM – 5:00 PM",
+          "Thursday: 8:00 AM – 5:00 PM",
+          "Friday: 8:00 AM – 5:00 PM",
+          "Saturday: 8:00 AM – 5:00 PM",
+          "Sunday: 8:00 AM – 5:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       }
     ],
@@ -3341,7 +3388,7 @@
           "Sunday: 9:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3381,7 +3428,7 @@
         "placeId": "ChIJz-fIY-YRUFMRwVZo3WbuWsk",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3426,8 +3473,8 @@
           "Saturday: 8:00 AM – 10:00 PM",
           "Sunday: 8:00 AM – 10:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3475,7 +3522,7 @@
           "Sunday: 4:00 PM – 12:00 AM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3522,8 +3569,8 @@
           "Saturday: 8:00 AM – 8:00 PM",
           "Sunday: 8:00 AM – 8:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3564,7 +3611,7 @@
         "placeId": "ChIJ67mfOKYaUFMRHEQzcgMcqxg",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3611,7 +3658,7 @@
           "Sunday: 8:00 AM – 5:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3647,10 +3694,18 @@
         "mapUrl": "https://maps.google.com/?q=Yellowstone+National+Park",
         "bookingUrl": "https://yellowstonesafari.com/yellowstone-tours-from-big-sky/",
         "bookingLabel": "Book a Yellowstone tour",
-        "placeId": "ChIJd9KNzw0RUFMRI4YPf3aa6JA",
-        "googleHours": [],
-        "openNow": null,
-        "hoursFetchedAt": "2026-04-24T00:56:24.099Z",
+        "placeId": "ChIJEy43x5W5UVMRoG72Np1tT-8",
+        "googleHours": [
+          "Monday: 8:00 AM – 5:00 PM",
+          "Tuesday: 8:00 AM – 5:00 PM",
+          "Wednesday: 8:00 AM – 5:00 PM",
+          "Thursday: 8:00 AM – 5:00 PM",
+          "Friday: 8:00 AM – 5:00 PM",
+          "Saturday: 8:00 AM – 5:00 PM",
+          "Sunday: 8:00 AM – 5:00 PM"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-24T04:43:17.398Z",
         "hoursStatus": "fresh"
       }
     ]
@@ -3717,17 +3772,17 @@
       "message": "For current airport transportation options or help coordinating a preferred local driver, contact the front desk."
     }
   },
-  "version": "2026-04-24T00:56:24.099Z",
-  "publishedAt": "2026-04-24T00:56:24.099Z",
-  "contentGeneratedAt": "2026-04-24T00:56:24.099Z",
+  "version": "2026-04-24T04:43:17.398Z",
+  "publishedAt": "2026-04-24T04:43:17.398Z",
+  "contentGeneratedAt": "2026-04-24T04:43:17.398Z",
   "opsOverridesApplied": [
     {
       "name": "Pinky G's Pizzeria",
       "category": "dinner",
-      "temporaryClosed": true,
-      "hideFromRecommendations": true,
-      "startDate": "2026-04-23",
-      "endDate": "2026-04-28"
+      "temporaryClosed": false,
+      "hideFromRecommendations": false,
+      "startDate": "",
+      "endDate": ""
     }
   ],
   "publishProfile": "desktop",
