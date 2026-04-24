@@ -7,18 +7,6 @@
       "Luxury",
       "Family",
       "Local"
-    ],
-    "budgets": [
-      "$",
-      "$$",
-      "$$$",
-      "Flexible"
-    ],
-    "focusAreas": [
-      "Breakfast",
-      "Lunch",
-      "Dinner",
-      "Activity"
     ]
   },
   "catalog": {
@@ -33,11 +21,6 @@
           "Cozy",
           "Local",
           "Family"
-        ],
-        "budget": [
-          "$",
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Popular",
@@ -68,7 +51,7 @@
           "Sunday: 8:00 AM – 9:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -81,10 +64,6 @@
           "Local",
           "Cozy",
           "Family"
-        ],
-        "budget": [
-          "$",
-          "Flexible"
         ],
         "tags": [
           "Coffee",
@@ -115,7 +94,7 @@
           "Sunday: 6:00 AM – 6:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -128,10 +107,6 @@
           "Local",
           "Family",
           "Convenient"
-        ],
-        "budget": [
-          "$",
-          "Flexible"
         ],
         "tags": [
           "Deli",
@@ -164,7 +139,7 @@
           "Sunday: 6:30 AM – 9:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -177,11 +152,6 @@
           "Adventure",
           "Local",
           "Cozy"
-        ],
-        "budget": [
-          "$",
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Coffee",
@@ -212,7 +182,7 @@
           "Sunday: 7:30 AM – 8:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -225,10 +195,6 @@
           "Local",
           "Cozy",
           "Adventure"
-        ],
-        "budget": [
-          "$",
-          "Flexible"
         ],
         "tags": [
           "Local roaster",
@@ -303,7 +269,7 @@
           "Sunday: 7:00 AM – 1:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -316,10 +282,6 @@
           "Local",
           "Cozy",
           "Family"
-        ],
-        "budget": [
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Breakfast",
@@ -351,7 +313,7 @@
           "Sunday: 6:00 AM – 3:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -364,10 +326,6 @@
           "Local",
           "Cozy",
           "Family"
-        ],
-        "budget": [
-          "$",
-          "Flexible"
         ],
         "tags": [
           "Coffee",
@@ -427,7 +385,7 @@
           "Sunday: Closed"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       }
     ],
@@ -442,10 +400,6 @@
           "Local",
           "Cozy",
           "Family"
-        ],
-        "budget": [
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Walkable",
@@ -508,7 +462,7 @@
         "mapUrl": "https://maps.google.com/?q=By+Word+of+Mouth+Big+Sky",
         "placeId": "ChIJW9SnctMRUFMRMwSfMeN6mJ0",
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -521,11 +475,6 @@
           "Family",
           "Local",
           "Cozy"
-        ],
-        "budget": [
-          "$$",
-          "$$$",
-          "Flexible"
         ],
         "tags": [
           "Mountain village",
@@ -555,7 +504,7 @@
           "Sunday: 4:00 – 10:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -568,10 +517,6 @@
           "Adventure",
           "Local",
           "Family"
-        ],
-        "budget": [
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Tacos",
@@ -602,7 +547,7 @@
           "Sunday: 7:00 AM – 10:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -615,11 +560,6 @@
           "Local",
           "Family",
           "Adventure"
-        ],
-        "budget": [
-          "$",
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Walkable",
@@ -650,7 +590,7 @@
           "Sunday: Closed"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -663,10 +603,6 @@
           "Family",
           "Local",
           "Adventure"
-        ],
-        "budget": [
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Walkable",
@@ -697,7 +633,7 @@
           "Sunday: 11:30 AM – 6:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -710,10 +646,6 @@
           "Local",
           "Cozy",
           "Family"
-        ],
-        "budget": [
-          "$",
-          "Flexible"
         ],
         "tags": [
           "Walkable",
@@ -744,7 +676,7 @@
           "Sunday: 6:00 AM – 6:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -757,10 +689,6 @@
           "Local",
           "Family",
           "Convenient"
-        ],
-        "budget": [
-          "$",
-          "Flexible"
         ],
         "tags": [
           "Deli",
@@ -793,7 +721,7 @@
           "Sunday: 6:30 AM – 9:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -806,10 +734,6 @@
           "Local",
           "Cozy",
           "Luxury"
-        ],
-        "budget": [
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Walkable",
@@ -840,7 +764,7 @@
           "Sunday: 11:00 AM – 8:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -852,11 +776,6 @@
         "vibe": [
           "Adventure",
           "Local"
-        ],
-        "budget": [
-          "$",
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Apres-ski",
@@ -886,7 +805,7 @@
           "Sunday: 11:00 AM – 12:00 AM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -899,10 +818,6 @@
           "Family",
           "Cozy",
           "Luxury"
-        ],
-        "budget": [
-          "$$$",
-          "Flexible"
         ],
         "tags": [
           "Family friendly",
@@ -970,7 +885,7 @@
         "bookingLabel": "Reserve on OpenTable",
         "placeId": "ChIJ5-KPRQcOUFMRO51rRSPxal8",
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -983,10 +898,6 @@
           "Local",
           "Family",
           "Cozy"
-        ],
-        "budget": [
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Lunch",
@@ -1018,7 +929,7 @@
           "Sunday: 6:00 AM – 3:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1031,10 +942,6 @@
           "Local",
           "Classic",
           "Adventure"
-        ],
-        "budget": [
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Steakhouse",
@@ -1093,7 +1000,7 @@
           "Sunday: 10:30 AM – 9:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1106,10 +1013,6 @@
           "Local",
           "Cozy",
           "Family"
-        ],
-        "budget": [
-          "$",
-          "Flexible"
         ],
         "tags": [
           "Coffee",
@@ -1169,7 +1072,7 @@
           "Sunday: Closed"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1182,10 +1085,6 @@
           "Local",
           "Adventure",
           "Family"
-        ],
-        "budget": [
-          "$",
-          "Flexible"
         ],
         "tags": [
           "Tacos",
@@ -1218,7 +1117,7 @@
           "Sunday: Closed"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       }
     ],
@@ -1233,11 +1132,6 @@
           "Luxury",
           "Cozy",
           "Romantic"
-        ],
-        "budget": [
-          "$$",
-          "$$$",
-          "Flexible"
         ],
         "tags": [
           "On property",
@@ -1315,7 +1209,7 @@
         "rebateNote": "Eligible Wilson dining choice. Mention guest dining credit benefits when they apply.",
         "placeId": "ChIJ36TqRywQUFMRtTa-Wfv_8aQ",
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1329,10 +1223,6 @@
           "Romantic",
           "Family",
           "Local"
-        ],
-        "budget": [
-          "$$$",
-          "Flexible"
         ],
         "tags": [
           "Views",
@@ -1408,7 +1298,7 @@
         "bookingLabel": "Book on OpenTable",
         "placeId": "ChIJpXcdNdINUFMR0bByIcfHrrA",
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1420,10 +1310,6 @@
         "vibe": [
           "Luxury",
           "Romantic"
-        ],
-        "budget": [
-          "$$$",
-          "Flexible"
         ],
         "tags": [
           "Premium",
@@ -1455,7 +1341,7 @@
           "Sunday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1468,10 +1354,6 @@
           "Luxury",
           "Romantic",
           "Local"
-        ],
-        "budget": [
-          "$$$",
-          "Flexible"
         ],
         "tags": [
           "Italian",
@@ -1567,7 +1449,7 @@
         "bookingLabel": "Book on OpenTable",
         "placeId": "ChIJ5-KPRQcOUFMRpSAf6FmknXg",
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1580,10 +1462,6 @@
           "Family",
           "Local",
           "Cozy"
-        ],
-        "budget": [
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Groups",
@@ -1613,7 +1491,7 @@
           "Sunday: 11:00 AM – 10:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1626,10 +1504,6 @@
           "Romantic",
           "Cozy",
           "Local"
-        ],
-        "budget": [
-          "$$$",
-          "Flexible"
         ],
         "tags": [
           "Romantic",
@@ -1661,7 +1535,7 @@
           "Sunday: 4:00 – 9:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1674,10 +1548,6 @@
           "Local",
           "Family",
           "Adventure"
-        ],
-        "budget": [
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "BBQ",
@@ -1709,7 +1579,7 @@
           "Sunday: 3:00 – 9:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1722,10 +1592,6 @@
           "Local",
           "Classic",
           "Adventure"
-        ],
-        "budget": [
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Steakhouse",
@@ -1784,7 +1650,7 @@
           "Sunday: 10:30 AM – 9:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1797,10 +1663,6 @@
           "Romantic",
           "Cozy",
           "Luxury"
-        ],
-        "budget": [
-          "$$$",
-          "Flexible"
         ],
         "tags": [
           "Bistro",
@@ -1859,7 +1721,7 @@
           "Sunday: Closed"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1872,10 +1734,6 @@
           "Romantic",
           "Luxury",
           "Cozy"
-        ],
-        "budget": [
-          "$$$",
-          "Flexible"
         ],
         "tags": [
           "Italian",
@@ -1934,7 +1792,7 @@
         "placeId": "ChIJEdBy_CAQUFMRnjdJD9fdjQg",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1947,10 +1805,6 @@
           "Local",
           "Adventure",
           "Family"
-        ],
-        "budget": [
-          "$",
-          "Flexible"
         ],
         "tags": [
           "Tacos",
@@ -1983,7 +1837,7 @@
           "Sunday: Closed"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1996,10 +1850,6 @@
           "Local",
           "Family",
           "Cozy"
-        ],
-        "budget": [
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Walkable",
@@ -2030,7 +1880,7 @@
           "Sunday: 11:00 AM – 8:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2043,10 +1893,6 @@
           "Family",
           "Local",
           "Adventure"
-        ],
-        "budget": [
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Walkable",
@@ -2076,7 +1922,7 @@
           "Sunday: 12:00 – 10:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2089,10 +1935,6 @@
           "Family",
           "Local",
           "Cozy"
-        ],
-        "budget": [
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Walkable",
@@ -2115,7 +1957,7 @@
         "placeId": "ChIJBxLa-YARUFMRx63KYLiSJrQ",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2128,10 +1970,6 @@
           "Local",
           "Cozy",
           "Adventure"
-        ],
-        "budget": [
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Walkable",
@@ -2163,7 +2001,7 @@
           "Sunday: 4:30 – 9:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2176,10 +2014,6 @@
           "Family",
           "Cozy",
           "Local"
-        ],
-        "budget": [
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Walkable",
@@ -2209,7 +2043,7 @@
           "Sunday: 5:00 – 9:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2222,10 +2056,6 @@
           "Luxury",
           "Romantic",
           "Adventure"
-        ],
-        "budget": [
-          "$$$",
-          "Flexible"
         ],
         "tags": [
           "Fine dining",
@@ -2258,7 +2088,7 @@
           "Sunday: 11:00 AM – 4:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2271,10 +2101,6 @@
           "Adventure",
           "Local",
           "Romantic"
-        ],
-        "budget": [
-          "$$$",
-          "Flexible"
         ],
         "tags": [
           "Sushi",
@@ -2304,7 +2130,7 @@
           "Sunday: Closed"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2317,10 +2143,6 @@
           "Local",
           "Adventure",
           "Family"
-        ],
-        "budget": [
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Tacos",
@@ -2388,7 +2210,7 @@
         "mapUrl": "https://maps.google.com/?q=Tres+Toros+Big+Sky",
         "placeId": "ChIJ_WSd5h0RUFMRTaTd2iN8j1U",
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       }
     ],
@@ -2404,11 +2226,6 @@
           "Romantic",
           "Family",
           "Local"
-        ],
-        "budget": [
-          "$",
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Scenic",
@@ -2432,7 +2249,7 @@
         "placeId": "ChIJz-fIY-YRUFMRwVZo3WbuWsk",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2445,11 +2262,6 @@
           "Local",
           "Family",
           "Adventure"
-        ],
-        "budget": [
-          "$",
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Near town",
@@ -2472,7 +2284,7 @@
         "placeId": "ChIJb-ZvcgwRUFMRCyAoesjB_Uw",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2485,11 +2297,6 @@
           "Local",
           "Romantic",
           "Adventure"
-        ],
-        "budget": [
-          "$",
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Near town",
@@ -2512,7 +2319,7 @@
         "placeId": "ChIJqQHKKIURUFMRC1o6O8vAauw",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2525,10 +2332,6 @@
           "Family",
           "Local",
           "Cozy"
-        ],
-        "budget": [
-          "$",
-          "Flexible"
         ],
         "tags": [
           "Town Center",
@@ -2551,7 +2354,7 @@
         "placeId": "ChIJr-FaBOsRUFMRyS7xYk8Vumo",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2563,11 +2366,6 @@
         "vibe": [
           "Adventure",
           "Local"
-        ],
-        "budget": [
-          "$",
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Hike",
@@ -2597,7 +2395,7 @@
           "Sunday: Open 24 hours"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2610,11 +2408,6 @@
           "Luxury",
           "Family",
           "Adventure"
-        ],
-        "budget": [
-          "$$",
-          "$$$",
-          "Flexible"
         ],
         "tags": [
           "Views",
@@ -2648,7 +2441,7 @@
           "Sunday: 9:00 AM – 6:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2660,10 +2453,6 @@
         "vibe": [
           "Family",
           "Adventure"
-        ],
-        "budget": [
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Kids",
@@ -2697,7 +2486,7 @@
           "Sunday: 9:00 AM – 6:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2709,10 +2498,6 @@
         "vibe": [
           "Family",
           "Local"
-        ],
-        "budget": [
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Indoor",
@@ -2744,7 +2529,7 @@
           "Sunday: 4:00 PM – 12:00 AM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2756,10 +2541,6 @@
         "vibe": [
           "Adventure",
           "Local"
-        ],
-        "budget": [
-          "$$$",
-          "Flexible"
         ],
         "tags": [
           "Fly fishing",
@@ -2791,7 +2572,7 @@
           "Sunday: 8:00 AM – 6:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2803,10 +2584,6 @@
         "vibe": [
           "Adventure",
           "Family"
-        ],
-        "budget": [
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Rafting",
@@ -2840,7 +2617,7 @@
           "Sunday: 8:00 AM – 8:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2852,11 +2629,6 @@
         "vibe": [
           "Adventure",
           "Family"
-        ],
-        "budget": [
-          "$$",
-          "$$$",
-          "Flexible"
         ],
         "tags": [
           "Zipline",
@@ -2882,7 +2654,7 @@
         "placeId": "ChIJ67mfOKYaUFMRHEQzcgMcqxg",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2894,10 +2666,6 @@
         "vibe": [
           "Adventure",
           "Family"
-        ],
-        "budget": [
-          "$$$",
-          "Flexible"
         ],
         "tags": [
           "Biking",
@@ -2930,7 +2698,7 @@
           "Sunday: 9:00 AM – 6:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2943,10 +2711,6 @@
           "Adventure",
           "Family",
           "Local"
-        ],
-        "budget": [
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Horseback",
@@ -2978,7 +2742,7 @@
           "Sunday: 8:00 AM – 5:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2991,10 +2755,6 @@
           "Romantic",
           "Luxury",
           "Cozy"
-        ],
-        "budget": [
-          "$$$",
-          "Flexible"
         ],
         "tags": [
           "Winter only",
@@ -3019,7 +2779,7 @@
         "placeId": "ChIJgV11s8wPUFMRlpczqJZJMH0",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3031,10 +2791,6 @@
         "vibe": [
           "Luxury",
           "Adventure"
-        ],
-        "budget": [
-          "$$$",
-          "Flexible"
         ],
         "tags": [
           "Golf",
@@ -3067,7 +2823,7 @@
           "Sunday: 9:30 AM – 5:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3079,10 +2835,6 @@
         "vibe": [
           "Luxury",
           "Romantic"
-        ],
-        "budget": [
-          "$$$",
-          "Flexible"
         ],
         "tags": [
           "Spa",
@@ -3114,7 +2866,7 @@
           "Sunday: Closed"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3126,10 +2878,6 @@
         "vibe": [
           "Luxury",
           "Romantic"
-        ],
-        "budget": [
-          "$$$",
-          "Flexible"
         ],
         "tags": [
           "Spa",
@@ -3161,7 +2909,7 @@
           "Sunday: 8:00 AM – 6:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3174,11 +2922,6 @@
           "Cozy",
           "Local",
           "Luxury"
-        ],
-        "budget": [
-          "$$",
-          "$$$",
-          "Flexible"
         ],
         "tags": [
           "Spa",
@@ -3202,7 +2945,7 @@
           "Sunday: 10:00 AM – 5:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3215,10 +2958,6 @@
           "Adventure",
           "Family",
           "Local"
-        ],
-        "budget": [
-          "$$$",
-          "Flexible"
         ],
         "tags": [
           "Yellowstone",
@@ -3243,7 +2982,7 @@
         "placeId": "ChIJd9KNzw0RUFMRI4YPf3aa6JA",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       }
     ],
@@ -3257,10 +2996,6 @@
         "vibe": [
           "Family",
           "Adventure"
-        ],
-        "budget": [
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Kids",
@@ -3293,7 +3028,7 @@
           "Sunday: 9:00 AM – 6:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3306,11 +3041,6 @@
           "Family",
           "Cozy",
           "Local"
-        ],
-        "budget": [
-          "$",
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Kids",
@@ -3333,7 +3063,7 @@
         "placeId": "ChIJz-fIY-YRUFMRwVZo3WbuWsk",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3345,10 +3075,6 @@
         "vibe": [
           "Family",
           "Local"
-        ],
-        "budget": [
-          "$",
-          "Flexible"
         ],
         "tags": [
           "Park",
@@ -3379,7 +3105,7 @@
           "Sunday: 8:00 AM – 10:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3392,10 +3118,6 @@
           "Family",
           "Cozy",
           "Local"
-        ],
-        "budget": [
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Indoor",
@@ -3427,7 +3149,7 @@
           "Sunday: 4:00 PM – 12:00 AM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3439,10 +3161,6 @@
         "vibe": [
           "Adventure",
           "Family"
-        ],
-        "budget": [
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Rafting",
@@ -3475,7 +3193,7 @@
           "Sunday: 8:00 AM – 8:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3487,11 +3205,6 @@
         "vibe": [
           "Adventure",
           "Family"
-        ],
-        "budget": [
-          "$$",
-          "$$$",
-          "Flexible"
         ],
         "tags": [
           "Zipline",
@@ -3516,7 +3229,7 @@
         "placeId": "ChIJ67mfOKYaUFMRHEQzcgMcqxg",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3529,10 +3242,6 @@
           "Adventure",
           "Family",
           "Local"
-        ],
-        "budget": [
-          "$$",
-          "Flexible"
         ],
         "tags": [
           "Horseback",
@@ -3563,7 +3272,7 @@
           "Sunday: 8:00 AM – 5:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3575,10 +3284,6 @@
         "vibe": [
           "Adventure",
           "Family"
-        ],
-        "budget": [
-          "$$$",
-          "Flexible"
         ],
         "tags": [
           "Yellowstone",
@@ -3602,7 +3307,7 @@
         "placeId": "ChIJd9KNzw0RUFMRI4YPf3aa6JA",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T18:20:04.915Z",
+        "hoursFetchedAt": "2026-04-24T18:25:04.342Z",
         "hoursStatus": "fresh"
       }
     ]
@@ -3669,9 +3374,9 @@
       "message": "For current airport transportation options or help coordinating a preferred local driver, contact the front desk."
     }
   },
-  "version": "2026-04-24T18:20:04.915Z",
-  "publishedAt": "2026-04-24T18:20:04.915Z",
-  "contentGeneratedAt": "2026-04-24T18:20:04.915Z",
+  "version": "2026-04-24T18:25:04.342Z",
+  "publishedAt": "2026-04-24T18:25:04.342Z",
+  "contentGeneratedAt": "2026-04-24T18:25:04.342Z",
   "opsOverridesApplied": [
     {
       "name": "Wilson Breakfast Start",
