@@ -90,7 +90,7 @@
         "placeId": "ChIJWSsU1AARUFMRRVOd4Y2qarA",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -173,7 +173,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       },
       {
@@ -256,7 +256,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       },
       {
@@ -341,7 +341,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       },
       {
@@ -412,7 +412,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       },
       {
@@ -495,7 +495,7 @@
           "Saturday: 7:00 AM - 3:00 PM"
         ],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       },
       {
@@ -579,7 +579,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       },
       {
@@ -652,7 +652,7 @@
         ],
         "availability": {},
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       }
     ],
@@ -725,7 +725,7 @@
         "mapUrl": "https://maps.google.com/?q=By+Word+of+Mouth+Big+Sky",
         "manualHoursAuthority": true,
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       },
       {
@@ -733,7 +733,7 @@
         "area": "Mountain Village",
         "address": "44 Big Sky Resort Rd, Big Sky, MT 59716",
         "hours": "Daily, Lunch 11:00 AM - 2:30 PM / Dinner 5:00 - 10:00 PM",
-        "note": "Basic mountain bar food done well - burger, cold beer, and a seat near the resort. Practical pick when guests are already up at Mountain Village and don't want to drive down.",
+        "note": "Basic mountain bar food done well - burger, cold beer, and a seat near the resort. Practical pick when guests are already up at Mountain Village and don't want to drive down. Not listed on the current spring dining guide. Confirm current hours before recommending.",
         "vibe": [
           "Family",
           "Local",
@@ -756,6 +756,12 @@
           "end": "14:30"
         },
         "mapUrl": "https://maps.google.com/?q=Chet%27s+Bar+and+Grill+Big+Sky",
+        "excludeFromAutoBuild": true,
+        "confidenceOverride": {
+          "level": "verify",
+          "label": "Manual confirm only",
+          "reason": "This place is not listed on the current spring dining guide"
+        },
         "placeId": "ChIJwZ8lr6caUFMRnUUc-oR79FU",
         "googleHours": [
           "Monday: 4:00 – 10:00 PM",
@@ -767,7 +773,7 @@
           "Sunday: 4:00 – 10:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -838,7 +844,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       },
       {
@@ -909,7 +915,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       },
       {
@@ -992,7 +998,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       },
       {
@@ -1075,7 +1081,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       },
       {
@@ -1160,7 +1166,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       },
       {
@@ -1243,7 +1249,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       },
       {
@@ -1251,7 +1257,7 @@
         "area": "Mountain Village",
         "address": "39 Black Eagle Rd, Big Sky, MT 59716",
         "hours": "Daily 11:00 AM - 9:00 PM (kitchen)",
-        "note": "A casual Mountain Village lunch stop with burgers, nachos, and solid ski-day food. Better as a food break than a drinks recommendation.",
+        "note": "A casual Mountain Village lunch stop with burgers, nachos, and solid ski-day food. Better as a food break than a drinks recommendation. Not listed on the current spring dining guide. Confirm current hours before recommending.",
         "vibe": [
           "Adventure",
           "Local"
@@ -1273,6 +1279,12 @@
           "end": "21:00"
         },
         "mapUrl": "https://maps.google.com/?q=Scissorbills+Saloon+Big+Sky",
+        "excludeFromAutoBuild": true,
+        "confidenceOverride": {
+          "level": "verify",
+          "label": "Manual confirm only",
+          "reason": "This place is not listed on the current spring dining guide"
+        },
         "placeId": "ChIJhyKysNMNUFMRjOwzk2MH6bY",
         "googleHours": [
           "Monday: 11:00 AM – 12:00 AM",
@@ -1284,7 +1296,7 @@
           "Sunday: 11:00 AM – 12:00 AM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1292,7 +1304,7 @@
         "area": "Montage Big Sky",
         "address": "995 Settlement Trail, Big Sky, MT 59716",
         "hours": "Daily 12:00 PM - 10:00 PM",
-        "note": "Inside Montage - flatbreads from a hearth oven, solid pub food, bowling lanes, darts, and arcade games. Works well for groups or families who want more than just a meal.",
+        "note": "Inside Montage - flatbreads from a hearth oven, solid pub food, bowling lanes, darts, and arcade games. Works well for groups or families who want more than just a meal. Not listed on the current spring dining guide. Confirm current hours before recommending.",
         "vibe": [
           "Family",
           "Cozy",
@@ -1362,9 +1374,15 @@
         "mapUrl": "https://maps.google.com/?q=Beartooth+Pub+Montage+Big+Sky",
         "bookingUrl": "https://www.opentable.com/r/beartooth-pub-and-rec-big-sky",
         "bookingLabel": "Reserve on OpenTable",
+        "excludeFromAutoBuild": true,
+        "confidenceOverride": {
+          "level": "verify",
+          "label": "Manual confirm only",
+          "reason": "This place is not listed on the current spring dining guide"
+        },
         "placeId": "ChIJ5-KPRQcOUFMRO51rRSPxal8",
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1448,7 +1466,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       },
       {
@@ -1520,7 +1538,7 @@
         ],
         "availability": {},
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       },
       {
@@ -1593,7 +1611,7 @@
         ],
         "availability": {},
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       },
       {
@@ -1666,7 +1684,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       }
     ],
@@ -1741,8 +1759,9 @@
         "bookingLabel": "Book on OpenTable",
         "rebateNote": "Eligible Wilson dining choice. Mention guest dining credit benefits when they apply.",
         "manualHoursAuthority": true,
+        "reservationsRequired": true,
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       },
       {
@@ -1750,7 +1769,7 @@
         "area": "Mountain Village",
         "address": "33 Black Eagle Rd, Big Sky, MT 59716",
         "hours": "Daily 4:30 - 9:30 PM (dinner only)",
-        "note": "A polished Mountain Village dinner with slope views and a quieter room than the busier apres spots nearby. Best when guests want dinner to feel a little more special.",
+        "note": "A polished Mountain Village dinner with slope views and a quieter room than the busier apres spots nearby. Best when guests want dinner to feel a little more special. Not listed on the current spring dining guide. Confirm current hours before recommending.",
         "vibe": [
           "Luxury",
           "Romantic",
@@ -1829,9 +1848,15 @@
         "mapUrl": "https://maps.google.com/?q=Cabin+Bar+and+Grill+Big+Sky",
         "bookingUrl": "https://www.opentable.com/r/cabin-bar-and-grill-big-sky-montana-big-sky",
         "bookingLabel": "Book on OpenTable",
+        "excludeFromAutoBuild": true,
+        "confidenceOverride": {
+          "level": "verify",
+          "label": "Manual confirm only",
+          "reason": "This place is not listed on the current spring dining guide"
+        },
         "placeId": "ChIJpXcdNdINUFMR0bByIcfHrrA",
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1839,7 +1864,7 @@
         "area": "Lone Mountain Ranch",
         "address": "750 Lone Mountain Ranch Rd, Big Sky, MT 59716",
         "hours": "Daily, Dinner 5:00 - 9:00 PM / Saloon open from noon",
-        "note": "Lone Mountain Ranch dining room - the place when someone asks for the most Big Sky dinner experience possible. Great for birthdays, anniversaries, or guests who want to feel like they're really here.",
+        "note": "Lone Mountain Ranch dining room - the place when someone asks for the most Big Sky dinner experience possible. Great for birthdays, anniversaries, or guests who want to feel like they're really here. Not listed on the current spring dining guide. Confirm current hours before recommending.",
         "vibe": [
           "Luxury",
           "Romantic"
@@ -1863,6 +1888,12 @@
         "mapUrl": "https://maps.google.com/?q=Horn+and+Cantle+Big+Sky",
         "bookingUrl": "https://www.opentable.com/r/horn-and-cantle",
         "bookingLabel": "Book on OpenTable",
+        "excludeFromAutoBuild": true,
+        "confidenceOverride": {
+          "level": "verify",
+          "label": "Manual confirm only",
+          "reason": "This place is not listed on the current spring dining guide"
+        },
         "placeId": "ChIJrU7eJ80PUFMRCKGojqHj3pc",
         "googleHours": [
           "Monday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
@@ -1874,7 +1905,7 @@
           "Sunday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1882,7 +1913,7 @@
         "area": "Big Sky Resort area",
         "address": "995 Settlement Trail, Big Sky, MT 59716",
         "hours": "Daily, Breakfast 7:00 - 11:00 AM / Dinner 5:00 - 9:00 PM",
-        "note": "Handmade pasta and a polished room at the Mountain Village. One of the better Italian dinners in the area - right for guests who want something refined without it being a full production.",
+        "note": "Handmade pasta and a polished room at the Mountain Village. One of the better Italian dinners in the area - right for guests who want something refined without it being a full production. Not listed on the current spring dining guide. Confirm current hours before recommending.",
         "vibe": [
           "Luxury",
           "Romantic",
@@ -1980,9 +2011,15 @@
         "mapUrl": "https://maps.google.com/?q=Cortina+Big+Sky",
         "bookingUrl": "https://www.opentable.com/r/cortina-big-sky",
         "bookingLabel": "Book on OpenTable",
+        "excludeFromAutoBuild": true,
+        "confidenceOverride": {
+          "level": "verify",
+          "label": "Manual confirm only",
+          "reason": "This place is not listed on the current spring dining guide"
+        },
         "placeId": "ChIJ5-KPRQcOUFMRpSAf6FmknXg",
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1990,7 +2027,7 @@
         "area": "Mountain Village",
         "address": "52 Big Sky Resort Rd, Big Sky, MT 59716",
         "hours": "Daily 11:00 AM - 10:00 PM",
-        "note": "Laid-back Big Sky Resort dinner for families and groups who want something straightforward without the formality. Burgers, bowls, easy patio, and a simple call when guests are already up at Mountain Village.",
+        "note": "Laid-back Big Sky Resort dinner for families and groups who want something straightforward without the formality. Burgers, bowls, easy patio, and a simple call when guests are already up at Mountain Village. Not listed on the current spring dining guide. Confirm current hours before recommending.",
         "vibe": [
           "Family",
           "Local",
@@ -2013,6 +2050,12 @@
           "end": "21:30"
         },
         "mapUrl": "https://maps.google.com/?q=Montana+Jack+Big+Sky",
+        "excludeFromAutoBuild": true,
+        "confidenceOverride": {
+          "level": "verify",
+          "label": "Manual confirm only",
+          "reason": "This place is not listed on the current spring dining guide"
+        },
         "placeId": "ChIJY7YGRdINUFMRalf3F0mot0E",
         "googleHours": [
           "Monday: 11:00 AM – 10:00 PM",
@@ -2024,7 +2067,7 @@
           "Sunday: 11:00 AM – 10:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2095,8 +2138,9 @@
             ]
           ]
         },
+        "reservationsRequired": true,
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       },
       {
@@ -2180,7 +2224,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       },
       {
@@ -2252,7 +2296,7 @@
         ],
         "availability": {},
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       },
       {
@@ -2325,7 +2369,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       },
       {
@@ -2333,7 +2377,7 @@
         "area": "Town Center",
         "address": "118 Ousel Falls Rd, Big Sky, MT 59716",
         "hours": "Tue-Sat 4:00 PM - 9:00 PM / Closed Sun-Mon",
-        "note": "Relaxed Town Center Mexican dinner with tacos, enchiladas, and a full bar. Strong walkable dinner answer when guests want something casual, familiar, and easy from the Wilson.",
+        "note": "Relaxed Town Center Mexican dinner with tacos, enchiladas, and a full bar. Strong walkable dinner answer when guests want something casual, familiar, and easy from the Wilson. Not listed on the current spring dining guide. Confirm current hours before recommending.",
         "vibe": [
           "Family",
           "Local",
@@ -2400,9 +2444,15 @@
         "mapUrl": "https://maps.google.com/?q=Albertos+Mexican+Restaurant+Big+Sky",
         "bookingUrl": "http://www.albertosmexican.com",
         "bookingLabel": "View restaurant",
+        "excludeFromAutoBuild": true,
+        "confidenceOverride": {
+          "level": "verify",
+          "label": "Manual confirm only",
+          "reason": "This place is not listed on the current spring dining guide"
+        },
         "placeId": "ChIJK4a8gM4RUFMRysYP3Jjxk6k",
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2410,7 +2460,7 @@
         "area": "Town Center",
         "address": "112 Ousel Falls Rd, Big Sky, MT 59716",
         "hours": "Tuesday - Saturday, 11:00 AM - 9:00 PM / Sunday, 11:00 AM - 8:00 PM",
-        "note": "An easy Town Center dinner when guests want something outside the usual burger-and-steak rotation. Good for takeout or a casual sit-down without sending them far from the hotel. May shoulder-season schedule may vary by one or two days per week; verify if needed.",
+        "note": "An easy Town Center dinner when guests want something outside the usual burger-and-steak rotation. Good for takeout or a casual sit-down without sending them far from the hotel. May schedule can shift one or two days per week during shoulder season.",
         "vibe": [
           "Local",
           "Family",
@@ -2479,7 +2529,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       },
       {
@@ -2561,7 +2611,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       },
       {
@@ -2640,7 +2690,7 @@
         "bookingLabel": "View restaurant",
         "manualHoursAuthority": true,
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       },
       {
@@ -2684,7 +2734,7 @@
           "Sunday: 4:30 – 9:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2769,8 +2819,9 @@
             ]
           ]
         },
+        "reservationsRequired": true,
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "manual"
       },
       {
@@ -2778,7 +2829,7 @@
         "area": "Mountain Village",
         "address": "444 Andesite Ridge Rd, Big Sky, MT 59716",
         "hours": "Lunch daily 11:00 AM - 4:00 PM / Dinner Wed - Sat 5:00 - 9:00 PM (winter)",
-        "note": "Guests ride the chairlift up to dinner at 8,800 feet. Alpine tasting menu, seasonal, spectacular views. One of the more unique restaurant experiences in the state - winter only.",
+        "note": "Guests ride the chairlift up to dinner at 8,800 feet. Alpine tasting menu, seasonal, spectacular views. One of the more unique restaurant experiences in the state - winter only. Not listed on the current spring dining guide. Confirm current hours before recommending.",
         "vibe": [
           "Luxury",
           "Romantic",
@@ -2804,6 +2855,12 @@
         "mapUrl": "https://maps.google.com/?q=Everett%27s+8800+Big+Sky",
         "bookingUrl": "https://www.opentable.com/everetts-8800",
         "bookingLabel": "Reserve on OpenTable",
+        "excludeFromAutoBuild": true,
+        "confidenceOverride": {
+          "level": "verify",
+          "label": "Manual confirm only",
+          "reason": "This place is not listed on the current spring dining guide"
+        },
         "placeId": "ChIJA7yXO9INUFMR4WyhEzlhbGw",
         "googleHours": [
           "Monday: 11:00 AM – 4:00 PM",
@@ -2815,7 +2872,7 @@
           "Sunday: 11:00 AM – 4:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2857,7 +2914,7 @@
           "Sunday: Closed"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       }
     ],
@@ -2896,7 +2953,7 @@
         "placeId": "ChIJz-fIY-YRUFMRwVZo3WbuWsk",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2931,7 +2988,7 @@
         "placeId": "ChIJb-ZvcgwRUFMRCyAoesjB_Uw",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2966,7 +3023,7 @@
         "placeId": "ChIJqQHKKIURUFMRC1o6O8vAauw",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3001,7 +3058,7 @@
         "placeId": "ChIJr-FaBOsRUFMRyS7xYk8Vumo",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3042,7 +3099,7 @@
           "Sunday: Open 24 hours"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3087,8 +3144,8 @@
           "Saturday: 9:00 AM – 6:00 PM",
           "Sunday: 9:00 AM – 6:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3132,8 +3189,8 @@
           "Saturday: 9:00 AM – 6:00 PM",
           "Sunday: 9:00 AM – 6:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3176,7 +3233,7 @@
           "Sunday: 4:00 PM – 12:00 AM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3218,8 +3275,8 @@
           "Saturday: 8:00 AM – 6:00 PM",
           "Sunday: 8:00 AM – 6:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3264,7 +3321,7 @@
           "Sunday: 8:00 AM – 8:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3301,7 +3358,7 @@
         "placeId": "ChIJ67mfOKYaUFMRHEQzcgMcqxg",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3344,8 +3401,8 @@
           "Saturday: 9:00 AM – 6:00 PM",
           "Sunday: 9:00 AM – 6:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3389,7 +3446,7 @@
           "Sunday: 8:00 AM – 5:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3426,7 +3483,7 @@
         "placeId": "ChIJgV11s8wPUFMRlpczqJZJMH0",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3470,7 +3527,7 @@
           "Sunday: 9:30 AM – 5:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3513,7 +3570,7 @@
           "Sunday: Closed"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3555,8 +3612,8 @@
           "Saturday: 8:00 AM – 6:00 PM",
           "Sunday: 8:00 AM – 6:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3591,8 +3648,8 @@
           "Saturday: 9:00 AM – 6:00 PM",
           "Sunday: 10:00 AM – 5:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3629,7 +3686,7 @@
         "placeId": "ChIJd9KNzw0RUFMRI4YPf3aa6JA",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       }
     ],
@@ -3674,8 +3731,8 @@
           "Saturday: 9:00 AM – 6:00 PM",
           "Sunday: 9:00 AM – 6:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3710,7 +3767,7 @@
         "placeId": "ChIJz-fIY-YRUFMRwVZo3WbuWsk",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3752,7 +3809,7 @@
           "Sunday: 8:00 AM – 10:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3796,7 +3853,7 @@
           "Sunday: 4:00 PM – 12:00 AM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3840,7 +3897,7 @@
           "Sunday: 8:00 AM – 8:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3876,7 +3933,7 @@
         "placeId": "ChIJ67mfOKYaUFMRHEQzcgMcqxg",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3919,7 +3976,7 @@
           "Sunday: 8:00 AM – 5:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3954,7 +4011,7 @@
         "placeId": "ChIJd9KNzw0RUFMRI4YPf3aa6JA",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-24T23:21:52.096Z",
+        "hoursFetchedAt": "2026-04-25T00:09:00.667Z",
         "hoursStatus": "fresh"
       }
     ]
@@ -4021,9 +4078,9 @@
       "message": "For current airport transportation options or help coordinating a preferred local driver, contact the front desk."
     }
   },
-  "version": "2026-04-24T23:21:52.096Z",
-  "publishedAt": "2026-04-24T23:21:52.096Z",
-  "contentGeneratedAt": "2026-04-24T23:21:52.096Z",
+  "version": "2026-04-25T00:09:00.667Z",
+  "publishedAt": "2026-04-25T00:09:00.667Z",
+  "contentGeneratedAt": "2026-04-25T00:09:00.667Z",
   "opsOverridesApplied": [
     {
       "name": "Blue Moon Bakery",
@@ -4090,6 +4147,14 @@
       "endDate": ""
     },
     {
+      "name": "Chet's Bar & Grill",
+      "category": "lunch",
+      "temporaryClosed": false,
+      "hideFromRecommendations": false,
+      "startDate": "2026-04-24",
+      "endDate": ""
+    },
+    {
       "name": "Terrain Taco",
       "category": "lunch",
       "temporaryClosed": false,
@@ -4138,6 +4203,22 @@
       "endDate": ""
     },
     {
+      "name": "Scissorbills Saloon",
+      "category": "lunch",
+      "temporaryClosed": false,
+      "hideFromRecommendations": false,
+      "startDate": "2026-04-24",
+      "endDate": ""
+    },
+    {
+      "name": "Beartooth Pub & Rec",
+      "category": "lunch",
+      "temporaryClosed": false,
+      "hideFromRecommendations": false,
+      "startDate": "2026-04-24",
+      "endDate": ""
+    },
+    {
       "name": "Cafe 191",
       "category": "lunch",
       "temporaryClosed": false,
@@ -4171,6 +4252,38 @@
     },
     {
       "name": "Block 3 Kitchen & Bar",
+      "category": "dinner",
+      "temporaryClosed": false,
+      "hideFromRecommendations": false,
+      "startDate": "2026-04-24",
+      "endDate": ""
+    },
+    {
+      "name": "Cabin Bar & Grill",
+      "category": "dinner",
+      "temporaryClosed": false,
+      "hideFromRecommendations": false,
+      "startDate": "2026-04-24",
+      "endDate": ""
+    },
+    {
+      "name": "Horn & Cantle",
+      "category": "dinner",
+      "temporaryClosed": false,
+      "hideFromRecommendations": false,
+      "startDate": "2026-04-24",
+      "endDate": ""
+    },
+    {
+      "name": "Cortina",
+      "category": "dinner",
+      "temporaryClosed": false,
+      "hideFromRecommendations": false,
+      "startDate": "2026-04-24",
+      "endDate": ""
+    },
+    {
+      "name": "Montana Jack",
       "category": "dinner",
       "temporaryClosed": false,
       "hideFromRecommendations": false,
@@ -4226,12 +4339,20 @@
       "endDate": ""
     },
     {
-      "name": "Thai Basil",
+      "name": "Alberto's Mexican Restaurant",
       "category": "dinner",
       "temporaryClosed": false,
       "hideFromRecommendations": false,
       "startDate": "2026-04-24",
       "endDate": ""
+    },
+    {
+      "name": "Thai Basil",
+      "category": "dinner",
+      "temporaryClosed": false,
+      "hideFromRecommendations": false,
+      "startDate": "2026-04-24",
+      "endDate": "2026-04-30"
     },
     {
       "name": "Tips Up",
@@ -4264,6 +4385,14 @@
       "hideFromRecommendations": false,
       "startDate": "2026-04-24",
       "endDate": "2026-05-22"
+    },
+    {
+      "name": "Everett's 8800",
+      "category": "dinner",
+      "temporaryClosed": false,
+      "hideFromRecommendations": false,
+      "startDate": "2026-04-24",
+      "endDate": ""
     },
     {
       "name": "Tres Toros Tacos & Tequila",
