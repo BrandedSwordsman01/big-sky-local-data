@@ -90,14 +90,14 @@
         "placeId": "ChIJWSsU1AARUFMRRVOd4Y2qarA",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
         "name": "Blue Moon Bakery",
         "area": "Town Center",
         "address": "120 Big Pine Dr, Big Sky, MT 59716",
-        "hours": "Daily 8:00 AM - 9:00 PM",
+        "hours": "Every day, 8:00 AM - 9:00 PM",
         "note": "Town Center bakery for pastries, coffee, and a simple walkable breakfast.",
         "vibe": [
           "Cozy",
@@ -116,31 +116,71 @@
           "now",
           "quick"
         ],
-        "availability": {
-          "kind": "daily",
-          "start": "08:00",
-          "end": "21:00"
-        },
+        "availability": {},
         "mapUrl": "https://maps.google.com/?q=Blue+Moon+Bakery+Big+Sky",
-        "placeId": "ChIJNfEVW9MRUFMR1HKGZpnaUcM",
+        "manualHoursAuthority": true,
         "googleHours": [
-          "Monday: 8:00 AM – 9:00 PM",
-          "Tuesday: 8:00 AM – 9:00 PM",
-          "Wednesday: 8:00 AM – 9:00 PM",
-          "Thursday: 8:00 AM – 9:00 PM",
-          "Friday: 8:00 AM – 9:00 PM",
-          "Saturday: 8:00 AM – 9:00 PM",
-          "Sunday: 8:00 AM – 9:00 PM"
+          "Sunday: 8:00 AM - 9:00 PM",
+          "Monday: 8:00 AM - 9:00 PM",
+          "Tuesday: 8:00 AM - 9:00 PM",
+          "Wednesday: 8:00 AM - 9:00 PM",
+          "Thursday: 8:00 AM - 9:00 PM",
+          "Friday: 8:00 AM - 9:00 PM",
+          "Saturday: 8:00 AM - 9:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "weeklyHours": {
+          "0": [
+            [
+              "08:00",
+              "21:00"
+            ]
+          ],
+          "1": [
+            [
+              "08:00",
+              "21:00"
+            ]
+          ],
+          "2": [
+            [
+              "08:00",
+              "21:00"
+            ]
+          ],
+          "3": [
+            [
+              "08:00",
+              "21:00"
+            ]
+          ],
+          "4": [
+            [
+              "08:00",
+              "21:00"
+            ]
+          ],
+          "5": [
+            [
+              "08:00",
+              "21:00"
+            ]
+          ],
+          "6": [
+            [
+              "08:00",
+              "21:00"
+            ]
+          ]
+        },
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       },
       {
         "name": "Cowboy Coffee Co.",
         "area": "Town Center",
         "address": "25 Town Center Ave, Big Sky, MT 59716",
-        "hours": "Daily 6:00 AM - 6:00 PM / strongest breakfast pickup in the morning",
+        "hours": "Every day, 6:00 AM - 6:00 PM through April",
         "note": "Town Center coffee shop with burritos, pastries, and espresso. Easy breakfast stop from the Wilson.",
         "vibe": [
           "Local",
@@ -159,31 +199,71 @@
           "now",
           "quick"
         ],
-        "availability": {
-          "kind": "daily",
-          "start": "06:00",
-          "end": "18:00"
-        },
+        "availability": {},
         "mapUrl": "https://maps.google.com/?q=Cowboy+Coffee+Big+Sky",
-        "placeId": "ChIJLTlj4cYRUFMR2Qn9GMPcp9o",
+        "manualHoursAuthority": true,
         "googleHours": [
-          "Monday: 6:00 AM – 6:00 PM",
-          "Tuesday: 6:00 AM – 6:00 PM",
-          "Wednesday: 6:00 AM – 6:00 PM",
-          "Thursday: 6:00 AM – 6:00 PM",
-          "Friday: 6:00 AM – 6:00 PM",
-          "Saturday: 6:00 AM – 6:00 PM",
-          "Sunday: 6:00 AM – 6:00 PM"
+          "Sunday: 6:00 AM - 6:00 PM",
+          "Monday: 6:00 AM - 6:00 PM",
+          "Tuesday: 6:00 AM - 6:00 PM",
+          "Wednesday: 6:00 AM - 6:00 PM",
+          "Thursday: 6:00 AM - 6:00 PM",
+          "Friday: 6:00 AM - 6:00 PM",
+          "Saturday: 6:00 AM - 6:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "weeklyHours": {
+          "0": [
+            [
+              "06:00",
+              "18:00"
+            ]
+          ],
+          "1": [
+            [
+              "06:00",
+              "18:00"
+            ]
+          ],
+          "2": [
+            [
+              "06:00",
+              "18:00"
+            ]
+          ],
+          "3": [
+            [
+              "06:00",
+              "18:00"
+            ]
+          ],
+          "4": [
+            [
+              "06:00",
+              "18:00"
+            ]
+          ],
+          "5": [
+            [
+              "06:00",
+              "18:00"
+            ]
+          ],
+          "6": [
+            [
+              "06:00",
+              "18:00"
+            ]
+          ]
+        },
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       },
       {
         "name": "Hungry Moose Market & Deli",
         "area": "Town Center",
         "address": "209 Aspen Leaf Dr, Big Sky, MT 59716",
-        "hours": "Daily 6:30 AM - 9:00 PM / deli starts early for breakfast",
+        "hours": "Every day, 6:30 AM - 9:00 PM",
         "note": "Town Center deli and market with breakfast burritos, pastries, coffee, and grab-and-go items.",
         "vibe": [
           "Local",
@@ -202,33 +282,73 @@
           "now",
           "quick"
         ],
-        "availability": {
-          "kind": "daily",
-          "start": "06:30",
-          "end": "11:00"
-        },
+        "availability": {},
         "mapUrl": "https://maps.google.com/?q=Hungry+Moose+Market+and+Deli+Big+Sky",
         "bookingUrl": "https://www.hungrymoose.com/locations/town-center",
         "bookingLabel": "View deli",
-        "placeId": "ChIJF6EwLdMRUFMRBevJlGCCBnc",
+        "manualHoursAuthority": true,
         "googleHours": [
-          "Monday: 6:30 AM – 9:00 PM",
-          "Tuesday: 6:30 AM – 9:00 PM",
-          "Wednesday: 6:30 AM – 9:00 PM",
-          "Thursday: 6:30 AM – 9:00 PM",
-          "Friday: 6:30 AM – 9:00 PM",
-          "Saturday: 6:30 AM – 9:00 PM",
-          "Sunday: 6:30 AM – 9:00 PM"
+          "Sunday: 6:30 AM - 9:00 PM",
+          "Monday: 6:30 AM - 9:00 PM",
+          "Tuesday: 6:30 AM - 9:00 PM",
+          "Wednesday: 6:30 AM - 9:00 PM",
+          "Thursday: 6:30 AM - 9:00 PM",
+          "Friday: 6:30 AM - 9:00 PM",
+          "Saturday: 6:30 AM - 9:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "weeklyHours": {
+          "0": [
+            [
+              "06:30",
+              "21:00"
+            ]
+          ],
+          "1": [
+            [
+              "06:30",
+              "21:00"
+            ]
+          ],
+          "2": [
+            [
+              "06:30",
+              "21:00"
+            ]
+          ],
+          "3": [
+            [
+              "06:30",
+              "21:00"
+            ]
+          ],
+          "4": [
+            [
+              "06:30",
+              "21:00"
+            ]
+          ],
+          "5": [
+            [
+              "06:30",
+              "21:00"
+            ]
+          ],
+          "6": [
+            [
+              "06:30",
+              "21:00"
+            ]
+          ]
+        },
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       },
       {
         "name": "Unravel Coffee + Bar",
         "area": "Town Center",
         "address": "88 Big Pine Dr, Big Sky, MT 59716",
-        "hours": "Breakfast service 7:00 AM - 11:00 AM",
+        "hours": "Thursday - Monday, breakfast 7:00 AM - 11:00 AM (all day coffee)",
         "note": "Gravity Haus cafe with espresso, breakfast, and patio seating in good weather.",
         "vibe": [
           "Adventure",
@@ -247,31 +367,59 @@
           "now",
           "quick"
         ],
-        "availability": {
-          "kind": "daily",
-          "start": "07:00",
-          "end": "11:00"
-        },
+        "availability": {},
         "mapUrl": "https://maps.google.com/?q=Unravel+Coffee+Big+Sky",
-        "placeId": "ChIJ58RbNq4RUFMRLfHRDWjMRXY",
+        "manualHoursAuthority": true,
         "googleHours": [
-          "Monday: 7:30 AM – 8:00 PM",
-          "Tuesday: 7:30 AM – 8:00 PM",
-          "Wednesday: 7:30 AM – 8:00 PM",
-          "Thursday: 7:30 AM – 8:00 PM",
-          "Friday: 7:30 AM – 8:00 PM",
-          "Saturday: 7:30 AM – 8:00 PM",
-          "Sunday: 7:30 AM – 8:00 PM"
+          "Sunday: 7:00 AM - 11:00 AM",
+          "Monday: 7:00 AM - 11:00 AM",
+          "Tuesday: Closed",
+          "Wednesday: Closed",
+          "Thursday: 7:00 AM - 11:00 AM",
+          "Friday: 7:00 AM - 11:00 AM",
+          "Saturday: 7:00 AM - 11:00 AM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "weeklyHours": {
+          "0": [
+            [
+              "07:00",
+              "11:00"
+            ]
+          ],
+          "1": [
+            [
+              "07:00",
+              "11:00"
+            ]
+          ],
+          "4": [
+            [
+              "07:00",
+              "11:00"
+            ]
+          ],
+          "5": [
+            [
+              "07:00",
+              "11:00"
+            ]
+          ],
+          "6": [
+            [
+              "07:00",
+              "11:00"
+            ]
+          ]
+        },
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       },
       {
         "name": "Caliber Coffee Roasters",
         "area": "Town Center",
         "address": "80 Snowy Mountain Cir, Big Sky, MT 59716",
-        "hours": "Mon-Sat 7:00 AM - 3:00 PM / Sun 7:00 AM - 1:00 PM",
+        "hours": "Monday - Saturday, 7:00 AM - 3:00 PM / Sunday, 7:00 AM - 1:00 PM",
         "note": "Town Center coffee roaster with espresso drinks, breakfast burritos, and baked goods.",
         "vibe": [
           "Local",
@@ -290,11 +438,7 @@
           "now",
           "quick"
         ],
-        "availability": {
-          "kind": "daily",
-          "start": "07:00",
-          "end": "15:00"
-        },
+        "availability": {},
         "weeklyHours": {
           "0": [
             [
@@ -340,25 +484,25 @@
           ]
         },
         "mapUrl": "https://maps.google.com/?q=Caliber+Coffee+Roasters+Big+Sky",
-        "placeId": "ChIJ0Q-jNnoQUFMRy-ZW818rJCU",
+        "manualHoursAuthority": true,
         "googleHours": [
-          "Monday: 7:00 AM – 3:00 PM",
-          "Tuesday: 7:00 AM – 3:00 PM",
-          "Wednesday: 7:00 AM – 3:00 PM",
-          "Thursday: 7:00 AM – 3:00 PM",
-          "Friday: 7:00 AM – 3:00 PM",
-          "Saturday: 7:00 AM – 3:00 PM",
-          "Sunday: 7:00 AM – 1:00 PM"
+          "Sunday: 7:00 AM - 1:00 PM",
+          "Monday: 7:00 AM - 3:00 PM",
+          "Tuesday: 7:00 AM - 3:00 PM",
+          "Wednesday: 7:00 AM - 3:00 PM",
+          "Thursday: 7:00 AM - 3:00 PM",
+          "Friday: 7:00 AM - 3:00 PM",
+          "Saturday: 7:00 AM - 3:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       },
       {
         "name": "Cafe 191",
         "area": "Highway 191",
         "address": "47995 Gallatin Rd Suite 101, Gallatin Gateway, MT 59730",
-        "hours": "Daily 6:00 AM - 3:00 PM / breakfast all day",
+        "hours": "Every day, 6:00 AM - 3:00 PM",
         "note": "Highway 191 breakfast-and-lunch cafe with coffee and full breakfast plates.",
         "vibe": [
           "Local",
@@ -376,33 +520,73 @@
         "timeTags": [
           "now"
         ],
-        "availability": {
-          "kind": "daily",
-          "start": "06:00",
-          "end": "15:00"
-        },
+        "availability": {},
         "mapUrl": "https://maps.google.com/?q=Cafe+191+Big+Sky",
         "bookingUrl": "https://cafe191bigsky.com/",
         "bookingLabel": "View cafe",
-        "placeId": "ChIJmYaKNC4bUFMRCc32RbR7nPs",
+        "manualHoursAuthority": true,
         "googleHours": [
-          "Monday: 6:00 AM – 3:00 PM",
-          "Tuesday: 6:00 AM – 3:00 PM",
-          "Wednesday: 6:00 AM – 3:00 PM",
-          "Thursday: 6:00 AM – 3:00 PM",
-          "Friday: 6:00 AM – 3:00 PM",
-          "Saturday: 6:00 AM – 3:00 PM",
-          "Sunday: 6:00 AM – 3:00 PM"
+          "Sunday: 6:00 AM - 3:00 PM",
+          "Monday: 6:00 AM - 3:00 PM",
+          "Tuesday: 6:00 AM - 3:00 PM",
+          "Wednesday: 6:00 AM - 3:00 PM",
+          "Thursday: 6:00 AM - 3:00 PM",
+          "Friday: 6:00 AM - 3:00 PM",
+          "Saturday: 6:00 AM - 3:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "weeklyHours": {
+          "0": [
+            [
+              "06:00",
+              "15:00"
+            ]
+          ],
+          "1": [
+            [
+              "06:00",
+              "15:00"
+            ]
+          ],
+          "2": [
+            [
+              "06:00",
+              "15:00"
+            ]
+          ],
+          "3": [
+            [
+              "06:00",
+              "15:00"
+            ]
+          ],
+          "4": [
+            [
+              "06:00",
+              "15:00"
+            ]
+          ],
+          "5": [
+            [
+              "06:00",
+              "15:00"
+            ]
+          ],
+          "6": [
+            [
+              "06:00",
+              "15:00"
+            ]
+          ]
+        },
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       },
       {
         "name": "Hero Snow Coffee",
         "area": "Meadow Village",
         "address": "48 Market Pl, Big Sky, MT 59716",
-        "hours": "Weekday mornings and early afternoons / check current Instagram posts for exact hours",
+        "hours": "April 20 - May 31: Monday - Friday, 8:00 AM - 12:00 PM",
         "note": "Meadow Village coffee shop with espresso, baked goods, and breakfast sandwiches.",
         "vibe": [
           "Local",
@@ -424,51 +608,52 @@
         "weeklyHours": {
           "1": [
             [
-              "07:00",
-              "13:00"
+              "08:00",
+              "12:00"
             ]
           ],
           "2": [
             [
-              "07:00",
-              "13:00"
+              "08:00",
+              "12:00"
             ]
           ],
           "3": [
             [
-              "07:00",
-              "13:00"
+              "08:00",
+              "12:00"
             ]
           ],
           "4": [
             [
-              "07:00",
-              "13:00"
+              "08:00",
+              "12:00"
             ]
           ],
           "5": [
             [
-              "07:00",
-              "13:00"
+              "08:00",
+              "12:00"
             ]
           ]
         },
         "mapUrl": "https://maps.google.com/?q=Hero+Snow+Coffee+Big+Sky",
         "bookingUrl": "https://www.herosnowcoffee.com/",
         "bookingLabel": "View coffee shop",
-        "placeId": "ChIJORaRJr0RUFMRYLhPTQAfjPA",
+        "manualHoursAuthority": true,
         "googleHours": [
-          "Monday: 8:00 AM – 12:00 PM",
-          "Tuesday: 8:00 AM – 12:00 PM",
-          "Wednesday: 8:00 AM – 12:00 PM",
-          "Thursday: 8:00 AM – 12:00 PM",
-          "Friday: 8:00 AM – 12:00 PM",
-          "Saturday: Closed",
-          "Sunday: Closed"
+          "Sunday: Closed",
+          "Monday: 8:00 AM - 12:00 PM",
+          "Tuesday: 8:00 AM - 12:00 PM",
+          "Wednesday: 8:00 AM - 12:00 PM",
+          "Thursday: 8:00 AM - 12:00 PM",
+          "Friday: 8:00 AM - 12:00 PM",
+          "Saturday: Closed"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "availability": {},
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       }
     ],
     "lunch": [
@@ -476,7 +661,7 @@
         "name": "By Word of Mouth",
         "area": "Town Center",
         "address": "77 Aspen Leaf Dr, Big Sky, MT 59716",
-        "hours": "Mon - Fri 11:30 AM - 9:00 PM (closed Sat - Sun)",
+        "hours": "Monday - Friday, 11:30 AM - 9:00 PM",
         "note": "Town Center bistro with weekday lunch and an easy walk from the hotel.",
         "vibe": [
           "Local",
@@ -495,19 +680,15 @@
           "now",
           "quick"
         ],
-        "availability": {
-          "kind": "daily",
-          "start": "11:30",
-          "end": "21:00"
-        },
+        "availability": {},
         "googleHours": [
-          "Monday: 11:30 AM – 9:00 PM",
-          "Tuesday: 11:30 AM – 9:00 PM",
-          "Wednesday: 11:30 AM – 9:00 PM",
-          "Thursday: 11:30 AM – 9:00 PM",
-          "Friday: 11:30 AM – 9:00 PM",
-          "Saturday: Closed",
-          "Sunday: Closed"
+          "Sunday: Closed",
+          "Monday: 11:30 AM - 9:00 PM",
+          "Tuesday: 11:30 AM - 9:00 PM",
+          "Wednesday: 11:30 AM - 9:00 PM",
+          "Thursday: 11:30 AM - 9:00 PM",
+          "Friday: 11:30 AM - 9:00 PM",
+          "Saturday: Closed"
         ],
         "weeklyHours": {
           "1": [
@@ -542,17 +723,17 @@
           ]
         },
         "mapUrl": "https://maps.google.com/?q=By+Word+of+Mouth+Big+Sky",
-        "placeId": "ChIJW9SnctMRUFMRMwSfMeN6mJ0",
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "manualHoursAuthority": true,
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       },
       {
         "name": "Chet's Bar & Grill",
         "area": "Mountain Village",
         "address": "44 Big Sky Resort Rd, Big Sky, MT 59716",
         "hours": "Daily, Lunch 11:00 AM - 2:30 PM / Dinner 5:00 - 10:00 PM",
-        "note": "Mountain Village bar and grill with burgers, sandwiches, and a casual resort-side lunch.",
+        "note": "Mountain Village bar and grill with burgers, sandwiches, and a casual resort-side lunch. Not listed on the current spring dining guide. Confirm current hours before recommending.",
         "vibe": [
           "Family",
           "Local",
@@ -575,6 +756,12 @@
           "end": "14:30"
         },
         "mapUrl": "https://maps.google.com/?q=Chet%27s+Bar+and+Grill+Big+Sky",
+        "excludeFromAutoBuild": true,
+        "confidenceOverride": {
+          "level": "verify",
+          "label": "Manual confirm only",
+          "reason": "This place is not listed on the current spring dining guide"
+        },
         "placeId": "ChIJwZ8lr6caUFMRnUUc-oR79FU",
         "googleHours": [
           "Monday: 4:00 – 10:00 PM",
@@ -585,15 +772,15 @@
           "Saturday: 4:00 – 10:00 PM",
           "Sunday: 4:00 – 10:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
         "name": "Terrain Taco",
         "area": "Town Center",
         "address": "88 Big Pine Dr, Big Sky, MT 59716",
-        "hours": "Daily 11:30 AM - 10:00 PM",
+        "hours": "Thursday - Monday, 11:00 AM - 10:00 PM",
         "note": "Gravity Haus taco spot with margaritas, patio seating, and an easy midday stop.",
         "vibe": [
           "Adventure",
@@ -612,31 +799,59 @@
           "now",
           "quick"
         ],
-        "availability": {
-          "kind": "daily",
-          "start": "11:30",
-          "end": "22:00"
-        },
+        "availability": {},
         "mapUrl": "https://maps.google.com/?q=Terrain+Taco+Big+Sky",
-        "placeId": "ChIJpzKAc10RUFMRoCV4wJjXw_c",
+        "manualHoursAuthority": true,
         "googleHours": [
-          "Monday: 7:00 AM – 10:00 PM",
-          "Tuesday: 7:00 AM – 10:00 PM",
-          "Wednesday: 7:00 AM – 10:00 PM",
-          "Thursday: 7:00 AM – 10:00 PM",
-          "Friday: 7:00 AM – 10:00 PM",
-          "Saturday: 7:00 AM – 10:00 PM",
-          "Sunday: 7:00 AM – 10:00 PM"
+          "Sunday: 11:00 AM - 10:00 PM",
+          "Monday: 11:00 AM - 10:00 PM",
+          "Tuesday: Closed",
+          "Wednesday: Closed",
+          "Thursday: 11:00 AM - 10:00 PM",
+          "Friday: 11:00 AM - 10:00 PM",
+          "Saturday: 11:00 AM - 10:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "weeklyHours": {
+          "0": [
+            [
+              "11:00",
+              "22:00"
+            ]
+          ],
+          "1": [
+            [
+              "11:00",
+              "22:00"
+            ]
+          ],
+          "4": [
+            [
+              "11:00",
+              "22:00"
+            ]
+          ],
+          "5": [
+            [
+              "11:00",
+              "22:00"
+            ]
+          ],
+          "6": [
+            [
+              "11:00",
+              "22:00"
+            ]
+          ]
+        },
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       },
       {
         "name": "Wrap Shack",
         "area": "Town Center",
         "address": "77 Aspen Leaf Dr, Big Sky, MT 59716",
-        "hours": "Mon - Sat 11:00 AM - 7:00 PM / Closed Sunday",
+        "hours": "Monday - Friday, 11:30 AM - 3:00 PM",
         "note": "Town Center counter spot for wraps, bowls, and quick lunch.",
         "vibe": [
           "Local",
@@ -655,31 +870,59 @@
           "now",
           "quick"
         ],
-        "availability": {
-          "kind": "daily",
-          "start": "11:00",
-          "end": "19:00"
-        },
+        "availability": {},
         "mapUrl": "https://maps.google.com/?q=Wrap+Shack+Big+Sky",
-        "placeId": "ChIJ_8cfFtMRUFMRe4PkcAbYY8I",
+        "manualHoursAuthority": true,
         "googleHours": [
-          "Monday: 11:30 AM – 3:00 PM",
-          "Tuesday: 11:30 AM – 3:00 PM",
-          "Wednesday: 11:30 AM – 3:00 PM",
-          "Thursday: 11:30 AM – 3:00 PM",
-          "Friday: 11:30 AM – 3:00 PM",
-          "Saturday: Closed",
-          "Sunday: Closed"
+          "Sunday: Closed",
+          "Monday: 11:30 AM - 3:00 PM",
+          "Tuesday: 11:30 AM - 3:00 PM",
+          "Wednesday: 11:30 AM - 3:00 PM",
+          "Thursday: 11:30 AM - 3:00 PM",
+          "Friday: 11:30 AM - 3:00 PM",
+          "Saturday: Closed"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "weeklyHours": {
+          "1": [
+            [
+              "11:30",
+              "15:00"
+            ]
+          ],
+          "2": [
+            [
+              "11:30",
+              "15:00"
+            ]
+          ],
+          "3": [
+            [
+              "11:30",
+              "15:00"
+            ]
+          ],
+          "4": [
+            [
+              "11:30",
+              "15:00"
+            ]
+          ],
+          "5": [
+            [
+              "11:30",
+              "15:00"
+            ]
+          ]
+        },
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       },
       {
         "name": "Blindside Burger",
         "area": "Town Center",
         "address": "47 Town Center Ave, Suite D1, Big Sky, MT 59716",
-        "hours": "Sun-Sat 11:00 AM - 6:30 PM / slightly earlier close on weekends",
+        "hours": "Every day, 11:30 AM - 6:00 PM",
         "note": "Town Center burger spot with smash burgers, fries, and shakes.",
         "vibe": [
           "Family",
@@ -698,31 +941,71 @@
           "now",
           "quick"
         ],
-        "availability": {
-          "kind": "daily",
-          "start": "11:00",
-          "end": "18:30"
-        },
+        "availability": {},
         "mapUrl": "https://maps.google.com/?q=Blindside+Burger+Big+Sky",
-        "placeId": "ChIJ6acjZ4URUFMRcMXxCI8AF44",
+        "manualHoursAuthority": true,
         "googleHours": [
-          "Monday: 11:30 AM – 6:00 PM",
-          "Tuesday: 11:30 AM – 6:00 PM",
-          "Wednesday: 11:30 AM – 6:00 PM",
-          "Thursday: 11:30 AM – 6:00 PM",
-          "Friday: 11:30 AM – 6:00 PM",
-          "Saturday: 11:30 AM – 6:00 PM",
-          "Sunday: 11:30 AM – 6:00 PM"
+          "Sunday: 11:30 AM - 6:00 PM",
+          "Monday: 11:30 AM - 6:00 PM",
+          "Tuesday: 11:30 AM - 6:00 PM",
+          "Wednesday: 11:30 AM - 6:00 PM",
+          "Thursday: 11:30 AM - 6:00 PM",
+          "Friday: 11:30 AM - 6:00 PM",
+          "Saturday: 11:30 AM - 6:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "weeklyHours": {
+          "0": [
+            [
+              "11:30",
+              "18:00"
+            ]
+          ],
+          "1": [
+            [
+              "11:30",
+              "18:00"
+            ]
+          ],
+          "2": [
+            [
+              "11:30",
+              "18:00"
+            ]
+          ],
+          "3": [
+            [
+              "11:30",
+              "18:00"
+            ]
+          ],
+          "4": [
+            [
+              "11:30",
+              "18:00"
+            ]
+          ],
+          "5": [
+            [
+              "11:30",
+              "18:00"
+            ]
+          ],
+          "6": [
+            [
+              "11:30",
+              "18:00"
+            ]
+          ]
+        },
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       },
       {
         "name": "Cowboy Coffee Co.",
         "area": "Town Center",
         "address": "25 Town Center Ave, Big Sky, MT 59716",
-        "hours": "Daily 6:00 AM - 6:00 PM / lunch-friendly cafe menu later in the day",
+        "hours": "Every day, 6:00 AM - 6:00 PM through April",
         "note": "Coffee shop lunch stop for sandwiches, paninis, and espresso in Town Center.",
         "vibe": [
           "Local",
@@ -741,31 +1024,71 @@
           "now",
           "quick"
         ],
-        "availability": {
-          "kind": "daily",
-          "start": "11:00",
-          "end": "18:00"
-        },
+        "availability": {},
         "mapUrl": "https://maps.google.com/?q=Cowboy+Coffee+Big+Sky",
-        "placeId": "ChIJLTlj4cYRUFMR2Qn9GMPcp9o",
+        "manualHoursAuthority": true,
         "googleHours": [
-          "Monday: 6:00 AM – 6:00 PM",
-          "Tuesday: 6:00 AM – 6:00 PM",
-          "Wednesday: 6:00 AM – 6:00 PM",
-          "Thursday: 6:00 AM – 6:00 PM",
-          "Friday: 6:00 AM – 6:00 PM",
-          "Saturday: 6:00 AM – 6:00 PM",
-          "Sunday: 6:00 AM – 6:00 PM"
+          "Sunday: 6:00 AM - 6:00 PM",
+          "Monday: 6:00 AM - 6:00 PM",
+          "Tuesday: 6:00 AM - 6:00 PM",
+          "Wednesday: 6:00 AM - 6:00 PM",
+          "Thursday: 6:00 AM - 6:00 PM",
+          "Friday: 6:00 AM - 6:00 PM",
+          "Saturday: 6:00 AM - 6:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "weeklyHours": {
+          "0": [
+            [
+              "06:00",
+              "18:00"
+            ]
+          ],
+          "1": [
+            [
+              "06:00",
+              "18:00"
+            ]
+          ],
+          "2": [
+            [
+              "06:00",
+              "18:00"
+            ]
+          ],
+          "3": [
+            [
+              "06:00",
+              "18:00"
+            ]
+          ],
+          "4": [
+            [
+              "06:00",
+              "18:00"
+            ]
+          ],
+          "5": [
+            [
+              "06:00",
+              "18:00"
+            ]
+          ],
+          "6": [
+            [
+              "06:00",
+              "18:00"
+            ]
+          ]
+        },
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       },
       {
         "name": "Hungry Moose Market & Deli",
         "area": "Town Center",
         "address": "209 Aspen Leaf Dr, Big Sky, MT 59716",
-        "hours": "Daily 6:30 AM - 9:00 PM / lunch-friendly deli and grab-and-go",
+        "hours": "Every day, 6:30 AM - 9:00 PM",
         "note": "Town Center deli for sandwiches, salads, and quick market pickup.",
         "vibe": [
           "Local",
@@ -784,33 +1107,73 @@
           "now",
           "quick"
         ],
-        "availability": {
-          "kind": "daily",
-          "start": "11:00",
-          "end": "16:00"
-        },
+        "availability": {},
         "mapUrl": "https://maps.google.com/?q=Hungry+Moose+Market+and+Deli+Big+Sky",
         "bookingUrl": "https://www.hungrymoose.com/deli-and-bakery-menus/deli",
         "bookingLabel": "View deli",
-        "placeId": "ChIJF6EwLdMRUFMRBevJlGCCBnc",
+        "manualHoursAuthority": true,
         "googleHours": [
-          "Monday: 6:30 AM – 9:00 PM",
-          "Tuesday: 6:30 AM – 9:00 PM",
-          "Wednesday: 6:30 AM – 9:00 PM",
-          "Thursday: 6:30 AM – 9:00 PM",
-          "Friday: 6:30 AM – 9:00 PM",
-          "Saturday: 6:30 AM – 9:00 PM",
-          "Sunday: 6:30 AM – 9:00 PM"
+          "Sunday: 6:30 AM - 9:00 PM",
+          "Monday: 6:30 AM - 9:00 PM",
+          "Tuesday: 6:30 AM - 9:00 PM",
+          "Wednesday: 6:30 AM - 9:00 PM",
+          "Thursday: 6:30 AM - 9:00 PM",
+          "Friday: 6:30 AM - 9:00 PM",
+          "Saturday: 6:30 AM - 9:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "weeklyHours": {
+          "0": [
+            [
+              "06:30",
+              "21:00"
+            ]
+          ],
+          "1": [
+            [
+              "06:30",
+              "21:00"
+            ]
+          ],
+          "2": [
+            [
+              "06:30",
+              "21:00"
+            ]
+          ],
+          "3": [
+            [
+              "06:30",
+              "21:00"
+            ]
+          ],
+          "4": [
+            [
+              "06:30",
+              "21:00"
+            ]
+          ],
+          "5": [
+            [
+              "06:30",
+              "21:00"
+            ]
+          ],
+          "6": [
+            [
+              "06:30",
+              "21:00"
+            ]
+          ]
+        },
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       },
       {
         "name": "The Rocks Tasting Room",
         "area": "Town Center",
         "address": "33 Lone Peak Dr #102, Big Sky, MT 59716",
-        "hours": "Daily 11:00 AM - 8:00 PM",
+        "hours": "Every day, 11:00 AM - 8:00 PM",
         "note": "Town Center tasting room with flatbreads, charcuterie, soups, salads, and lighter lunch fare.",
         "vibe": [
           "Local",
@@ -829,32 +1192,72 @@
           "now",
           "quick"
         ],
-        "availability": {
-          "kind": "daily",
-          "start": "11:00",
-          "end": "20:00"
-        },
+        "availability": {},
         "mapUrl": "https://maps.google.com/?q=The+Rocks+Tasting+Room+Big+Sky",
-        "placeId": "ChIJkRfL3egRUFMRlpVtVQFp-zs",
+        "manualHoursAuthority": true,
         "googleHours": [
-          "Monday: 11:00 AM – 8:00 PM",
-          "Tuesday: 11:00 AM – 8:00 PM",
-          "Wednesday: 11:00 AM – 8:00 PM",
-          "Thursday: 11:00 AM – 8:00 PM",
-          "Friday: 11:00 AM – 8:00 PM",
-          "Saturday: 11:00 AM – 8:00 PM",
-          "Sunday: 11:00 AM – 8:00 PM"
+          "Sunday: 11:00 AM - 8:00 PM",
+          "Monday: 11:00 AM - 8:00 PM",
+          "Tuesday: 11:00 AM - 8:00 PM",
+          "Wednesday: 11:00 AM - 8:00 PM",
+          "Thursday: 11:00 AM - 8:00 PM",
+          "Friday: 11:00 AM - 8:00 PM",
+          "Saturday: 11:00 AM - 8:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "weeklyHours": {
+          "0": [
+            [
+              "11:00",
+              "20:00"
+            ]
+          ],
+          "1": [
+            [
+              "11:00",
+              "20:00"
+            ]
+          ],
+          "2": [
+            [
+              "11:00",
+              "20:00"
+            ]
+          ],
+          "3": [
+            [
+              "11:00",
+              "20:00"
+            ]
+          ],
+          "4": [
+            [
+              "11:00",
+              "20:00"
+            ]
+          ],
+          "5": [
+            [
+              "11:00",
+              "20:00"
+            ]
+          ],
+          "6": [
+            [
+              "11:00",
+              "20:00"
+            ]
+          ]
+        },
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       },
       {
         "name": "Scissorbills Saloon",
         "area": "Mountain Village",
         "address": "39 Black Eagle Rd, Big Sky, MT 59716",
         "hours": "Daily 11:00 AM - 9:00 PM (kitchen)",
-        "note": "Mountain Village lunch stop with burgers, nachos, and ski-day bar food.",
+        "note": "Mountain Village lunch stop with burgers, nachos, and ski-day bar food. Not listed on the current spring dining guide. Confirm current hours before recommending.",
         "vibe": [
           "Adventure",
           "Local"
@@ -876,6 +1279,12 @@
           "end": "21:00"
         },
         "mapUrl": "https://maps.google.com/?q=Scissorbills+Saloon+Big+Sky",
+        "excludeFromAutoBuild": true,
+        "confidenceOverride": {
+          "level": "verify",
+          "label": "Manual confirm only",
+          "reason": "This place is not listed on the current spring dining guide"
+        },
         "placeId": "ChIJhyKysNMNUFMRjOwzk2MH6bY",
         "googleHours": [
           "Monday: 11:00 AM – 12:00 AM",
@@ -886,8 +1295,8 @@
           "Saturday: 11:00 AM – 12:00 AM",
           "Sunday: 11:00 AM – 12:00 AM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -895,7 +1304,7 @@
         "area": "Montage Big Sky",
         "address": "995 Settlement Trail, Big Sky, MT 59716",
         "hours": "Daily 12:00 PM - 10:00 PM",
-        "note": "Montage pub with flatbreads, pub food, bowling, darts, and arcade games.",
+        "note": "Montage pub with flatbreads, pub food, bowling, darts, and arcade games. Not listed on the current spring dining guide. Confirm current hours before recommending.",
         "vibe": [
           "Family",
           "Cozy",
@@ -965,16 +1374,22 @@
         "mapUrl": "https://maps.google.com/?q=Beartooth+Pub+Montage+Big+Sky",
         "bookingUrl": "https://www.opentable.com/r/beartooth-pub-and-rec-big-sky",
         "bookingLabel": "Reserve on OpenTable",
+        "excludeFromAutoBuild": true,
+        "confidenceOverride": {
+          "level": "verify",
+          "label": "Manual confirm only",
+          "reason": "This place is not listed on the current spring dining guide"
+        },
         "placeId": "ChIJ5-KPRQcOUFMRO51rRSPxal8",
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
         "name": "Cafe 191",
         "area": "Highway 191",
         "address": "47995 Gallatin Rd Suite 101, Gallatin Gateway, MT 59730",
-        "hours": "Daily 6:00 AM - 3:00 PM / lunch starts at 11:00 AM",
+        "hours": "Every day, 6:00 AM - 3:00 PM",
         "note": "Highway 191 lunch stop with sandwiches, burgers, and full sit-down service.",
         "vibe": [
           "Local",
@@ -992,33 +1407,73 @@
         "timeTags": [
           "now"
         ],
-        "availability": {
-          "kind": "daily",
-          "start": "11:00",
-          "end": "15:00"
-        },
+        "availability": {},
         "mapUrl": "https://maps.google.com/?q=Cafe+191+Big+Sky",
         "bookingUrl": "https://cafe191bigsky.com/",
         "bookingLabel": "View cafe",
-        "placeId": "ChIJmYaKNC4bUFMRCc32RbR7nPs",
+        "manualHoursAuthority": true,
         "googleHours": [
-          "Monday: 6:00 AM – 3:00 PM",
-          "Tuesday: 6:00 AM – 3:00 PM",
-          "Wednesday: 6:00 AM – 3:00 PM",
-          "Thursday: 6:00 AM – 3:00 PM",
-          "Friday: 6:00 AM – 3:00 PM",
-          "Saturday: 6:00 AM – 3:00 PM",
-          "Sunday: 6:00 AM – 3:00 PM"
+          "Sunday: 6:00 AM - 3:00 PM",
+          "Monday: 6:00 AM - 3:00 PM",
+          "Tuesday: 6:00 AM - 3:00 PM",
+          "Wednesday: 6:00 AM - 3:00 PM",
+          "Thursday: 6:00 AM - 3:00 PM",
+          "Friday: 6:00 AM - 3:00 PM",
+          "Saturday: 6:00 AM - 3:00 PM"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "weeklyHours": {
+          "0": [
+            [
+              "06:00",
+              "15:00"
+            ]
+          ],
+          "1": [
+            [
+              "06:00",
+              "15:00"
+            ]
+          ],
+          "2": [
+            [
+              "06:00",
+              "15:00"
+            ]
+          ],
+          "3": [
+            [
+              "06:00",
+              "15:00"
+            ]
+          ],
+          "4": [
+            [
+              "06:00",
+              "15:00"
+            ]
+          ],
+          "5": [
+            [
+              "06:00",
+              "15:00"
+            ]
+          ],
+          "6": [
+            [
+              "06:00",
+              "15:00"
+            ]
+          ]
+        },
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       },
       {
         "name": "The Corral Bar, Steakhouse & Motel",
         "area": "Gallatin Canyon",
         "address": "42895 Gallatin Rd, Gallatin Gateway, MT 59730",
-        "hours": "Wed-Sun 10:30 AM - 9:00 PM / Closed Mon-Tue",
+        "hours": "Wednesday - Sunday, 10:30 AM - 9:00 PM",
         "note": "Gallatin Canyon steakhouse and bar with lunch service Wednesday through Sunday.",
         "vibe": [
           "Local",
@@ -1071,25 +1526,26 @@
         "mapUrl": "https://maps.google.com/?q=Corral+Bar+Steakhouse+Big+Sky",
         "bookingUrl": "https://corralbar.com/bar-steakhouse/",
         "bookingLabel": "View steakhouse",
-        "placeId": "ChIJSQh_qjsXUFMRET7aiuuxyOA",
+        "manualHoursAuthority": true,
         "googleHours": [
+          "Sunday: 10:30 AM - 9:00 PM",
           "Monday: Closed",
           "Tuesday: Closed",
-          "Wednesday: 10:30 AM – 9:00 PM",
-          "Thursday: 10:30 AM – 9:00 PM",
-          "Friday: 10:30 AM – 9:00 PM",
-          "Saturday: 10:30 AM – 9:00 PM",
-          "Sunday: 10:30 AM – 9:00 PM"
+          "Wednesday: 10:30 AM - 9:00 PM",
+          "Thursday: 10:30 AM - 9:00 PM",
+          "Friday: 10:30 AM - 9:00 PM",
+          "Saturday: 10:30 AM - 9:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "availability": {},
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       },
       {
         "name": "Hero Snow Coffee",
         "area": "Meadow Village",
         "address": "48 Market Pl, Big Sky, MT 59716",
-        "hours": "Weekday mornings and early afternoons / check current Instagram posts for exact hours",
+        "hours": "April 20 - May 31: Monday - Friday, 8:00 AM - 12:00 PM",
         "note": "Meadow Village coffee stop for lighter sandwiches, pastries, and coffee.",
         "vibe": [
           "Local",
@@ -1111,57 +1567,58 @@
         "weeklyHours": {
           "1": [
             [
-              "07:00",
-              "13:00"
+              "08:00",
+              "12:00"
             ]
           ],
           "2": [
             [
-              "07:00",
-              "13:00"
+              "08:00",
+              "12:00"
             ]
           ],
           "3": [
             [
-              "07:00",
-              "13:00"
+              "08:00",
+              "12:00"
             ]
           ],
           "4": [
             [
-              "07:00",
-              "13:00"
+              "08:00",
+              "12:00"
             ]
           ],
           "5": [
             [
-              "07:00",
-              "13:00"
+              "08:00",
+              "12:00"
             ]
           ]
         },
         "mapUrl": "https://maps.google.com/?q=Hero+Snow+Coffee+Big+Sky",
         "bookingUrl": "https://www.herosnowcoffee.com/",
         "bookingLabel": "View coffee shop",
-        "placeId": "ChIJORaRJr0RUFMRYLhPTQAfjPA",
+        "manualHoursAuthority": true,
         "googleHours": [
-          "Monday: 8:00 AM – 12:00 PM",
-          "Tuesday: 8:00 AM – 12:00 PM",
-          "Wednesday: 8:00 AM – 12:00 PM",
-          "Thursday: 8:00 AM – 12:00 PM",
-          "Friday: 8:00 AM – 12:00 PM",
-          "Saturday: Closed",
-          "Sunday: Closed"
+          "Sunday: Closed",
+          "Monday: 8:00 AM - 12:00 PM",
+          "Tuesday: 8:00 AM - 12:00 PM",
+          "Wednesday: 8:00 AM - 12:00 PM",
+          "Thursday: 8:00 AM - 12:00 PM",
+          "Friday: 8:00 AM - 12:00 PM",
+          "Saturday: Closed"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "availability": {},
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       },
       {
         "name": "Mi Pueblito Taco Bus",
         "area": "Lone Mountain Trail",
         "address": "1567 Lone Mountain Trail, Big Sky, MT 59716",
-        "hours": "Daily 10:00 AM - 7:00 PM",
+        "hours": "Monday - Friday, 11:00 AM - 5:30 PM",
         "note": "Taco bus near Ace Hardware with tacos, burritos, and quick lunch.",
         "vibe": [
           "Local",
@@ -1180,27 +1637,55 @@
           "now",
           "quick"
         ],
-        "availability": {
-          "kind": "daily",
-          "start": "10:00",
-          "end": "19:00"
-        },
+        "availability": {},
         "mapUrl": "https://maps.google.com/?q=Mi+Pueblito+Taco+Bus+Big+Sky",
         "bookingUrl": "http://ordermipueblitotacobus.com/",
         "bookingLabel": "Order online",
-        "placeId": "ChIJ4VPzu14RUFMRlGeFT33LnnM",
+        "manualHoursAuthority": true,
         "googleHours": [
-          "Monday: 10:00 AM – 7:00 PM",
-          "Tuesday: 10:00 AM – 7:00 PM",
-          "Wednesday: 10:00 AM – 7:00 PM",
-          "Thursday: 10:00 AM – 7:00 PM",
-          "Friday: 10:00 AM – 7:00 PM",
-          "Saturday: 10:00 AM – 7:00 PM",
-          "Sunday: Closed"
+          "Sunday: Closed",
+          "Monday: 11:00 AM - 5:30 PM",
+          "Tuesday: 11:00 AM - 5:30 PM",
+          "Wednesday: 11:00 AM - 5:30 PM",
+          "Thursday: 11:00 AM - 5:30 PM",
+          "Friday: 11:00 AM - 5:30 PM",
+          "Saturday: Closed"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "weeklyHours": {
+          "1": [
+            [
+              "11:00",
+              "17:30"
+            ]
+          ],
+          "2": [
+            [
+              "11:00",
+              "17:30"
+            ]
+          ],
+          "3": [
+            [
+              "11:00",
+              "17:30"
+            ]
+          ],
+          "4": [
+            [
+              "11:00",
+              "17:30"
+            ]
+          ],
+          "5": [
+            [
+              "11:00",
+              "17:30"
+            ]
+          ]
+        },
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       }
     ],
     "dinner": [
@@ -1208,7 +1693,7 @@
         "name": "Block 3 Kitchen & Bar",
         "area": "On property",
         "address": "145 Town Center Ave, Big Sky, MT 59716",
-        "hours": "Daily 5:00 PM - 9:00 PM",
+        "hours": "Wednesday - Sunday, 5:00 PM - 9:00 PM",
         "note": "On-property Montana chophouse with steaks, game, seafood, and the easiest walkable dinner from the Wilson.",
         "vibe": [
           "Luxury",
@@ -1227,34 +1712,18 @@
           "now",
           "quick"
         ],
-        "availability": {
-          "kind": "daily",
-          "start": "17:00",
-          "end": "21:00"
-        },
+        "availability": {},
         "googleHours": [
-          "Monday: 5:00 – 9:00 PM",
-          "Tuesday: 5:00 – 9:00 PM",
-          "Wednesday: 5:00 – 9:00 PM",
-          "Thursday: 5:00 – 9:00 PM",
-          "Friday: 5:00 – 9:00 PM",
-          "Saturday: 5:00 – 9:00 PM",
-          "Sunday: 5:00 – 9:00 PM"
+          "Sunday: 5:00 PM - 9:00 PM",
+          "Monday: Closed",
+          "Tuesday: Closed",
+          "Wednesday: 5:00 PM - 9:00 PM",
+          "Thursday: 5:00 PM - 9:00 PM",
+          "Friday: 5:00 PM - 9:00 PM",
+          "Saturday: 5:00 PM - 9:00 PM"
         ],
         "weeklyHours": {
           "0": [
-            [
-              "17:00",
-              "21:00"
-            ]
-          ],
-          "1": [
-            [
-              "17:00",
-              "21:00"
-            ]
-          ],
-          "2": [
             [
               "17:00",
               "21:00"
@@ -1289,17 +1758,18 @@
         "bookingUrl": "https://www.opentable.com/r/block-3-kitchen-and-bar-big-sky",
         "bookingLabel": "Book on OpenTable",
         "rebateNote": "Eligible Wilson dining choice. Mention guest dining credit benefits when they apply.",
-        "placeId": "ChIJ36TqRywQUFMRtTa-Wfv_8aQ",
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "manualHoursAuthority": true,
+        "reservationsRequired": true,
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       },
       {
         "name": "Cabin Bar & Grill",
         "area": "Mountain Village",
         "address": "33 Black Eagle Rd, Big Sky, MT 59716",
         "hours": "Daily 4:30 - 9:30 PM (dinner only)",
-        "note": "Mountain Village restaurant with slope views and a quieter dining room than the apres bars nearby.",
+        "note": "Mountain Village restaurant with slope views and a quieter dining room than the apres bars nearby. Not listed on the current spring dining guide. Confirm current hours before recommending.",
         "vibe": [
           "Luxury",
           "Romantic",
@@ -1378,9 +1848,15 @@
         "mapUrl": "https://maps.google.com/?q=Cabin+Bar+and+Grill+Big+Sky",
         "bookingUrl": "https://www.opentable.com/r/cabin-bar-and-grill-big-sky-montana-big-sky",
         "bookingLabel": "Book on OpenTable",
+        "excludeFromAutoBuild": true,
+        "confidenceOverride": {
+          "level": "verify",
+          "label": "Manual confirm only",
+          "reason": "This place is not listed on the current spring dining guide"
+        },
         "placeId": "ChIJpXcdNdINUFMR0bByIcfHrrA",
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1388,7 +1864,7 @@
         "area": "Lone Mountain Ranch",
         "address": "750 Lone Mountain Ranch Rd, Big Sky, MT 59716",
         "hours": "Daily, Dinner 5:00 - 9:00 PM / Saloon open from noon",
-        "note": "Lone Mountain Ranch dining room with steaks, game, and a classic ranch setting.",
+        "note": "Lone Mountain Ranch dining room with steaks, game, and a classic ranch setting. Not listed on the current spring dining guide. Confirm current hours before recommending.",
         "vibe": [
           "Luxury",
           "Romantic"
@@ -1412,6 +1888,12 @@
         "mapUrl": "https://maps.google.com/?q=Horn+and+Cantle+Big+Sky",
         "bookingUrl": "https://www.opentable.com/r/horn-and-cantle",
         "bookingLabel": "Book on OpenTable",
+        "excludeFromAutoBuild": true,
+        "confidenceOverride": {
+          "level": "verify",
+          "label": "Manual confirm only",
+          "reason": "This place is not listed on the current spring dining guide"
+        },
         "placeId": "ChIJrU7eJ80PUFMRCKGojqHj3pc",
         "googleHours": [
           "Monday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
@@ -1422,8 +1904,8 @@
           "Saturday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
           "Sunday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1431,7 +1913,7 @@
         "area": "Big Sky Resort area",
         "address": "995 Settlement Trail, Big Sky, MT 59716",
         "hours": "Daily, Breakfast 7:00 - 11:00 AM / Dinner 5:00 - 9:00 PM",
-        "note": "Mountain Village Italian restaurant known for handmade pasta and a polished dining room.",
+        "note": "Mountain Village Italian restaurant known for handmade pasta and a polished dining room. Not listed on the current spring dining guide. Confirm current hours before recommending.",
         "vibe": [
           "Luxury",
           "Romantic",
@@ -1529,9 +2011,15 @@
         "mapUrl": "https://maps.google.com/?q=Cortina+Big+Sky",
         "bookingUrl": "https://www.opentable.com/r/cortina-big-sky",
         "bookingLabel": "Book on OpenTable",
+        "excludeFromAutoBuild": true,
+        "confidenceOverride": {
+          "level": "verify",
+          "label": "Manual confirm only",
+          "reason": "This place is not listed on the current spring dining guide"
+        },
         "placeId": "ChIJ5-KPRQcOUFMRpSAf6FmknXg",
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1539,7 +2027,7 @@
         "area": "Mountain Village",
         "address": "52 Big Sky Resort Rd, Big Sky, MT 59716",
         "hours": "Daily 11:00 AM - 10:00 PM",
-        "note": "Casual Mountain Village restaurant with burgers, bowls, salads, and patio seating.",
+        "note": "Casual Mountain Village restaurant with burgers, bowls, salads, and patio seating. Not listed on the current spring dining guide. Confirm current hours before recommending.",
         "vibe": [
           "Family",
           "Local",
@@ -1562,6 +2050,12 @@
           "end": "21:30"
         },
         "mapUrl": "https://maps.google.com/?q=Montana+Jack+Big+Sky",
+        "excludeFromAutoBuild": true,
+        "confidenceOverride": {
+          "level": "verify",
+          "label": "Manual confirm only",
+          "reason": "This place is not listed on the current spring dining guide"
+        },
         "placeId": "ChIJY7YGRdINUFMRalf3F0mot0E",
         "googleHours": [
           "Monday: 11:00 AM – 10:00 PM",
@@ -1572,15 +2066,15 @@
           "Saturday: 11:00 AM – 10:00 PM",
           "Sunday: 11:00 AM – 10:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
         "name": "Wild Caddis at Rainbow Ranch",
         "area": "Gallatin Canyon",
         "address": "42950 Gallatin Rd, Gallatin Gateway, MT 59730",
-        "hours": "Daily happy hour 3:00 PM - 5:00 PM / dinner 5:00 PM - 9:00 PM",
+        "hours": "April 6 - May 26: Wednesday - Sunday, 4:00 PM - 9:00 PM / Closed Monday - Tuesday",
         "note": "Rainbow Ranch dining room on the Gallatin River with a quieter canyon setting.",
         "vibe": [
           "Romantic",
@@ -1598,33 +2092,62 @@
         "timeTags": [
           "now"
         ],
-        "availability": {
-          "kind": "daily",
-          "start": "17:00",
-          "end": "21:00"
-        },
+        "availability": {},
         "mapUrl": "https://maps.google.com/?q=Rainbow+Ranch+Lodge+Big+Sky",
         "bookingUrl": "https://www.opentable.com/r/wild-caddis-big-sky",
         "bookingLabel": "Reserve on OpenTable",
-        "placeId": "ChIJG3YOewAXUFMRB6TIJvmmuE8",
+        "manualHoursAuthority": true,
         "googleHours": [
+          "Sunday: 4:00 PM - 9:00 PM",
           "Monday: Closed",
           "Tuesday: Closed",
-          "Wednesday: 4:00 – 9:00 PM",
-          "Thursday: 4:00 – 9:00 PM",
-          "Friday: 4:00 – 9:00 PM",
-          "Saturday: 4:00 – 9:00 PM",
-          "Sunday: 4:00 – 9:00 PM"
+          "Wednesday: 4:00 PM - 9:00 PM",
+          "Thursday: 4:00 PM - 9:00 PM",
+          "Friday: 4:00 PM - 9:00 PM",
+          "Saturday: 4:00 PM - 9:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "weeklyHours": {
+          "0": [
+            [
+              "16:00",
+              "21:00"
+            ]
+          ],
+          "3": [
+            [
+              "16:00",
+              "21:00"
+            ]
+          ],
+          "4": [
+            [
+              "16:00",
+              "21:00"
+            ]
+          ],
+          "5": [
+            [
+              "16:00",
+              "21:00"
+            ]
+          ],
+          "6": [
+            [
+              "16:00",
+              "21:00"
+            ]
+          ]
+        },
+        "reservationsRequired": true,
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       },
       {
         "name": "Riverhouse BBQ & Events",
         "area": "Gallatin Canyon",
         "address": "45130 Gallatin Rd, Gallatin Gateway, MT 59730",
-        "hours": "Daily 3:00 PM - 9:00 PM / summer runs later to 10:00 PM",
+        "hours": "Every day, 3:00 PM - 9:00 PM",
         "note": "Gallatin River smokehouse serving Texas-style barbecue Montana-style. First come, first served.",
         "vibe": [
           "Local",
@@ -1642,33 +2165,73 @@
         "timeTags": [
           "now"
         ],
-        "availability": {
-          "kind": "daily",
-          "start": "15:00",
-          "end": "21:00"
-        },
+        "availability": {},
         "mapUrl": "https://maps.google.com/?q=Riverhouse+BBQ+Big+Sky",
         "bookingUrl": "https://riverhousebbq.com/",
         "bookingLabel": "View BBQ restaurant",
-        "placeId": "ChIJ9dyCjpMQUFMRscTxTIUhuso",
+        "manualHoursAuthority": true,
         "googleHours": [
-          "Monday: 3:00 – 9:00 PM",
-          "Tuesday: 3:00 – 9:00 PM",
-          "Wednesday: 3:00 – 9:00 PM",
-          "Thursday: 3:00 – 9:00 PM",
-          "Friday: 3:00 – 9:00 PM",
-          "Saturday: 3:00 – 9:00 PM",
-          "Sunday: 3:00 – 9:00 PM"
+          "Sunday: 3:00 PM - 9:00 PM",
+          "Monday: 3:00 PM - 9:00 PM",
+          "Tuesday: 3:00 PM - 9:00 PM",
+          "Wednesday: 3:00 PM - 9:00 PM",
+          "Thursday: 3:00 PM - 9:00 PM",
+          "Friday: 3:00 PM - 9:00 PM",
+          "Saturday: 3:00 PM - 9:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "weeklyHours": {
+          "0": [
+            [
+              "15:00",
+              "21:00"
+            ]
+          ],
+          "1": [
+            [
+              "15:00",
+              "21:00"
+            ]
+          ],
+          "2": [
+            [
+              "15:00",
+              "21:00"
+            ]
+          ],
+          "3": [
+            [
+              "15:00",
+              "21:00"
+            ]
+          ],
+          "4": [
+            [
+              "15:00",
+              "21:00"
+            ]
+          ],
+          "5": [
+            [
+              "15:00",
+              "21:00"
+            ]
+          ],
+          "6": [
+            [
+              "15:00",
+              "21:00"
+            ]
+          ]
+        },
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       },
       {
         "name": "The Corral Bar, Steakhouse & Motel",
         "area": "Gallatin Canyon",
         "address": "42895 Gallatin Rd, Gallatin Gateway, MT 59730",
-        "hours": "Wed-Sun 10:30 AM - 9:00 PM / Closed Mon-Tue",
+        "hours": "Wednesday - Sunday, 10:30 AM - 9:00 PM",
         "note": "Long-running Gallatin Canyon steakhouse and bar with burgers, steaks, and a classic roadside feel.",
         "vibe": [
           "Local",
@@ -1721,167 +2284,26 @@
         "mapUrl": "https://maps.google.com/?q=Corral+Bar+Steakhouse+Big+Sky",
         "bookingUrl": "https://corralbar.com/bar-steakhouse/",
         "bookingLabel": "View steakhouse",
-        "placeId": "ChIJSQh_qjsXUFMRET7aiuuxyOA",
+        "manualHoursAuthority": true,
         "googleHours": [
+          "Sunday: 10:30 AM - 9:00 PM",
           "Monday: Closed",
           "Tuesday: Closed",
-          "Wednesday: 10:30 AM – 9:00 PM",
-          "Thursday: 10:30 AM – 9:00 PM",
-          "Friday: 10:30 AM – 9:00 PM",
-          "Saturday: 10:30 AM – 9:00 PM",
-          "Sunday: 10:30 AM – 9:00 PM"
+          "Wednesday: 10:30 AM - 9:00 PM",
+          "Thursday: 10:30 AM - 9:00 PM",
+          "Friday: 10:30 AM - 9:00 PM",
+          "Saturday: 10:30 AM - 9:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
-      },
-      {
-        "name": "Olive B's",
-        "area": "Meadow Village",
-        "address": "151 Center Lane, Big Sky, MT 59716",
-        "hours": "Mon-Fri 5:00 PM - 9:00 PM / Closed Sat-Sun",
-        "note": "Meadow Village bistro for seafood, steaks, and a smaller neighborhood dining room.",
-        "vibe": [
-          "Romantic",
-          "Cozy",
-          "Luxury"
-        ],
-        "tags": [
-          "Bistro",
-          "Date night",
-          "Meadow Village"
-        ],
-        "bestFor": [
-          "Dinner"
-        ],
-        "timeTags": [
-          "now"
-        ],
-        "weeklyHours": {
-          "1": [
-            [
-              "17:00",
-              "21:00"
-            ]
-          ],
-          "2": [
-            [
-              "17:00",
-              "21:00"
-            ]
-          ],
-          "3": [
-            [
-              "17:00",
-              "21:00"
-            ]
-          ],
-          "4": [
-            [
-              "17:00",
-              "21:00"
-            ]
-          ],
-          "5": [
-            [
-              "17:00",
-              "21:00"
-            ]
-          ]
-        },
-        "mapUrl": "https://maps.google.com/?q=Olive+Bs+Big+Sky+Bistro",
-        "bookingUrl": "https://www.olivebsbigsky.com/",
-        "bookingLabel": "View bistro",
-        "placeId": "ChIJdT6G9CAQUFMRiRxuwvN26x0",
-        "googleHours": [
-          "Monday: 5:00 – 8:45 PM",
-          "Tuesday: 5:00 – 8:45 PM",
-          "Wednesday: 5:00 – 8:45 PM",
-          "Thursday: 5:00 – 8:45 PM",
-          "Friday: 5:00 – 8:45 PM",
-          "Saturday: Closed",
-          "Sunday: Closed"
-        ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
-      },
-      {
-        "name": "Michaelangelo's",
-        "area": "Meadow Village",
-        "address": "75 Center Lane, Big Sky, MT 59716",
-        "hours": "Tue-Sun 5:00 PM - 9:00 PM / Closed Mon / Shoulder-season closure through Jun 10, 2026",
-        "note": "Meadow Village Italian restaurant for pasta, classic entrees, and a sit-down dinner.",
-        "vibe": [
-          "Romantic",
-          "Luxury",
-          "Cozy"
-        ],
-        "tags": [
-          "Italian",
-          "Reservation ready",
-          "Meadow Village"
-        ],
-        "bestFor": [
-          "Dinner"
-        ],
-        "availability": {
-          "kind": "daily",
-          "closedUntil": "2026-06-11",
-          "closedLabel": "Shoulder-season closure through Jun 10"
-        },
-        "weeklyHours": {
-          "0": [
-            [
-              "17:00",
-              "21:00"
-            ]
-          ],
-          "2": [
-            [
-              "17:00",
-              "21:00"
-            ]
-          ],
-          "3": [
-            [
-              "17:00",
-              "21:00"
-            ]
-          ],
-          "4": [
-            [
-              "17:00",
-              "21:00"
-            ]
-          ],
-          "5": [
-            [
-              "17:00",
-              "21:00"
-            ]
-          ],
-          "6": [
-            [
-              "17:00",
-              "21:00"
-            ]
-          ]
-        },
-        "mapUrl": "https://maps.google.com/?q=Michaelangelos+Big+Sky",
-        "bookingUrl": "https://www.michaelangelosbigsky.com/make-a-reservation",
-        "bookingLabel": "Make a reservation",
-        "placeId": "ChIJEdBy_CAQUFMRnjdJD9fdjQg",
-        "googleHours": [],
+        "availability": {},
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       },
       {
         "name": "Mi Pueblito Taco Bus",
         "area": "Lone Mountain Trail",
         "address": "1567 Lone Mountain Trail, Big Sky, MT 59716",
-        "hours": "Daily 10:00 AM - 7:00 PM",
+        "hours": "Monday - Friday, 11:00 AM - 5:30 PM",
         "note": "Taco bus near Ace Hardware with tacos, burritos, and a quick casual dinner.",
         "vibe": [
           "Local",
@@ -1900,111 +2322,62 @@
           "now",
           "quick"
         ],
-        "availability": {
-          "kind": "daily",
-          "start": "10:00",
-          "end": "19:00"
-        },
+        "availability": {},
         "mapUrl": "https://maps.google.com/?q=Mi+Pueblito+Taco+Bus+Big+Sky",
         "bookingUrl": "http://ordermipueblitotacobus.com/",
         "bookingLabel": "Order online",
-        "placeId": "ChIJ4VPzu14RUFMRlGeFT33LnnM",
+        "manualHoursAuthority": true,
         "googleHours": [
-          "Monday: 10:00 AM – 7:00 PM",
-          "Tuesday: 10:00 AM – 7:00 PM",
-          "Wednesday: 10:00 AM – 7:00 PM",
-          "Thursday: 10:00 AM – 7:00 PM",
-          "Friday: 10:00 AM – 7:00 PM",
-          "Saturday: 10:00 AM – 7:00 PM",
-          "Sunday: Closed"
-        ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
-      },
-      {
-        "name": "Alberto's Mexican Restaurant",
-        "area": "Town Center",
-        "address": "118 Ousel Falls Rd, Big Sky, MT 59716",
-        "hours": "Tue-Sat 4:00 PM - 9:00 PM / Closed Sun-Mon",
-        "note": "Town Center Mexican restaurant with tacos, enchiladas, and margaritas.",
-        "vibe": [
-          "Family",
-          "Local",
-          "Cozy"
-        ],
-        "tags": [
-          "Walkable",
-          "Mexican",
-          "Casual"
-        ],
-        "bestFor": [
-          "Dinner"
-        ],
-        "timeTags": [
-          "now",
-          "quick"
-        ],
-        "availability": {
-          "kind": "daily",
-          "start": "16:00",
-          "end": "21:00"
-        },
-        "googleHours": [
-          "Monday: Closed",
-          "Tuesday: 12:00 – 3:00 PM, 5:00 – 9:00 PM",
-          "Wednesday: 12:00 – 3:00 PM, 5:00 – 9:00 PM",
-          "Thursday: 12:00 – 3:00 PM, 5:00 – 9:00 PM",
-          "Friday: 12:00 – 3:00 PM, 5:00 PM – 2:00 AM",
-          "Saturday: 12:00 – 3:00 PM, 5:00 – 9:00 PM",
-          "Sunday: Closed"
+          "Sunday: Closed",
+          "Monday: 11:00 AM - 5:30 PM",
+          "Tuesday: 11:00 AM - 5:30 PM",
+          "Wednesday: 11:00 AM - 5:30 PM",
+          "Thursday: 11:00 AM - 5:30 PM",
+          "Friday: 11:00 AM - 5:30 PM",
+          "Saturday: Closed"
         ],
         "weeklyHours": {
+          "1": [
+            [
+              "11:00",
+              "17:30"
+            ]
+          ],
           "2": [
             [
-              "16:00",
-              "21:00"
+              "11:00",
+              "17:30"
             ]
           ],
           "3": [
             [
-              "16:00",
-              "21:00"
+              "11:00",
+              "17:30"
             ]
           ],
           "4": [
             [
-              "16:00",
-              "21:00"
+              "11:00",
+              "17:30"
             ]
           ],
           "5": [
             [
-              "16:00",
-              "21:00"
-            ]
-          ],
-          "6": [
-            [
-              "16:00",
-              "21:00"
+              "11:00",
+              "17:30"
             ]
           ]
         },
-        "mapUrl": "https://maps.google.com/?q=Albertos+Mexican+Restaurant+Big+Sky",
-        "bookingUrl": "http://www.albertosmexican.com",
-        "bookingLabel": "View restaurant",
-        "placeId": "ChIJK4a8gM4RUFMRysYP3Jjxk6k",
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       },
       {
         "name": "Thai Basil",
         "area": "Town Center",
         "address": "112 Ousel Falls Rd, Big Sky, MT 59716",
-        "hours": "Sun and Wed-Sat 11:00 AM - 9:00 PM / Closed Mon-Tue",
-        "note": "Town Center Thai restaurant with dine-in, takeout, and plenty of vegan, vegetarian, and gluten-free options.",
+        "hours": "Tuesday - Saturday, 11:00 AM - 9:00 PM / Sunday, 11:00 AM - 8:00 PM",
+        "note": "Town Center Thai restaurant with dine-in, takeout, and plenty of vegan, vegetarian, and gluten-free options. May schedule can shift one or two days per week during shoulder season.",
         "vibe": [
           "Local",
           "Family",
@@ -2022,31 +2395,65 @@
           "now",
           "quick"
         ],
-        "availability": {
-          "kind": "daily",
-          "start": "17:00",
-          "end": "21:00"
-        },
+        "availability": {},
         "mapUrl": "https://maps.google.com/?q=Thai+Basil+Big+Sky",
-        "placeId": "ChIJ56BL2lARUFMRD6UFrvMl6Lg",
+        "manualHoursAuthority": true,
         "googleHours": [
-          "Monday: 11:00 AM – 9:00 PM",
-          "Tuesday: Closed",
-          "Wednesday: 11:00 AM – 9:00 PM",
-          "Thursday: 11:00 AM – 9:00 PM",
-          "Friday: 11:00 AM – 9:00 PM",
-          "Saturday: 11:00 AM – 9:00 PM",
-          "Sunday: 11:00 AM – 8:00 PM"
+          "Sunday: 11:00 AM - 8:00 PM",
+          "Monday: Closed",
+          "Tuesday: 11:00 AM - 9:00 PM",
+          "Wednesday: 11:00 AM - 9:00 PM",
+          "Thursday: 11:00 AM - 9:00 PM",
+          "Friday: 11:00 AM - 9:00 PM",
+          "Saturday: 11:00 AM - 9:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "weeklyHours": {
+          "0": [
+            [
+              "11:00",
+              "20:00"
+            ]
+          ],
+          "2": [
+            [
+              "11:00",
+              "21:00"
+            ]
+          ],
+          "3": [
+            [
+              "11:00",
+              "21:00"
+            ]
+          ],
+          "4": [
+            [
+              "11:00",
+              "21:00"
+            ]
+          ],
+          "5": [
+            [
+              "11:00",
+              "21:00"
+            ]
+          ],
+          "6": [
+            [
+              "11:00",
+              "21:00"
+            ]
+          ]
+        },
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       },
       {
         "name": "Tips Up",
         "area": "Town Center",
         "address": "76 Town Center Ave, Unit A1, Big Sky, MT 59716",
-        "hours": "Sun 11:00 AM - 12:00 AM / Mon-Wed 3:00 PM - 12:00 AM / Thu-Sat 12:00 PM - 12:00 AM",
+        "hours": "Every day, food service 3:00 PM - 9:00 PM",
         "note": "Town Center sports bar with sandwiches, arcade games, live music, and a lively late-night room.",
         "vibe": [
           "Family",
@@ -2064,66 +2471,71 @@
         "timeTags": [
           "now"
         ],
-        "availability": {
-          "kind": "daily",
-          "start": "15:00",
-          "end": "23:59"
-        },
+        "availability": {},
         "mapUrl": "https://maps.google.com/?q=Tips+Up+Big+Sky",
-        "placeId": "ChIJy7fdBIkRUFMRX4A5j0dm87s",
+        "manualHoursAuthority": true,
         "googleHours": [
-          "Monday: 3:00 – 10:00 PM",
-          "Tuesday: 3:00 – 10:00 PM",
-          "Wednesday: 3:00 – 10:00 PM",
-          "Thursday: 3:00 – 11:00 PM",
-          "Friday: 3:00 PM – 12:00 AM",
-          "Saturday: 12:00 PM – 12:00 AM",
-          "Sunday: 12:00 – 10:00 PM"
+          "Sunday: 3:00 PM - 9:00 PM",
+          "Monday: 3:00 PM - 9:00 PM",
+          "Tuesday: 3:00 PM - 9:00 PM",
+          "Wednesday: 3:00 PM - 9:00 PM",
+          "Thursday: 3:00 PM - 9:00 PM",
+          "Friday: 3:00 PM - 9:00 PM",
+          "Saturday: 3:00 PM - 9:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
-      },
-      {
-        "name": "Pinky G's Pizzeria",
-        "area": "Town Center",
-        "address": "47 Town Center Ave, Unit A1, Big Sky, MT 59716",
-        "hours": "Daily 5:00 PM - 9:00 PM",
-        "note": "Town Center pizza spot with hand-tossed pies, slices, beer, and a low-key local feel.",
-        "vibe": [
-          "Family",
-          "Local",
-          "Cozy"
-        ],
-        "tags": [
-          "Walkable",
-          "Pizza",
-          "Casual"
-        ],
-        "bestFor": [
-          "Dinner"
-        ],
-        "timeTags": [
-          "now",
-          "quick"
-        ],
-        "availability": {
-          "kind": "daily",
-          "start": "17:00",
-          "end": "21:00"
+        "weeklyHours": {
+          "0": [
+            [
+              "15:00",
+              "21:00"
+            ]
+          ],
+          "1": [
+            [
+              "15:00",
+              "21:00"
+            ]
+          ],
+          "2": [
+            [
+              "15:00",
+              "21:00"
+            ]
+          ],
+          "3": [
+            [
+              "15:00",
+              "21:00"
+            ]
+          ],
+          "4": [
+            [
+              "15:00",
+              "21:00"
+            ]
+          ],
+          "5": [
+            [
+              "15:00",
+              "21:00"
+            ]
+          ],
+          "6": [
+            [
+              "15:00",
+              "21:00"
+            ]
+          ]
         },
-        "mapUrl": "https://maps.google.com/?q=Pinky+Gs+Pizzeria+Big+Sky",
-        "placeId": "ChIJBxLa-YARUFMRx63KYLiSJrQ",
-        "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       },
       {
         "name": "Milkie's Pizza & Pub",
         "area": "West Fork Meadow",
         "address": "77 Aspen Leaf Dr, Big Sky, MT 59716",
-        "hours": "Mon-Sat 4:00 PM - 9:00 PM / Sun 11:00 AM - 9:00 PM",
+        "hours": "Monday - Friday, 4:00 PM - 9:00 PM / Sunday, 11:00 AM - 9:00 PM",
         "note": "Neighborhood pizza-and-pub stop off Aspen Leaf with pies, beer, and a locals-bar feel.",
         "vibe": [
           "Local",
@@ -2142,19 +2554,15 @@
           "now",
           "quick"
         ],
-        "availability": {
-          "kind": "daily",
-          "start": "16:00",
-          "end": "21:00"
-        },
+        "availability": {},
         "googleHours": [
-          "Monday: 4:00 – 9:00 PM",
-          "Tuesday: 4:00 – 9:00 PM",
-          "Wednesday: 4:00 – 9:00 PM",
-          "Thursday: 4:00 – 9:00 PM",
-          "Friday: 4:00 – 9:00 PM",
-          "Saturday: Closed",
-          "Sunday: 11:00 AM – 9:00 PM"
+          "Sunday: 11:00 AM - 9:00 PM",
+          "Monday: 4:00 PM - 9:00 PM",
+          "Tuesday: 4:00 PM - 9:00 PM",
+          "Wednesday: 4:00 PM - 9:00 PM",
+          "Thursday: 4:00 PM - 9:00 PM",
+          "Friday: 4:00 PM - 9:00 PM",
+          "Saturday: Closed"
         ],
         "weeklyHours": {
           "0": [
@@ -2192,27 +2600,21 @@
               "16:00",
               "21:00"
             ]
-          ],
-          "6": [
-            [
-              "16:00",
-              "21:00"
-            ]
           ]
         },
         "mapUrl": "https://maps.google.com/?q=Milkies+Pizza+and+Pub+Big+Sky",
         "bookingUrl": "https://www.milkiespizzabigsky.com/",
         "bookingLabel": "View restaurant",
-        "placeId": "ChIJXQO3V9UPUFMRlr9yRgUI4IQ",
-        "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "manualHoursAuthority": true,
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       },
       {
         "name": "Big Sky Noodles",
         "area": "Town Center",
         "address": "Wilson Hotel Plaza, Big Sky, MT 59716",
-        "hours": "Sun-Mon and Thu-Sat 4:00 PM - 8:45 PM / Closed Tue-Wed / Seasonal fall and winter",
+        "hours": "Thursday - Sunday, 4:30 PM - 9:00 PM",
         "note": "Town Center noodle spot for pho, ramen, and rice bowls.",
         "vibe": [
           "Local",
@@ -2231,32 +2633,53 @@
           "now",
           "quick"
         ],
-        "availability": {
-          "kind": "daily",
-          "start": "16:00",
-          "end": "20:45",
-          "seasonal": "winter"
-        },
+        "availability": {},
         "mapUrl": "https://maps.google.com/?q=Big+Sky+Noodles+Big+Sky",
-        "placeId": "ChIJ5YlzbE0RUFMRpB_rGeN8k4M",
+        "manualHoursAuthority": true,
         "googleHours": [
-          "Monday: 4:30 – 9:00 PM",
+          "Sunday: 4:30 PM - 9:00 PM",
+          "Monday: Closed",
           "Tuesday: Closed",
           "Wednesday: Closed",
-          "Thursday: 4:30 – 9:00 PM",
-          "Friday: 4:30 – 9:00 PM",
-          "Saturday: 4:30 – 9:00 PM",
-          "Sunday: 4:30 – 9:00 PM"
+          "Thursday: 4:30 PM - 9:00 PM",
+          "Friday: 4:30 PM - 9:00 PM",
+          "Saturday: 4:30 PM - 9:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "weeklyHours": {
+          "0": [
+            [
+              "16:30",
+              "21:00"
+            ]
+          ],
+          "4": [
+            [
+              "16:30",
+              "21:00"
+            ]
+          ],
+          "5": [
+            [
+              "16:30",
+              "21:00"
+            ]
+          ],
+          "6": [
+            [
+              "16:30",
+              "21:00"
+            ]
+          ]
+        },
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       },
       {
         "name": "Ousel and Spur Pizza Co.",
         "area": "Town Center",
         "address": "50 Ousel Falls Rd, Big Sky, MT 59716",
-        "hours": "Daily 5:00 PM - 9:00 PM",
+        "hours": "Every day, 5:00 PM to close",
         "note": "Town Center pizza restaurant next to the cinema with family-friendly seating.",
         "vibe": [
           "Family",
@@ -2280,26 +2703,71 @@
           "end": "21:00"
         },
         "mapUrl": "https://maps.google.com/?q=Ousel+and+Spur+Pizza+Co+Big+Sky",
-        "placeId": "ChIJb9fXwCwQUFMRs4QQZWwKZt0",
+        "manualHoursAuthority": true,
         "googleHours": [
-          "Monday: 5:00 – 9:00 PM",
-          "Tuesday: 5:00 – 9:00 PM",
-          "Wednesday: 5:00 – 9:00 PM",
-          "Thursday: 5:00 – 9:00 PM",
-          "Friday: 5:00 – 9:00 PM",
-          "Saturday: 5:00 – 9:00 PM",
-          "Sunday: 5:00 – 9:00 PM"
+          "Sunday: 5:00 PM - close",
+          "Monday: 5:00 PM - close",
+          "Tuesday: 5:00 PM - close",
+          "Wednesday: 5:00 PM - close",
+          "Thursday: 5:00 PM - close",
+          "Friday: 5:00 PM - close",
+          "Saturday: 5:00 PM - close"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "weeklyHours": {
+          "0": [
+            [
+              "17:00",
+              "21:00"
+            ]
+          ],
+          "1": [
+            [
+              "17:00",
+              "21:00"
+            ]
+          ],
+          "2": [
+            [
+              "17:00",
+              "21:00"
+            ]
+          ],
+          "3": [
+            [
+              "17:00",
+              "21:00"
+            ]
+          ],
+          "4": [
+            [
+              "17:00",
+              "21:00"
+            ]
+          ],
+          "5": [
+            [
+              "17:00",
+              "21:00"
+            ]
+          ],
+          "6": [
+            [
+              "17:00",
+              "21:00"
+            ]
+          ]
+        },
+        "reservationsRequired": true,
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       },
       {
         "name": "Everett's 8800",
         "area": "Mountain Village",
         "address": "444 Andesite Ridge Rd, Big Sky, MT 59716",
         "hours": "Lunch daily 11:00 AM - 4:00 PM / Dinner Wed - Sat 5:00 - 9:00 PM (winter)",
-        "note": "Chairlift-access dinner at 8,800 feet with mountain views and a resort setting.",
+        "note": "Chairlift-access dinner at 8,800 feet with mountain views and a resort setting. Not listed on the current spring dining guide. Confirm current hours before recommending.",
         "vibe": [
           "Luxury",
           "Romantic",
@@ -2325,6 +2793,12 @@
         "mapUrl": "https://maps.google.com/?q=Everett%27s+8800+Big+Sky",
         "bookingUrl": "https://www.opentable.com/everetts-8800",
         "bookingLabel": "Reserve on OpenTable",
+        "excludeFromAutoBuild": true,
+        "confidenceOverride": {
+          "level": "verify",
+          "label": "Manual confirm only",
+          "reason": "This place is not listed on the current spring dining guide"
+        },
         "placeId": "ChIJA7yXO9INUFMR4WyhEzlhbGw",
         "googleHours": [
           "Monday: 11:00 AM – 4:00 PM",
@@ -2336,14 +2810,14 @@
           "Sunday: 11:00 AM – 4:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
         "name": "Blue Buddha Sushi Lounge",
         "area": "Town Center",
         "address": "99 Town Center Ave, Big Sky, MT 59716",
-        "hours": "Tue - Sat 5:00 - 9:00 PM / Happy hour 5:00 - 6:00 PM",
+        "hours": "Tuesday - Saturday, 5:00 PM - 9:00 PM",
         "note": "Town Center sushi spot with rolls, cocktails, and a late-night lounge feel.",
         "vibe": [
           "Adventure",
@@ -2361,105 +2835,54 @@
         "timeTags": [
           "now"
         ],
-        "availability": {
-          "kind": "daily",
-          "start": "17:00",
-          "end": "21:00"
-        },
+        "availability": {},
         "mapUrl": "https://maps.google.com/?q=Blue+Buddha+Sushi+Big+Sky",
-        "placeId": "ChIJ9xyts6sRUFMRhTfUrkmAZHM",
+        "manualHoursAuthority": true,
         "googleHours": [
+          "Sunday: Closed",
           "Monday: Closed",
-          "Tuesday: 5:00 – 9:00 PM",
-          "Wednesday: 5:00 – 9:00 PM",
-          "Thursday: 5:00 – 9:00 PM",
-          "Friday: 5:00 – 9:00 PM",
-          "Saturday: 5:00 – 9:00 PM",
-          "Sunday: Closed"
-        ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
-      },
-      {
-        "name": "Tres Toros Tacos & Tequila",
-        "area": "Town Center",
-        "address": "145 Town Center Ave, Big Sky, MT 59716",
-        "hours": "Sun 12:00 PM - 10:00 PM / Mon 4:00 PM - 10:00 PM / Tue closed / Wed-Fri 4:00 PM - 10:00 PM / Sat 12:00 PM - 10:00 PM",
-        "note": "Town Center taco-and-tequila spot with birria, margaritas, and a lively bar.",
-        "vibe": [
-          "Local",
-          "Adventure",
-          "Family"
-        ],
-        "tags": [
-          "Tacos",
-          "Walkable",
-          "Casual"
-        ],
-        "bestFor": [
-          "Dinner"
-        ],
-        "timeTags": [
-          "now"
-        ],
-        "availability": {
-          "kind": "daily",
-          "start": "16:00",
-          "end": "22:00"
-        },
-        "googleHours": [
-          "Monday: 3:00 – 10:00 PM",
-          "Tuesday: 3:00 – 10:00 PM",
-          "Wednesday: 3:00 – 10:00 PM",
-          "Thursday: Closed",
-          "Friday: 3:00 – 10:00 PM",
-          "Saturday: 3:00 – 10:00 PM",
-          "Sunday: 3:00 – 10:00 PM"
+          "Tuesday: 5:00 PM - 9:00 PM",
+          "Wednesday: 5:00 PM - 9:00 PM",
+          "Thursday: 5:00 PM - 9:00 PM",
+          "Friday: 5:00 PM - 9:00 PM",
+          "Saturday: 5:00 PM - 9:00 PM"
         ],
         "weeklyHours": {
-          "0": [
+          "2": [
             [
-              "12:00",
-              "22:00"
-            ]
-          ],
-          "1": [
-            [
-              "16:00",
-              "22:00"
+              "17:00",
+              "21:00"
             ]
           ],
           "3": [
             [
-              "16:00",
-              "22:00"
+              "17:00",
+              "21:00"
             ]
           ],
           "4": [
             [
-              "16:00",
-              "22:00"
+              "17:00",
+              "21:00"
             ]
           ],
           "5": [
             [
-              "16:00",
-              "22:00"
+              "17:00",
+              "21:00"
             ]
           ],
           "6": [
             [
-              "12:00",
-              "22:00"
+              "17:00",
+              "21:00"
             ]
           ]
         },
-        "mapUrl": "https://maps.google.com/?q=Tres+Toros+Big+Sky",
-        "placeId": "ChIJ_WSd5h0RUFMRTaTd2iN8j1U",
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
-        "hoursStatus": "fresh"
+        "reservationsRequired": true,
+        "openNow": null,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
+        "hoursStatus": "manual"
       }
     ],
     "activity": [
@@ -2497,7 +2920,7 @@
         "placeId": "ChIJz-fIY-YRUFMRwVZo3WbuWsk",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2532,7 +2955,7 @@
         "placeId": "ChIJb-ZvcgwRUFMRCyAoesjB_Uw",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2567,7 +2990,7 @@
         "placeId": "ChIJqQHKKIURUFMRC1o6O8vAauw",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2602,7 +3025,7 @@
         "placeId": "ChIJr-FaBOsRUFMRyS7xYk8Vumo",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2643,7 +3066,7 @@
           "Sunday: Open 24 hours"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2689,7 +3112,7 @@
           "Sunday: 9:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2734,7 +3157,7 @@
           "Sunday: 9:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2776,8 +3199,8 @@
           "Saturday: 4:00 PM – 12:00 AM",
           "Sunday: 4:00 PM – 12:00 AM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2820,7 +3243,7 @@
           "Sunday: 8:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2865,7 +3288,7 @@
           "Sunday: 8:00 AM – 8:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2902,7 +3325,7 @@
         "placeId": "ChIJ67mfOKYaUFMRHEQzcgMcqxg",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2946,7 +3369,7 @@
           "Sunday: 9:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2990,7 +3413,7 @@
           "Sunday: 8:00 AM – 5:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3027,7 +3450,7 @@
         "placeId": "ChIJgV11s8wPUFMRlpczqJZJMH0",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3071,7 +3494,7 @@
           "Sunday: 9:30 AM – 5:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3114,7 +3537,7 @@
           "Sunday: Closed"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3157,7 +3580,7 @@
           "Sunday: 8:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3193,7 +3616,7 @@
           "Sunday: 10:00 AM – 5:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3227,10 +3650,10 @@
         "bookingUrl": "https://yellowstonesafari.com/yellowstone-tours-from-big-sky/",
         "bookingLabel": "Book a Yellowstone tour",
         "kidFriendly": true,
-        "placeId": "ChIJd9KNzw0RUFMRI4YPf3aa6JA",
+        "placeId": "ChIJWSsU1AARUFMRRVOd4Y2qarA",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       }
     ],
@@ -3276,7 +3699,7 @@
           "Sunday: 9:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3311,7 +3734,7 @@
         "placeId": "ChIJz-fIY-YRUFMRwVZo3WbuWsk",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3352,8 +3775,8 @@
           "Saturday: 8:00 AM – 10:00 PM",
           "Sunday: 8:00 AM – 10:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3396,8 +3819,8 @@
           "Saturday: 4:00 PM – 12:00 AM",
           "Sunday: 4:00 PM – 12:00 AM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3441,7 +3864,7 @@
           "Sunday: 8:00 AM – 8:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3477,7 +3900,7 @@
         "placeId": "ChIJ67mfOKYaUFMRHEQzcgMcqxg",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3520,7 +3943,7 @@
           "Sunday: 8:00 AM – 5:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3555,7 +3978,7 @@
         "placeId": "ChIJd9KNzw0RUFMRI4YPf3aa6JA",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
+        "hoursFetchedAt": "2026-04-26T12:00:01.965Z",
         "hoursStatus": "fresh"
       }
     ]
@@ -5631,9 +6054,9 @@
       }
     }
   ],
-  "version": "2026-04-26T02:11:02.987Z",
-  "publishedAt": "2026-04-26T02:11:02.987Z",
-  "contentGeneratedAt": "2026-04-26T02:11:02.987Z",
+  "version": "2026-04-26T12:00:01.965Z",
+  "publishedAt": "2026-04-26T12:00:01.965Z",
+  "contentGeneratedAt": "2026-04-26T12:00:01.965Z",
   "opsOverridesApplied": [
     {
       "name": "Blue Moon Bakery",
@@ -5932,6 +6355,14 @@
       "endDate": ""
     },
     {
+      "name": "Big Sky Noodles",
+      "category": "dinner",
+      "temporaryClosed": false,
+      "hideFromRecommendations": false,
+      "startDate": "2026-04-26",
+      "endDate": "2026-06-05"
+    },
+    {
       "name": "Ousel and Spur Pizza Co.",
       "category": "dinner",
       "temporaryClosed": false,
@@ -5946,6 +6377,14 @@
       "hideFromRecommendations": false,
       "startDate": "2026-04-24",
       "endDate": ""
+    },
+    {
+      "name": "Blue Buddha Sushi Lounge",
+      "category": "dinner",
+      "temporaryClosed": false,
+      "hideFromRecommendations": false,
+      "startDate": "2026-04-26",
+      "endDate": "2026-06-05"
     },
     {
       "name": "Tres Toros Tacos & Tequila",
