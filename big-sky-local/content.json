@@ -16,7 +16,7 @@
         "area": "On property",
         "address": "145 Town Center Ave, Big Sky, MT 59716",
         "hours": "Mon-Fri 6:00 AM - 9:30 AM / Sat-Sun 6:30 AM - 9:30 AM",
-        "note": "Complimentary hot breakfast buffet in the hotel. Mon-Fri starts at 6:00 AM for early risers. Weekends start at 6:30 AM. Easy on-property start before heading out.",
+        "note": "Complimentary breakfast buffet in the hotel. Weekdays start at 6:00 AM and weekends at 6:30 AM. Easiest on-property breakfast option.",
         "vibe": [
           "Cozy",
           "Family",
@@ -90,7 +90,7 @@
         "placeId": "ChIJWSsU1AARUFMRRVOd4Y2qarA",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -98,7 +98,7 @@
         "area": "Town Center",
         "address": "120 Big Pine Dr, Big Sky, MT 59716",
         "hours": "Daily 8:00 AM - 9:00 PM",
-        "note": "A Town Center staple - good pastries, solid coffee, and a relaxed pace. Ten-minute walk from the hotel, and a natural first stop before a hike or a day on the mountain.",
+        "note": "Town Center bakery for pastries, coffee, and a simple walkable breakfast.",
         "vibe": [
           "Cozy",
           "Local",
@@ -133,7 +133,7 @@
           "Sunday: 8:00 AM – 9:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -141,7 +141,7 @@
         "area": "Town Center",
         "address": "25 Town Center Ave, Big Sky, MT 59716",
         "hours": "Daily 6:00 AM - 6:00 PM / strongest breakfast pickup in the morning",
-        "note": "The locals' coffee shop. Best used as a breakfast handoff in the early part of the day for burritos, pastries, and coffee before the menu shifts into more all-day cafe fare.",
+        "note": "Town Center coffee shop with burritos, pastries, and espresso. Easy breakfast stop from the Wilson.",
         "vibe": [
           "Local",
           "Cozy",
@@ -176,7 +176,7 @@
           "Sunday: 6:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -184,7 +184,7 @@
         "area": "Town Center",
         "address": "209 Aspen Leaf Dr, Big Sky, MT 59716",
         "hours": "Daily 6:30 AM - 9:00 PM / deli starts early for breakfast",
-        "note": "Town Center deli, bakery, espresso, and grab-and-go market. Strong breakfast answer when guests want burritos, pastries, coffee, or something easy to take on the road.",
+        "note": "Town Center deli and market with breakfast burritos, pastries, coffee, and grab-and-go items.",
         "vibe": [
           "Local",
           "Family",
@@ -221,7 +221,7 @@
           "Sunday: 6:30 AM – 9:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -229,7 +229,7 @@
         "area": "Town Center",
         "address": "88 Big Pine Dr, Big Sky, MT 59716",
         "hours": "Breakfast service 7:00 AM - 11:00 AM",
-        "note": "Inside Gravity Haus - single-origin espresso and a proper breakfast. The patio opens when the weather's right. Same space turns into a full bar at night.",
+        "note": "Gravity Haus cafe with espresso, breakfast, and patio seating in good weather.",
         "vibe": [
           "Adventure",
           "Local",
@@ -263,8 +263,8 @@
           "Saturday: 7:30 AM – 8:00 PM",
           "Sunday: 7:30 AM – 8:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -272,7 +272,7 @@
         "area": "Town Center",
         "address": "80 Snowy Mountain Cir, Big Sky, MT 59716",
         "hours": "Mon-Sat 7:00 AM - 3:00 PM / Sun 7:00 AM - 1:00 PM",
-        "note": "Big Sky's only local roaster - voted Best Coffee in Big Sky five years running. Breakfast burritos, baked goods, and specialty espresso drinks. Quick-service and grab-and-go friendly. Hours may shorten in the off-season.",
+        "note": "Town Center coffee roaster with espresso drinks, breakfast burritos, and baked goods.",
         "vibe": [
           "Local",
           "Cozy",
@@ -351,7 +351,7 @@
           "Sunday: 7:00 AM – 1:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -359,7 +359,7 @@
         "area": "Highway 191",
         "address": "47995 Gallatin Rd Suite 101, Gallatin Gateway, MT 59730",
         "hours": "Daily 6:00 AM - 3:00 PM / breakfast all day",
-        "note": "A proven local breakfast stop near the entrance to Big Sky. Strong coffee, homestyle plates, and an easy answer when guests are coming from or heading toward Highway 191.",
+        "note": "Highway 191 breakfast-and-lunch cafe with coffee and full breakfast plates.",
         "vibe": [
           "Local",
           "Cozy",
@@ -395,7 +395,7 @@
           "Sunday: 6:00 AM – 3:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -403,7 +403,7 @@
         "area": "Meadow Village",
         "address": "48 Market Pl, Big Sky, MT 59716",
         "hours": "Weekday mornings and early afternoons / check current Instagram posts for exact hours",
-        "note": "Cozy Meadow Village coffee and pastry stop with handmade drinks, breakfast sandwiches, and a true local feel. Strong answer when guests want a morning stop in the Meadow instead of Town Center.",
+        "note": "Meadow Village coffee shop with espresso, baked goods, and breakfast sandwiches.",
         "vibe": [
           "Local",
           "Cozy",
@@ -467,7 +467,7 @@
           "Sunday: Closed"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       }
     ],
@@ -477,7 +477,7 @@
         "area": "Town Center",
         "address": "77 Aspen Leaf Dr, Big Sky, MT 59716",
         "hours": "Mon - Fri 11:30 AM - 9:00 PM (closed Sat - Sun)",
-        "note": "Town Center bistro with weekday lunch and dinner service. Easy walk from the hotel and still one of the better casual local picks in the core.",
+        "note": "Town Center bistro with weekday lunch and an easy walk from the hotel.",
         "vibe": [
           "Local",
           "Cozy",
@@ -544,7 +544,7 @@
         "mapUrl": "https://maps.google.com/?q=By+Word+of+Mouth+Big+Sky",
         "placeId": "ChIJW9SnctMRUFMRMwSfMeN6mJ0",
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -552,7 +552,7 @@
         "area": "Mountain Village",
         "address": "44 Big Sky Resort Rd, Big Sky, MT 59716",
         "hours": "Daily, Lunch 11:00 AM - 2:30 PM / Dinner 5:00 - 10:00 PM",
-        "note": "Basic mountain bar food done well - burger, cold beer, and a seat near the resort. Practical pick when guests are already up at Mountain Village and don't want to drive down.",
+        "note": "Mountain Village bar and grill with burgers, sandwiches, and a casual resort-side lunch.",
         "vibe": [
           "Family",
           "Local",
@@ -586,7 +586,7 @@
           "Sunday: 4:00 – 10:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -594,7 +594,7 @@
         "area": "Town Center",
         "address": "88 Big Pine Dr, Big Sky, MT 59716",
         "hours": "Daily 11:30 AM - 10:00 PM",
-        "note": "Tacos and margaritas inside Gravity Haus with a patio when the weather's right. Locally sourced proteins, creative fillings - a solid lunch especially after a morning on the mountain.",
+        "note": "Gravity Haus taco spot with margaritas, patio seating, and an easy midday stop.",
         "vibe": [
           "Adventure",
           "Local",
@@ -629,7 +629,7 @@
           "Sunday: 7:00 AM – 10:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -637,7 +637,7 @@
         "area": "Town Center",
         "address": "77 Aspen Leaf Dr, Big Sky, MT 59716",
         "hours": "Mon - Sat 11:00 AM - 7:00 PM / Closed Sunday",
-        "note": "Fast, casual wraps and bowls in Town Center. One of the easiest lunch handoffs when guests want something quick, inexpensive, and clearly food-first instead of a bar scene.",
+        "note": "Town Center counter spot for wraps, bowls, and quick lunch.",
         "vibe": [
           "Local",
           "Family",
@@ -672,7 +672,7 @@
           "Sunday: Closed"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -680,7 +680,7 @@
         "area": "Town Center",
         "address": "47 Town Center Ave, Suite D1, Big Sky, MT 59716",
         "hours": "Sun-Sat 11:00 AM - 6:30 PM / slightly earlier close on weekends",
-        "note": "Fast-casual smash burger spot from the Blue Buddha and Tres Toros team. Easy lunch handoff when guests want burgers, fries, shakes, and something simple in the core.",
+        "note": "Town Center burger spot with smash burgers, fries, and shakes.",
         "vibe": [
           "Family",
           "Local",
@@ -715,7 +715,7 @@
           "Sunday: 11:30 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -723,7 +723,7 @@
         "area": "Town Center",
         "address": "25 Town Center Ave, Big Sky, MT 59716",
         "hours": "Daily 6:00 AM - 6:00 PM / lunch-friendly cafe menu later in the day",
-        "note": "Useful beyond breakfast. After the morning rush it works as an easy Town Center lunch fallback for paninis, sandwiches, and coffee without sending guests to a bar.",
+        "note": "Coffee shop lunch stop for sandwiches, paninis, and espresso in Town Center.",
         "vibe": [
           "Local",
           "Cozy",
@@ -758,7 +758,7 @@
           "Sunday: 6:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -766,7 +766,7 @@
         "area": "Town Center",
         "address": "209 Aspen Leaf Dr, Big Sky, MT 59716",
         "hours": "Daily 6:30 AM - 9:00 PM / lunch-friendly deli and grab-and-go",
-        "note": "One of the easiest Town Center lunch handoffs for sandwiches, salads, baked goods, and quick market pickup when guests do not want a full sit-down meal.",
+        "note": "Town Center deli for sandwiches, salads, and quick market pickup.",
         "vibe": [
           "Local",
           "Family",
@@ -803,7 +803,7 @@
           "Sunday: 6:30 AM – 9:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -811,7 +811,7 @@
         "area": "Town Center",
         "address": "33 Lone Peak Dr #102, Big Sky, MT 59716",
         "hours": "Daily 11:00 AM - 8:00 PM",
-        "note": "Useful when guests want a lighter food stop instead of a full lunch. Flatbreads, soups, salads, charcuterie, and a strong Montana spirits focus make it an easy Town Center handoff.",
+        "note": "Town Center tasting room with flatbreads, charcuterie, soups, salads, and lighter lunch fare.",
         "vibe": [
           "Local",
           "Cozy",
@@ -845,8 +845,8 @@
           "Saturday: 11:00 AM – 8:00 PM",
           "Sunday: 11:00 AM – 8:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -854,7 +854,7 @@
         "area": "Mountain Village",
         "address": "39 Black Eagle Rd, Big Sky, MT 59716",
         "hours": "Daily 11:00 AM - 9:00 PM (kitchen)",
-        "note": "A casual Mountain Village lunch stop with burgers, nachos, and solid ski-day food. Better as a food break than a drinks recommendation.",
+        "note": "Mountain Village lunch stop with burgers, nachos, and ski-day bar food.",
         "vibe": [
           "Adventure",
           "Local"
@@ -887,7 +887,7 @@
           "Sunday: 11:00 AM – 12:00 AM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -895,7 +895,7 @@
         "area": "Montage Big Sky",
         "address": "995 Settlement Trail, Big Sky, MT 59716",
         "hours": "Daily 12:00 PM - 10:00 PM",
-        "note": "Inside Montage - flatbreads from a hearth oven, solid pub food, bowling lanes, darts, and arcade games. Works well for groups or families who want more than just a meal.",
+        "note": "Montage pub with flatbreads, pub food, bowling, darts, and arcade games.",
         "vibe": [
           "Family",
           "Cozy",
@@ -967,7 +967,7 @@
         "bookingLabel": "Reserve on OpenTable",
         "placeId": "ChIJ5-KPRQcOUFMRO51rRSPxal8",
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -975,7 +975,7 @@
         "area": "Highway 191",
         "address": "47995 Gallatin Rd Suite 101, Gallatin Gateway, MT 59730",
         "hours": "Daily 6:00 AM - 3:00 PM / lunch starts at 11:00 AM",
-        "note": "Good lunch stop for guests driving in or out of town who want a real sit-down meal instead of a quick counter option. Best framed as a Highway 191 pick rather than a Town Center handoff.",
+        "note": "Highway 191 lunch stop with sandwiches, burgers, and full sit-down service.",
         "vibe": [
           "Local",
           "Family",
@@ -1011,7 +1011,7 @@
           "Sunday: 6:00 AM – 3:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1019,7 +1019,7 @@
         "area": "Gallatin Canyon",
         "address": "42895 Gallatin Rd, Gallatin Gateway, MT 59730",
         "hours": "Wed-Sun 10:30 AM - 9:00 PM / Closed Mon-Tue",
-        "note": "Classic roadside steakhouse and bar south of town. Good lunch answer when guests are headed through the canyon and want a more old-school Montana stop than Town Center.",
+        "note": "Gallatin Canyon steakhouse and bar with lunch service Wednesday through Sunday.",
         "vibe": [
           "Local",
           "Classic",
@@ -1082,7 +1082,7 @@
           "Sunday: 10:30 AM – 9:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1090,7 +1090,7 @@
         "area": "Meadow Village",
         "address": "48 Market Pl, Big Sky, MT 59716",
         "hours": "Weekday mornings and early afternoons / check current Instagram posts for exact hours",
-        "note": "Good Meadow Village midday stop for coffee, pastries, and lighter sandwiches without sending guests into the busier Town Center core. Best framed as a quick local cafe rather than a full lunch destination.",
+        "note": "Meadow Village coffee stop for lighter sandwiches, pastries, and coffee.",
         "vibe": [
           "Local",
           "Cozy",
@@ -1154,7 +1154,7 @@
           "Sunday: Closed"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1162,7 +1162,7 @@
         "area": "Lone Mountain Trail",
         "address": "1567 Lone Mountain Trail, Big Sky, MT 59716",
         "hours": "Daily 10:00 AM - 7:00 PM",
-        "note": "Fast, authentic taco-bus stop near Ace Hardware. Strong casual handoff when guests want something inexpensive, fast, and local on the way through the Meadow side of town.",
+        "note": "Taco bus near Ace Hardware with tacos, burritos, and quick lunch.",
         "vibe": [
           "Local",
           "Adventure",
@@ -1199,7 +1199,7 @@
           "Sunday: Closed"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       }
     ],
@@ -1209,7 +1209,7 @@
         "area": "On property",
         "address": "145 Town Center Ave, Big Sky, MT 59716",
         "hours": "Daily 5:00 PM - 9:00 PM",
-        "note": "On property and easy to recommend - solid food, familiar setting, no need to drive. The natural first suggestion when guests want dinner without the planning.",
+        "note": "On-property Montana chophouse with steaks, game, seafood, and the easiest walkable dinner from the Wilson.",
         "vibe": [
           "Luxury",
           "Cozy",
@@ -1291,7 +1291,7 @@
         "rebateNote": "Eligible Wilson dining choice. Mention guest dining credit benefits when they apply.",
         "placeId": "ChIJ36TqRywQUFMRtTa-Wfv_8aQ",
         "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1299,7 +1299,7 @@
         "area": "Mountain Village",
         "address": "33 Black Eagle Rd, Big Sky, MT 59716",
         "hours": "Daily 4:30 - 9:30 PM (dinner only)",
-        "note": "A polished Mountain Village dinner with slope views and a quieter room than the busier apres spots nearby. Best when guests want dinner to feel a little more special.",
+        "note": "Mountain Village restaurant with slope views and a quieter dining room than the apres bars nearby.",
         "vibe": [
           "Luxury",
           "Romantic",
@@ -1380,7 +1380,7 @@
         "bookingLabel": "Book on OpenTable",
         "placeId": "ChIJpXcdNdINUFMR0bByIcfHrrA",
         "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1388,7 +1388,7 @@
         "area": "Lone Mountain Ranch",
         "address": "750 Lone Mountain Ranch Rd, Big Sky, MT 59716",
         "hours": "Daily, Dinner 5:00 - 9:00 PM / Saloon open from noon",
-        "note": "Lone Mountain Ranch dining room - the place when someone asks for the most Big Sky dinner experience possible. Great for birthdays, anniversaries, or guests who want to feel like they're really here.",
+        "note": "Lone Mountain Ranch dining room with steaks, game, and a classic ranch setting.",
         "vibe": [
           "Luxury",
           "Romantic"
@@ -1423,7 +1423,7 @@
           "Sunday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1431,7 +1431,7 @@
         "area": "Big Sky Resort area",
         "address": "995 Settlement Trail, Big Sky, MT 59716",
         "hours": "Daily, Breakfast 7:00 - 11:00 AM / Dinner 5:00 - 9:00 PM",
-        "note": "Handmade pasta and a polished room at the Mountain Village. One of the better Italian dinners in the area - right for guests who want something refined without it being a full production.",
+        "note": "Mountain Village Italian restaurant known for handmade pasta and a polished dining room.",
         "vibe": [
           "Luxury",
           "Romantic",
@@ -1531,7 +1531,7 @@
         "bookingLabel": "Book on OpenTable",
         "placeId": "ChIJ5-KPRQcOUFMRpSAf6FmknXg",
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1539,7 +1539,7 @@
         "area": "Mountain Village",
         "address": "52 Big Sky Resort Rd, Big Sky, MT 59716",
         "hours": "Daily 11:00 AM - 10:00 PM",
-        "note": "Laid-back Big Sky Resort dinner for families and groups who want something straightforward without the formality. Burgers, bowls, easy patio, and a simple call when guests are already up at Mountain Village.",
+        "note": "Casual Mountain Village restaurant with burgers, bowls, salads, and patio seating.",
         "vibe": [
           "Family",
           "Local",
@@ -1573,7 +1573,7 @@
           "Sunday: 11:00 AM – 10:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1581,7 +1581,7 @@
         "area": "Gallatin Canyon",
         "address": "42950 Gallatin Rd, Gallatin Gateway, MT 59730",
         "hours": "Daily happy hour 3:00 PM - 5:00 PM / dinner 5:00 PM - 9:00 PM",
-        "note": "Dinner along the Gallatin River at Rainbow Ranch - log-and-stone dining room, ranch-sourced menu. Worth the drive down the canyon for a special night out.",
+        "note": "Rainbow Ranch dining room on the Gallatin River with a quieter canyon setting.",
         "vibe": [
           "Romantic",
           "Cozy",
@@ -1617,7 +1617,7 @@
           "Sunday: 4:00 – 9:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1625,7 +1625,7 @@
         "area": "Gallatin Canyon",
         "address": "45130 Gallatin Rd, Gallatin Gateway, MT 59730",
         "hours": "Daily 3:00 PM - 9:00 PM / summer runs later to 10:00 PM",
-        "note": "Reliable canyon dinner with smoked meats, river setting, and a strong local following. Best when guests want a relaxed Highway 191 dinner instead of another Town Center stop.",
+        "note": "Gallatin River smokehouse serving Texas-style barbecue Montana-style. First come, first served.",
         "vibe": [
           "Local",
           "Family",
@@ -1661,7 +1661,7 @@
           "Sunday: 3:00 – 9:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1669,7 +1669,7 @@
         "area": "Gallatin Canyon",
         "address": "42895 Gallatin Rd, Gallatin Gateway, MT 59730",
         "hours": "Wed-Sun 10:30 AM - 9:00 PM / Closed Mon-Tue",
-        "note": "Classic canyon steakhouse with burgers, steaks, drinks, and a true old-Big-Sky feel. Strong dinner call when guests want a Montana-style meal on the south side of town.",
+        "note": "Long-running Gallatin Canyon steakhouse and bar with burgers, steaks, and a classic roadside feel.",
         "vibe": [
           "Local",
           "Classic",
@@ -1732,7 +1732,7 @@
           "Sunday: 10:30 AM – 9:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1740,7 +1740,7 @@
         "area": "Meadow Village",
         "address": "151 Center Lane, Big Sky, MT 59716",
         "hours": "Mon-Fri 5:00 PM - 9:00 PM / Closed Sat-Sun",
-        "note": "A polished Meadow Village bistro with seafood, steaks, and a quieter neighborhood feel than Town Center. Strong dinner answer when guests want something refined but not on the mountain.",
+        "note": "Meadow Village bistro for seafood, steaks, and a smaller neighborhood dining room.",
         "vibe": [
           "Romantic",
           "Cozy",
@@ -1803,7 +1803,7 @@
           "Sunday: Closed"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1811,7 +1811,7 @@
         "area": "Meadow Village",
         "address": "75 Center Lane, Big Sky, MT 59716",
         "hours": "Tue-Sun 5:00 PM - 9:00 PM / Closed Mon / Shoulder-season closure through Jun 10, 2026",
-        "note": "Authentic Italian dinner in Meadow Village and one of the stronger special-occasion dinner calls outside Town Center. Good for guests who want a true sit-down night out and do not mind a short drive.",
+        "note": "Meadow Village Italian restaurant for pasta, classic entrees, and a sit-down dinner.",
         "vibe": [
           "Romantic",
           "Luxury",
@@ -1874,7 +1874,7 @@
         "placeId": "ChIJEdBy_CAQUFMRnjdJD9fdjQg",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1882,7 +1882,7 @@
         "area": "Lone Mountain Trail",
         "address": "1567 Lone Mountain Trail, Big Sky, MT 59716",
         "hours": "Daily 10:00 AM - 7:00 PM",
-        "note": "Casual taco-bus dinner near Ace Hardware with quick service and authentic Mexican staples. Best for guests who want a relaxed, affordable dinner on the Meadow side without a formal sit-down.",
+        "note": "Taco bus near Ace Hardware with tacos, burritos, and a quick casual dinner.",
         "vibe": [
           "Local",
           "Adventure",
@@ -1919,7 +1919,7 @@
           "Sunday: Closed"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1927,7 +1927,7 @@
         "area": "Town Center",
         "address": "118 Ousel Falls Rd, Big Sky, MT 59716",
         "hours": "Tue-Sat 4:00 PM - 9:00 PM / Closed Sun-Mon",
-        "note": "Relaxed Town Center Mexican dinner with tacos, enchiladas, and a full bar. Strong walkable dinner answer when guests want something casual, familiar, and easy from the Wilson.",
+        "note": "Town Center Mexican restaurant with tacos, enchiladas, and margaritas.",
         "vibe": [
           "Family",
           "Local",
@@ -1996,7 +1996,7 @@
         "bookingLabel": "View restaurant",
         "placeId": "ChIJK4a8gM4RUFMRysYP3Jjxk6k",
         "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2004,7 +2004,7 @@
         "area": "Town Center",
         "address": "112 Ousel Falls Rd, Big Sky, MT 59716",
         "hours": "Sun and Wed-Sat 11:00 AM - 9:00 PM / Closed Mon-Tue",
-        "note": "An easy Town Center dinner when guests want something outside the usual burger-and-steak rotation. Good for takeout or a casual sit-down without sending them far from the hotel.",
+        "note": "Town Center Thai restaurant with dine-in, takeout, and plenty of vegan, vegetarian, and gluten-free options.",
         "vibe": [
           "Local",
           "Family",
@@ -2039,7 +2039,7 @@
           "Sunday: 11:00 AM – 8:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2047,7 +2047,7 @@
         "area": "Town Center",
         "address": "76 Town Center Ave, Unit A1, Big Sky, MT 59716",
         "hours": "Sun 11:00 AM - 12:00 AM / Mon-Wed 3:00 PM - 12:00 AM / Thu-Sat 12:00 PM - 12:00 AM",
-        "note": "Big casual Town Center room with fried chicken sandwiches, arcade games, live music, and late-night energy. Strong for groups who want dinner somewhere lively and easy.",
+        "note": "Town Center sports bar with sandwiches, arcade games, live music, and a lively late-night room.",
         "vibe": [
           "Family",
           "Local",
@@ -2081,7 +2081,7 @@
           "Sunday: 12:00 – 10:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2089,7 +2089,7 @@
         "area": "Town Center",
         "address": "47 Town Center Ave, Unit A1, Big Sky, MT 59716",
         "hours": "Daily 5:00 PM - 9:00 PM",
-        "note": "Casual pizza in the core with a real locals' feel. Good fallback dinner when guests want something familiar, easy for groups, and simple to explain from the desk.",
+        "note": "Town Center pizza spot with hand-tossed pies, slices, beer, and a low-key local feel.",
         "vibe": [
           "Family",
           "Local",
@@ -2116,7 +2116,7 @@
         "placeId": "ChIJBxLa-YARUFMRx63KYLiSJrQ",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2124,7 +2124,7 @@
         "area": "West Fork Meadow",
         "address": "77 Aspen Leaf Dr, Big Sky, MT 59716",
         "hours": "Mon-Sat 4:00 PM - 9:00 PM / Sun 11:00 AM - 9:00 PM",
-        "note": "Long-running local pizza-and-pub spot off Aspen Leaf with a more locals-bar feel than the core Town Center pizza stops. Best for casual dinner, takeout, or a laid-back beer-and-pizza night.",
+        "note": "Neighborhood pizza-and-pub stop off Aspen Leaf with pies, beer, and a locals-bar feel.",
         "vibe": [
           "Local",
           "Family",
@@ -2205,7 +2205,7 @@
         "bookingLabel": "View restaurant",
         "placeId": "ChIJXQO3V9UPUFMRlr9yRgUI4IQ",
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2213,7 +2213,7 @@
         "area": "Town Center",
         "address": "Wilson Hotel Plaza, Big Sky, MT 59716",
         "hours": "Sun-Mon and Thu-Sat 4:00 PM - 8:45 PM / Closed Tue-Wed / Seasonal fall and winter",
-        "note": "Pho and noodle bowls right by the Wilson plaza. Best as a cooler-weather dinner handoff when guests want something warm, quick, and different from the main Town Center staples.",
+        "note": "Town Center noodle spot for pho, ramen, and rice bowls.",
         "vibe": [
           "Local",
           "Cozy",
@@ -2249,7 +2249,7 @@
           "Sunday: 4:30 – 9:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2257,7 +2257,7 @@
         "area": "Town Center",
         "address": "50 Ousel Falls Rd, Big Sky, MT 59716",
         "hours": "Daily 5:00 PM - 9:00 PM",
-        "note": "Family-friendly Town Center pizza spot next to the cinema. A good dinner call when guests want pizza but prefer something a little more sit-down than grab-and-go.",
+        "note": "Town Center pizza restaurant next to the cinema with family-friendly seating.",
         "vibe": [
           "Family",
           "Cozy",
@@ -2291,7 +2291,7 @@
           "Sunday: 5:00 – 9:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2299,7 +2299,7 @@
         "area": "Mountain Village",
         "address": "444 Andesite Ridge Rd, Big Sky, MT 59716",
         "hours": "Lunch daily 11:00 AM - 4:00 PM / Dinner Wed - Sat 5:00 - 9:00 PM (winter)",
-        "note": "Guests ride the chairlift up to dinner at 8,800 feet. Alpine tasting menu, seasonal, spectacular views. One of the more unique restaurant experiences in the state - winter only.",
+        "note": "Chairlift-access dinner at 8,800 feet with mountain views and a resort setting.",
         "vibe": [
           "Luxury",
           "Romantic",
@@ -2336,7 +2336,7 @@
           "Sunday: 11:00 AM – 4:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2344,7 +2344,7 @@
         "area": "Town Center",
         "address": "99 Town Center Ave, Big Sky, MT 59716",
         "hours": "Tue - Sat 5:00 - 9:00 PM / Happy hour 5:00 - 6:00 PM",
-        "note": "Big Sky's sushi spot - fresh rolls, Japanese cocktails, pool tables and DJs later in the evening. A good change of pace from the steak-and-burger rotation.",
+        "note": "Town Center sushi spot with rolls, cocktails, and a late-night lounge feel.",
         "vibe": [
           "Adventure",
           "Local",
@@ -2378,7 +2378,7 @@
           "Sunday: Closed"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2386,7 +2386,7 @@
         "area": "Town Center",
         "address": "145 Town Center Ave, Big Sky, MT 59716",
         "hours": "Sun 12:00 PM - 10:00 PM / Mon 4:00 PM - 10:00 PM / Tue closed / Wed-Fri 4:00 PM - 10:00 PM / Sat 12:00 PM - 10:00 PM",
-        "note": "Birria tacos, huckleberry margaritas, and a serious tequila list. Lively and casual - one of the more fun dinners in Town Center, especially for groups.",
+        "note": "Town Center taco-and-tequila spot with birria, margaritas, and a lively bar.",
         "vibe": [
           "Local",
           "Adventure",
@@ -2458,7 +2458,7 @@
         "mapUrl": "https://maps.google.com/?q=Tres+Toros+Big+Sky",
         "placeId": "ChIJ_WSd5h0RUFMRTaTd2iN8j1U",
         "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       }
     ],
@@ -2468,7 +2468,7 @@
         "area": "Big Sky",
         "address": "Ousel Falls Rd, Big Sky, MT 59716",
         "hours": "Open during daylight hours",
-        "note": "Ten minutes from the hotel and genuinely worth the stop. Easy 1.5-mile round trip through the trees to a 30-foot waterfall. Gets crowded midday - earlier or later in the afternoon is much better.",
+        "note": "Easy 1.5-mile round-trip trail to a waterfall about 10 minutes from the hotel.",
         "vibe": [
           "Cozy",
           "Romantic",
@@ -2497,7 +2497,7 @@
         "placeId": "ChIJz-fIY-YRUFMRwVZo3WbuWsk",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2505,7 +2505,7 @@
         "area": "Near Town Center",
         "address": "Aspen Leaf Dr trailhead, Big Sky, MT 59716",
         "hours": "Open year-round; best during daylight hours",
-        "note": "Less than a mile from Town Center and one of the easiest close-to-hotel trail recommendations. Rolling three-mile loop through forest and wetlands, with flexible turnaround points if guests want a shorter outing. In winter it can be icy, so traction is a smart call.",
+        "note": "Close-to-town trail loop with easy access from the Town Center side of Big Sky.",
         "vibe": [
           "Local",
           "Family",
@@ -2532,7 +2532,7 @@
         "placeId": "ChIJb-ZvcgwRUFMRCyAoesjB_Uw",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2540,7 +2540,7 @@
         "area": "Near Town Center",
         "address": "Aspen Leaf Dr trailhead, Big Sky, MT 59716",
         "hours": "Open year-round; best during daylight hours",
-        "note": "Shorter than Beehive but still feels like a real outing. Two miles round trip with a steady climb to broad views over Big Sky, Meadow Village, and Town Center. Also less than a mile from Town Center, though guests should know winter conditions can be icy.",
+        "note": "Shorter uphill trail with open views over Big Sky, Meadow Village, and Town Center.",
         "vibe": [
           "Local",
           "Romantic",
@@ -2567,7 +2567,7 @@
         "placeId": "ChIJqQHKKIURUFMRC1o6O8vAauw",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2575,7 +2575,7 @@
         "area": "Town Center",
         "address": "Access near Ousel Falls Rd & Lone Mountain Trail, Big Sky, MT 59716",
         "hours": "Open year-round",
-        "note": "Best framed as a paved walk, run, or bike path rather than a backcountry hike. Guests can pick it up right from Town Center for an easy fresh-air outing, and it now connects toward Community Park through the pedestrian tunnel.",
+        "note": "Paved Town Center and Meadow Village path for a walk, run, or bike ride.",
         "vibe": [
           "Family",
           "Local",
@@ -2599,10 +2599,10 @@
           "end": "20:00"
         },
         "mapUrl": "https://maps.google.com/?q=Lone+Peak+Trail+Big+Sky",
-        "placeId": "ChIJ-RNyYOkRUFMRGtS7qF1OVAI",
+        "placeId": "ChIJr-FaBOsRUFMRyS7xYk8Vumo",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2610,7 +2610,7 @@
         "area": "Big Sky",
         "address": "39620 Moose Rd, Big Sky, MT 59716",
         "hours": "Open during daylight hours",
-        "note": "One of the best hikes in the area, full stop. Nine and a half miles round trip with real elevation, ending in an alpine basin surrounded by peaks. Plan for a full day and tell guests to bring layers.",
+        "note": "Full-day alpine hike to Beehive Basin with steady elevation gain and a high-country finish.",
         "vibe": [
           "Adventure",
           "Local"
@@ -2643,7 +2643,7 @@
           "Sunday: Open 24 hours"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2651,7 +2651,7 @@
         "area": "Mountain Village",
         "address": "50 Big Sky Resort Rd, Big Sky, MT 59716",
         "hours": "Daily 10:00 AM - 5:00 PM (summer seasonal)",
-        "note": "The gondola runs in summer for guests who want to get up on the mountain without the hike. Great views of the Spanish Peaks from the top - easy to recommend for any fitness level.",
+        "note": "Summer gondola rides at Big Sky Resort for mountain views without the hike.",
         "vibe": [
           "Luxury",
           "Family",
@@ -2689,7 +2689,7 @@
           "Sunday: 9:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2697,7 +2697,7 @@
         "area": "Mountain Village Plaza",
         "address": "50 Big Sky Resort Rd, Big Sky, MT 59716",
         "hours": "Daily 11:00 AM - 4:00 PM (summer seasonal)",
-        "note": "The activity hub at Mountain Village - zip lines, mini golf, a climbing wall, and bungee all in one spot. Easy to fill a half day, especially with kids. No need to plan ahead.",
+        "note": "Mountain Village activity hub with zip lines, mini golf, climbing wall, and bungee.",
         "vibe": [
           "Family",
           "Adventure"
@@ -2734,7 +2734,7 @@
           "Sunday: 9:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2742,7 +2742,7 @@
         "area": "Town Center",
         "address": "50 Ousel Falls Rd, Big Sky, MT 59716",
         "hours": "Movie times and event schedule vary daily",
-        "note": "The easiest indoor evening recommendation in Town Center. Films and occasional events like trivia or live programming make it a simple post-dinner plan or weather backup.",
+        "note": "Town Center movie theater and event space for films and indoor evening plans.",
         "vibe": [
           "Family",
           "Local"
@@ -2777,7 +2777,7 @@
           "Sunday: 4:00 PM – 12:00 AM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2785,7 +2785,7 @@
         "area": "Gallatin Canyon",
         "address": "47430 Gallatin Rd, Gallatin Gateway, MT 59730",
         "hours": "Daily 9:00 AM - 5:00 PM",
-        "note": "The oldest fly shop in Big Sky and still the best call for fishing. They guide the Gallatin and run trips into Yellowstone. Better framed as a guided outfitter than a drop-in activity.",
+        "note": "Fly shop and guide service for fishing on the Gallatin and in Yellowstone.",
         "vibe": [
           "Adventure",
           "Local"
@@ -2820,7 +2820,7 @@
           "Sunday: 8:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2828,7 +2828,7 @@
         "area": "Gallatin Canyon",
         "address": "63960 Gallatin Rd, Gallatin Gateway, MT 59730",
         "hours": "Season opens May 15 / trip times vary daily by booking",
-        "note": "The Gallatin River runs right through the canyon and Montana Whitewater puts guests on it. The half-day family run is the most popular; the Class IV stretch is legitimate whitewater for guests who want that.",
+        "note": "Rafting outfitter on the Gallatin with family trips and higher-adventure runs.",
         "vibe": [
           "Adventure",
           "Family"
@@ -2864,8 +2864,8 @@
           "Saturday: 8:00 AM – 8:00 PM",
           "Sunday: 8:00 AM – 8:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2873,7 +2873,7 @@
         "area": "Mountain Village",
         "address": "50 Big Sky Resort Rd, Big Sky, MT 59716",
         "hours": "Summer season daily (weather permitting)",
-        "note": "Long lines through the trees in Huntley Hollow - the guided nature tour is good for families and the straight zipline run is fast. One of the better ways to see the mountain without hiking.",
+        "note": "Resort zipline courses in Huntley Hollow for summer guests.",
         "vibe": [
           "Adventure",
           "Family"
@@ -2902,7 +2902,7 @@
         "placeId": "ChIJ67mfOKYaUFMRHEQzcgMcqxg",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2910,7 +2910,7 @@
         "area": "Mountain Village",
         "address": "50 Big Sky Resort Rd, Big Sky, MT 59716",
         "hours": "Daily June - mid September (weather permitting)",
-        "note": "Over 40 miles of lift-served trail at the resort, from easy flow runs to technical terrain. Rentals on site. One of the better lift-served bike parks in the West - worth recommending to any guest who rides.",
+        "note": "Lift-served mountain biking at Big Sky Resort with rentals and varied terrain.",
         "vibe": [
           "Adventure",
           "Family"
@@ -2946,7 +2946,7 @@
           "Sunday: 9:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2954,7 +2954,7 @@
         "area": "Gallatin Canyon",
         "address": "47200 Gallatin Rd, Gallatin Gateway, MT 59730",
         "hours": "Summer only / guided rides by reservation",
-        "note": "One- to three-hour guided rides into the Gallatin National Forest. Best framed as a reservation-based summer outfitter rather than a walk-up activity.",
+        "note": "Guided horseback rides in the Gallatin National Forest.",
         "vibe": [
           "Adventure",
           "Family",
@@ -2990,7 +2990,7 @@
           "Sunday: 8:00 AM – 5:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2998,7 +2998,7 @@
         "area": "Lone Mountain Ranch",
         "address": "750 Lone Mountain Ranch Rd, Big Sky, MT 59716",
         "hours": "Dec - Apr / Evening departures (reservations required)",
-        "note": "Sleigh ride out to the North Fork Cabin for a prime rib dinner - about 20 minutes each way through the trees. Books up quickly in peak season. Winter only, and guests remember it.",
+        "note": "Winter sleigh ride to dinner at Lone Mountain Ranch.",
         "vibe": [
           "Romantic",
           "Luxury",
@@ -3027,7 +3027,7 @@
         "placeId": "ChIJgV11s8wPUFMRlpczqJZJMH0",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3035,7 +3035,7 @@
         "area": "Big Sky",
         "address": "2100 Black Otter Rd, Big Sky, MT 59716",
         "hours": "Summer seasonal / Call for tee times: (406) 995-5780",
-        "note": "Arnold Palmer-designed, 18 holes at altitude with serious elevation changes and views of the Spanish Peaks. Plays differently than most courses guests are used to - a good challenge.",
+        "note": "Arnold Palmer-designed course with mountain views and plenty of elevation change.",
         "vibe": [
           "Luxury",
           "Adventure"
@@ -3071,7 +3071,7 @@
           "Sunday: 9:30 AM – 5:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3079,7 +3079,7 @@
         "area": "Mountain Village",
         "address": "44 Big Sky Resort Rd, Big Sky, MT 59716",
         "hours": "Daily 9:30 AM - 7:00 PM",
-        "note": "Full-service spa at the resort - massage, facials, and recovery equipment. Couple's suite available. Good recommendation after a big ski or hiking day. Book ahead in peak weeks.",
+        "note": "Mountain Village spa and recovery lounge with massage, facials, and recovery services.",
         "vibe": [
           "Luxury",
           "Romantic"
@@ -3114,7 +3114,7 @@
           "Sunday: Closed"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3122,7 +3122,7 @@
         "area": "Montage Big Sky",
         "address": "995 Settlement Trail, Big Sky, MT 59716",
         "hours": "Spa 8:00 AM - 6:00 PM / Treatments 9:00 AM - 7:00 PM",
-        "note": "The biggest spa in the area - 12 treatment rooms, heated pools, steam, and an indoor pool. Non-hotel guests can book with a reservation. Right call for guests who take their spa time seriously.",
+        "note": "Large full-service spa at Montage Big Sky.",
         "vibe": [
           "Luxury",
           "Romantic"
@@ -3157,7 +3157,7 @@
           "Sunday: 8:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3165,7 +3165,7 @@
         "area": "Town Center",
         "address": "169 Snowy Mountain Circle, Big Sky, MT 59716",
         "hours": "Massage, acupuncture, yoga, sauna, and wellness services - check current schedule or book ahead",
-        "note": "A long-running local wellness center in Town Center. Best for guests who want something more holistic than a resort spa, with massage, acupuncture, yoga, and recovery-style treatments.",
+        "note": "Town Center wellness studio for massage, acupuncture, yoga, and recovery-focused services.",
         "vibe": [
           "Cozy",
           "Local",
@@ -3193,7 +3193,7 @@
           "Sunday: 10:00 AM – 5:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3201,7 +3201,7 @@
         "area": "Yellowstone",
         "address": "Pickup at The Wilson Hotel",
         "hours": "Full-day tours available year-round",
-        "note": "About 45 miles south and worth a full day. Multiple operators run guided tours covering wildlife, geysers, and hot springs. Having a guide makes a real difference in what guests actually see.",
+        "note": "Full-day guided Yellowstone trip with wildlife, geysers, and hot springs.",
         "vibe": [
           "Adventure",
           "Family",
@@ -3227,10 +3227,10 @@
         "bookingUrl": "https://yellowstonesafari.com/yellowstone-tours-from-big-sky/",
         "bookingLabel": "Book a Yellowstone tour",
         "kidFriendly": true,
-        "placeId": "ChIJ6xlPc2YcTlMRRg2sTISW_0A",
+        "placeId": "ChIJd9KNzw0RUFMRI4YPf3aa6JA",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       }
     ],
@@ -3240,7 +3240,7 @@
         "area": "Mountain Village Plaza",
         "address": "50 Big Sky Resort Rd, Big Sky, MT 59716",
         "hours": "Daily 11:00 AM - 4:00 PM (summer seasonal)",
-        "note": "The activity plaza at Mountain Village - zip lines, mini golf, climbing wall, and bungee trampoline all in one spot. No planning needed; easy to fill a half day.",
+        "note": "Mountain Village activity plaza with zip lines, mini golf, climbing wall, and bungee trampoline.",
         "vibe": [
           "Family",
           "Adventure"
@@ -3276,7 +3276,7 @@
           "Sunday: 9:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3284,7 +3284,7 @@
         "area": "Big Sky",
         "address": "Ousel Falls Rd, Big Sky, MT 59716",
         "hours": "Open during daylight hours",
-        "note": "Short, easy trail with a waterfall payoff - kids love it. About ten minutes from the hotel, 1.5 miles round trip. Good for any age that can walk.",
+        "note": "Short, easy waterfall trail about 10 minutes from the hotel.",
         "vibe": [
           "Family",
           "Cozy",
@@ -3311,7 +3311,7 @@
         "placeId": "ChIJz-fIY-YRUFMRwVZo3WbuWsk",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3319,7 +3319,7 @@
         "area": "Town Center",
         "address": "25 Seeway Rd, Big Sky, MT 59716",
         "hours": "Daily sunrise - 10:00 PM",
-        "note": "Open green space with a playground and room to run. Simple and free - the right call when kids need to burn energy without an agenda.",
+        "note": "Town Center park with a playground, open grass, and room to run.",
         "vibe": [
           "Family",
           "Local"
@@ -3353,7 +3353,7 @@
           "Sunday: 8:00 AM – 10:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3361,7 +3361,7 @@
         "area": "Town Center",
         "address": "50 Ousel Falls Rd, Big Sky, MT 59716",
         "hours": "Movie times and event schedule vary daily",
-        "note": "Reliable indoor backup for families in Town Center. Movies and occasional event nights make it an easy evening recommendation when weather shifts or kids still have energy after dinner.",
+        "note": "Town Center movie theater and event space for an easy indoor family backup.",
         "vibe": [
           "Family",
           "Cozy",
@@ -3397,7 +3397,7 @@
           "Sunday: 4:00 PM – 12:00 AM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3405,7 +3405,7 @@
         "area": "Gallatin Canyon",
         "address": "63960 Gallatin Rd, Gallatin Gateway, MT 59730",
         "hours": "Season opens May 15 / trip times vary daily by booking",
-        "note": "Class II-III runs on the Gallatin - splashy and fun, not scary. All gear provided, and kids genuinely love it. One of the better family half-days in Big Sky.",
+        "note": "Family-friendly rafting on the Gallatin with guides and all gear included.",
         "vibe": [
           "Adventure",
           "Family"
@@ -3440,8 +3440,8 @@
           "Saturday: 8:00 AM – 8:00 PM",
           "Sunday: 8:00 AM – 8:00 PM"
         ],
-        "openNow": true,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "openNow": false,
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3449,7 +3449,7 @@
         "area": "Mountain Village",
         "address": "50 Big Sky Resort Rd, Big Sky, MT 59716",
         "hours": "Summer season daily (weather permitting)",
-        "note": "Long lines through the trees at the resort - fast, safe, and great for kids. The guided nature tour version works well for younger ones who want a bit more to it than just the zip.",
+        "note": "Resort zipline courses that work well for adventurous kids and families.",
         "vibe": [
           "Adventure",
           "Family"
@@ -3477,7 +3477,7 @@
         "placeId": "ChIJ67mfOKYaUFMRHEQzcgMcqxg",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3485,7 +3485,7 @@
         "area": "Gallatin Canyon",
         "address": "47200 Gallatin Rd, Gallatin Gateway, MT 59730",
         "hours": "Summer only / guided rides by reservation",
-        "note": "Walking-pace trail rides through the National Forest - appropriate for most ages and no experience needed. Better presented as a reservation-based summer outfitter.",
+        "note": "Guided horseback rides through the Gallatin National Forest.",
         "vibe": [
           "Adventure",
           "Family",
@@ -3520,7 +3520,7 @@
           "Sunday: 8:00 AM – 5:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3528,7 +3528,7 @@
         "area": "Yellowstone",
         "address": "Pickup at The Wilson Hotel",
         "hours": "Full-day tours available year-round",
-        "note": "45 miles south and a full day well spent. Geysers, bison, hot springs - having a guide matters because they know where to be and when. Great for kids of any age.",
+        "note": "Full-day Yellowstone trip with wildlife, geysers, and hot springs.",
         "vibe": [
           "Adventure",
           "Family"
@@ -3555,7 +3555,7 @@
         "placeId": "ChIJd9KNzw0RUFMRI4YPf3aa6JA",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-04-26T01:57:26.756Z",
+        "hoursFetchedAt": "2026-04-26T02:11:02.987Z",
         "hoursStatus": "fresh"
       }
     ]
@@ -5631,9 +5631,9 @@
       }
     }
   ],
-  "version": "2026-04-26T01:57:26.756Z",
-  "publishedAt": "2026-04-26T01:57:26.756Z",
-  "contentGeneratedAt": "2026-04-26T01:57:26.756Z",
+  "version": "2026-04-26T02:11:02.987Z",
+  "publishedAt": "2026-04-26T02:11:02.987Z",
+  "contentGeneratedAt": "2026-04-26T02:11:02.987Z",
   "opsOverridesApplied": [
     {
       "name": "Blue Moon Bakery",
