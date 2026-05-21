@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-05-19T12:00:17.035Z",
+  "generatedAt": "2026-05-21T19:56:41.318Z",
   "sourceGeneratedAt": "2026-04-02T08:11:14.0595745Z",
   "filters": {
     "vibes": [
@@ -85,8 +85,8 @@
       "bookingLabel": null,
       "isKidFriendly": false,
       "placeId": "ChIJNfEVW9MRUFMR1HKGZpnaUcM",
-      "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "openNow": true,
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -142,7 +142,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJmYaKNC4bUFMRCc32RbR7nPs",
       "openNow": true,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -198,7 +198,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJmYaKNC4bUFMRCc32RbR7nPs",
       "openNow": true,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -252,8 +252,8 @@
       "bookingLabel": null,
       "isKidFriendly": false,
       "placeId": "ChIJ0Q-jNnoQUFMRy-ZW818rJCU",
-      "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "openNow": true,
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -271,13 +271,13 @@
         "seasonal": null,
         "weeklyHours": null,
         "googleHours": [
-          "Monday: 6:00 AM – 6:00 PM",
-          "Tuesday: 6:00 AM – 6:00 PM",
-          "Wednesday: 6:00 AM – 6:00 PM",
-          "Thursday: 6:00 AM – 6:00 PM",
-          "Friday: 6:00 AM – 6:00 PM",
-          "Saturday: 6:00 AM – 6:00 PM",
-          "Sunday: 6:00 AM – 6:00 PM"
+          "Monday: 7:00 AM – 3:00 PM",
+          "Tuesday: 7:00 AM – 3:00 PM",
+          "Wednesday: 7:00 AM – 3:00 PM",
+          "Thursday: 7:00 AM – 3:00 PM",
+          "Friday: 7:00 AM – 3:00 PM",
+          "Saturday: 7:00 AM – 3:00 PM",
+          "Sunday: 7:00 AM – 3:00 PM"
         ]
       },
       "audiences": [],
@@ -310,7 +310,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJLTlj4cYRUFMR2Qn9GMPcp9o",
       "openNow": true,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -366,8 +366,8 @@
       "bookingLabel": null,
       "isKidFriendly": false,
       "placeId": "ChIJSQh_qjsXUFMRET7aiuuxyOA",
-      "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "openNow": true,
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -424,8 +424,8 @@
       "bookingLabel": null,
       "isKidFriendly": false,
       "placeId": "ChIJ58RbNq4RUFMRLfHRDWjMRXY",
-      "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "openNow": true,
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -525,7 +525,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJiT90_xIPUFMR392Eo52hGKA",
       "openNow": true,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -623,8 +623,8 @@
       "bookingLabel": "Reserve on OpenTable",
       "isKidFriendly": false,
       "placeId": "ChIJ5-KPRQcOUFMRO51rRSPxal8",
-      "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "openNow": true,
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -673,10 +673,10 @@
           ]
         },
         "googleHours": [
-          "Monday: 11:30 AM – 9:00 PM",
-          "Tuesday: 11:30 AM – 9:00 PM",
-          "Wednesday: 11:30 AM – 9:00 PM",
-          "Thursday: 11:30 AM – 9:00 PM",
+          "Monday: 11:30 AM – 5:30 PM",
+          "Tuesday: 11:30 AM – 5:30 PM",
+          "Wednesday: 11:30 AM – 5:30 PM",
+          "Thursday: 11:30 AM – 5:30 PM",
           "Friday: 11:30 AM – 9:00 PM",
           "Saturday: Closed",
           "Sunday: Closed"
@@ -710,8 +710,8 @@
       "bookingLabel": null,
       "isKidFriendly": false,
       "placeId": "ChIJW9SnctMRUFMRMwSfMeN6mJ0",
-      "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "openNow": true,
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -768,7 +768,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJwZ8lr6caUFMRnUUc-oR79FU",
       "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -815,7 +815,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJhyKysNMNUFMRjOwzk2MH6bY",
       "openNow": null,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -870,8 +870,8 @@
       "bookingLabel": null,
       "isKidFriendly": false,
       "placeId": "ChIJpzKAc10RUFMRoCV4wJjXw_c",
-      "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "openNow": true,
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -971,7 +971,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJy7fdBIkRUFMRX4A5j0dm87s",
       "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1069,8 +1069,8 @@
       "bookingLabel": "Reserve on OpenTable",
       "isKidFriendly": false,
       "placeId": "ChIJ-5XoBiEPUFMRhP1foPzrYRI",
-      "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "openNow": true,
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1118,7 +1118,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJt4cP4LgRUFMR8PhOYzvb08g",
       "openNow": null,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1166,7 +1166,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJ9xyts6sRUFMRhTfUrkmAZHM",
       "openNow": null,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1265,7 +1265,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJpXcdNdINUFMR0bByIcfHrrA",
       "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1313,7 +1313,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJsQLubfsRUFMRvt3A4jMs6vk",
       "openNow": null,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1440,7 +1440,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJ5-KPRQcOUFMRpSAf6FmknXg",
       "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1495,8 +1495,8 @@
       "bookingLabel": "Reserve on OpenTable",
       "isKidFriendly": false,
       "placeId": "ChIJA7yXO9INUFMR4WyhEzlhbGw",
-      "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "openNow": true,
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1550,8 +1550,8 @@
       "bookingLabel": "Book on OpenTable",
       "isKidFriendly": false,
       "placeId": "ChIJrU7eJ80PUFMRCKGojqHj3pc",
-      "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "openNow": true,
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1598,7 +1598,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJg-ZgzHQNUFMR53eVBSV18Rw",
       "openNow": null,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1653,8 +1653,8 @@
       "bookingLabel": null,
       "isKidFriendly": false,
       "placeId": "ChIJY7YGRdINUFMRalf3F0mot0E",
-      "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "openNow": true,
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1702,7 +1702,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJ_WSd5h0RUFMRTaTd2iN8j1U",
       "openNow": null,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1758,7 +1758,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJG3YOewAXUFMRB6TIJvmmuE8",
       "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1811,8 +1811,8 @@
       "bookingLabel": "View activity details",
       "isKidFriendly": true,
       "placeId": "ChIJ8wF9ECsMUFMRdCp4xP-nHoo",
-      "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "openNow": true,
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1867,7 +1867,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJWeSUmpYOUFMR40vKJ693Dmo",
       "openNow": true,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1921,8 +1921,8 @@
       "bookingLabel": "Book tee times",
       "isKidFriendly": false,
       "placeId": "ChIJe1V51ycQUFMRP88FxGy2nY4",
-      "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "openNow": true,
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -1976,8 +1976,8 @@
       "bookingLabel": "View bike park details",
       "isKidFriendly": false,
       "placeId": "ChIJ8wF9ECsMUFMRdCp4xP-nHoo",
-      "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "openNow": true,
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2032,8 +2032,8 @@
       "bookingLabel": "View resort activities",
       "isKidFriendly": true,
       "placeId": "ChIJ8wF9ECsMUFMRdCp4xP-nHoo",
-      "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "openNow": true,
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2080,7 +2080,7 @@
       "isKidFriendly": true,
       "placeId": "ChIJ67mfOKYaUFMRHEQzcgMcqxg",
       "openNow": null,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2134,8 +2134,8 @@
       "bookingLabel": null,
       "isKidFriendly": true,
       "placeId": "ChIJZbFHqHYQUFMRFL7Pyts9pY0",
-      "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "openNow": true,
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2189,8 +2189,8 @@
       "bookingLabel": "Book a guided trip",
       "isKidFriendly": false,
       "placeId": "ChIJ2-B50QoQUFMR3YzlSZWKQhs",
-      "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "openNow": true,
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2238,7 +2238,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJgV11s8wPUFMRlpczqJZJMH0",
       "openNow": null,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2291,8 +2291,8 @@
       "bookingLabel": "Book a rafting trip",
       "isKidFriendly": true,
       "placeId": "ChIJUdoMEHqqWlMRBWC-0FmyfJ8",
-      "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "openNow": true,
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2341,7 +2341,7 @@
       "isKidFriendly": true,
       "placeId": "ChIJz-fIY-YRUFMRwVZo3WbuWsk",
       "openNow": null,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2395,8 +2395,8 @@
       "bookingLabel": "Book a treatment",
       "isKidFriendly": false,
       "placeId": "ChIJj29J4tINUFMRKuSKxy2uP_M",
-      "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "openNow": true,
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2450,8 +2450,8 @@
       "bookingLabel": "Book at Spa Montage",
       "isKidFriendly": false,
       "placeId": "ChIJR76qui0PUFMRc57SYm4RLLE",
-      "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "openNow": true,
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2508,7 +2508,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJczqB_40QUFMRVgKhO1VS2Bo",
       "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2561,8 +2561,8 @@
       "bookingLabel": "Book a Yellowstone tour",
       "isKidFriendly": true,
       "placeId": "ChIJEy43x5W5UVMRoG72Np1tT-8",
-      "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "openNow": true,
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2615,8 +2615,8 @@
       "bookingLabel": "View activity details",
       "isKidFriendly": false,
       "placeId": "ChIJ8wF9ECsMUFMRdCp4xP-nHoo",
-      "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "openNow": true,
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2669,8 +2669,8 @@
       "bookingLabel": null,
       "isKidFriendly": false,
       "placeId": "ChIJ0why6d8PUFMRUwD4fxQgMck",
-      "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "openNow": true,
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2717,7 +2717,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJ67mfOKYaUFMRHEQzcgMcqxg",
       "openNow": null,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2771,8 +2771,8 @@
       "bookingLabel": null,
       "isKidFriendly": false,
       "placeId": "ChIJZbFHqHYQUFMRFL7Pyts9pY0",
-      "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "openNow": true,
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2825,8 +2825,8 @@
       "bookingLabel": "Book a rafting trip",
       "isKidFriendly": false,
       "placeId": "ChIJUdoMEHqqWlMRBWC-0FmyfJ8",
-      "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "openNow": true,
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2874,7 +2874,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJz-fIY-YRUFMRwVZo3WbuWsk",
       "openNow": null,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2892,13 +2892,13 @@
         "seasonal": null,
         "weeklyHours": null,
         "googleHours": [
-          "Monday: 8:00 AM – 5:00 PM",
-          "Tuesday: 8:00 AM – 5:00 PM",
-          "Wednesday: 8:00 AM – 5:00 PM",
-          "Thursday: 8:00 AM – 5:00 PM",
-          "Friday: 8:00 AM – 5:00 PM",
-          "Saturday: 8:00 AM – 5:00 PM",
-          "Sunday: 8:00 AM – 5:00 PM"
+          "Monday: Open 24 hours",
+          "Tuesday: Open 24 hours",
+          "Wednesday: Open 24 hours",
+          "Thursday: Open 24 hours",
+          "Friday: Open 24 hours",
+          "Saturday: Open 24 hours",
+          "Sunday: Open 24 hours"
         ]
       },
       "audiences": [],
@@ -2925,9 +2925,9 @@
       "bookingUrl": "https://yellowstonesafari.com/yellowstone-tours-from-big-sky/",
       "bookingLabel": "Book a Yellowstone tour",
       "isKidFriendly": false,
-      "placeId": "ChIJEy43x5W5UVMRoG72Np1tT-8",
-      "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "placeId": "ChIJVVVVVVXlUVMRu-GPNDD5qKw",
+      "openNow": true,
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     },
     {
@@ -2983,7 +2983,7 @@
       "isKidFriendly": false,
       "placeId": "ChIJ5yF1pgURUFMRrQCpmM6-o1Y",
       "openNow": false,
-      "hoursFetchedAt": "2026-05-19T12:00:17.035Z",
+      "hoursFetchedAt": "2026-05-21T19:56:41.318Z",
       "hoursStatus": "fresh"
     }
   ],
@@ -3061,8 +3061,8 @@
       "Removed front-desk fallback from transport actions."
     ]
   },
-  "version": "2026-05-19T12:00:17.035Z",
-  "publishedAt": "2026-05-19T12:00:17.035Z",
+  "version": "2026-05-21T19:56:41.318Z",
+  "publishedAt": "2026-05-21T19:56:41.318Z",
   "publishProfile": "mobile",
   "publishHost": "DESKTOP-8ON1UF4"
 }
