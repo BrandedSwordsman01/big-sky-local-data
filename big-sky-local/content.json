@@ -87,10 +87,10 @@
         "mapUrl": "https://maps.google.com/?q=Residence+Inn+Big+Sky+The+Wilson+Hotel",
         "bookingUrl": "https://www.marriott.com/en-us/hotels/bznrk-residence-inn-big-sky-the-wilson-hotel/overview/",
         "bookingLabel": "View hotel",
-        "placeId": "ChIJd9KNzw0RUFMRI4YPf3aa6JA",
+        "placeId": "ChIJWSsU1AARUFMRRVOd4Y2qarA",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -173,7 +173,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "manual"
       },
       {
@@ -216,7 +216,7 @@
           "Sunday: 6:00 AM – 6:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -301,7 +301,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "manual"
       },
       {
@@ -372,7 +372,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "manual"
       },
       {
@@ -455,7 +455,7 @@
           "Saturday: 7:00 AM - 3:00 PM"
         ],
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "manual"
       },
       {
@@ -539,7 +539,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "manual"
       },
       {
@@ -610,8 +610,8 @@
           "Saturday: Closed",
           "Sunday: Closed"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "openNow": null,
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       }
     ],
@@ -684,7 +684,7 @@
         "mapUrl": "https://maps.google.com/?q=By+Word+of+Mouth+Big+Sky",
         "manualHoursAuthority": true,
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "manual"
       },
       {
@@ -732,7 +732,7 @@
           "Sunday: 4:00 – 10:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -803,7 +803,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "manual"
       },
       {
@@ -874,7 +874,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "manual"
       },
       {
@@ -917,7 +917,7 @@
           "Sunday: 11:30 AM – 9:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -960,7 +960,7 @@
           "Sunday: 6:00 AM – 6:00 PM"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1045,7 +1045,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "manual"
       },
       {
@@ -1128,7 +1128,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "manual"
       },
       {
@@ -1167,7 +1167,7 @@
         "placeId": "ChIJhyKysNMNUFMRjOwzk2MH6bY",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1261,7 +1261,7 @@
         },
         "placeId": "ChIJ5-KPRQcOUFMRO51rRSPxal8",
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1345,7 +1345,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "manual"
       },
       {
@@ -1417,7 +1417,7 @@
         ],
         "availability": {},
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "manual"
       },
       {
@@ -1488,8 +1488,8 @@
           "Saturday: Closed",
           "Sunday: Closed"
         ],
-        "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "openNow": null,
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1562,7 +1562,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "manual"
       }
     ],
@@ -1639,7 +1639,7 @@
         "manualHoursAuthority": true,
         "reservationsRequired": true,
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "manual"
       },
       {
@@ -1734,7 +1734,7 @@
         },
         "placeId": "ChIJpXcdNdINUFMR0bByIcfHrrA",
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1783,7 +1783,7 @@
           "Sunday: 7:00 – 10:00 AM, 11:00 AM – 2:00 PM, 5:00 – 9:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1905,7 +1905,7 @@
         },
         "placeId": "ChIJ5-KPRQcOUFMRpSAf6FmknXg",
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1953,7 +1953,7 @@
           "Sunday: 11:00 AM – 10:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -1997,7 +1997,7 @@
           "Sunday: 4:00 – 9:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2081,7 +2081,7 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "manual"
       },
       {
@@ -2153,7 +2153,7 @@
         ],
         "availability": {},
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "manual"
       },
       {
@@ -2215,16 +2215,16 @@
         "bookingLabel": "View bistro",
         "placeId": "ChIJdT6G9CAQUFMRiRxuwvN26x0",
         "googleHours": [
-          "Monday: 5:00 – 8:45 PM",
-          "Tuesday: 5:00 – 8:45 PM",
-          "Wednesday: 5:00 – 8:45 PM",
-          "Thursday: 5:00 – 8:45 PM",
-          "Friday: 5:00 – 8:45 PM",
+          "Monday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+          "Tuesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+          "Wednesday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+          "Thursday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
+          "Friday: 11:00 AM – 2:00 PM, 5:00 – 9:00 PM",
           "Saturday: Closed",
           "Sunday: Closed"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2297,8 +2297,85 @@
           ]
         },
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "manual"
+      },
+      {
+        "name": "Alberto's Mexican Restaurant",
+        "area": "Town Center",
+        "address": "118 Ousel Falls Rd, Big Sky, MT 59716",
+        "hours": "Tue-Sat 4:00 PM - 9:00 PM / Closed Sun-Mon",
+        "note": "Town Center Mexican restaurant with tacos, enchiladas, and margaritas.",
+        "vibe": [
+          "Family",
+          "Local",
+          "Cozy"
+        ],
+        "tags": [
+          "Walkable",
+          "Mexican",
+          "Casual"
+        ],
+        "bestFor": [
+          "Dinner"
+        ],
+        "timeTags": [
+          "now",
+          "quick"
+        ],
+        "availability": {
+          "kind": "daily",
+          "start": "16:00",
+          "end": "21:00"
+        },
+        "googleHours": [
+          "Monday: Closed",
+          "Tuesday: 12:00 – 3:00 PM, 5:00 – 9:00 PM",
+          "Wednesday: 12:00 – 3:00 PM, 5:00 – 9:00 PM",
+          "Thursday: 12:00 – 3:00 PM, 5:00 – 9:00 PM",
+          "Friday: 12:00 – 3:00 PM, 5:00 PM – 2:00 AM",
+          "Saturday: 12:00 – 3:00 PM, 5:00 – 9:00 PM",
+          "Sunday: Closed"
+        ],
+        "weeklyHours": {
+          "2": [
+            [
+              "16:00",
+              "21:00"
+            ]
+          ],
+          "3": [
+            [
+              "16:00",
+              "21:00"
+            ]
+          ],
+          "4": [
+            [
+              "16:00",
+              "21:00"
+            ]
+          ],
+          "5": [
+            [
+              "16:00",
+              "21:00"
+            ]
+          ],
+          "6": [
+            [
+              "16:00",
+              "21:00"
+            ]
+          ]
+        },
+        "mapUrl": "https://maps.google.com/?q=Albertos+Mexican+Restaurant+Big+Sky",
+        "bookingUrl": "http://www.albertosmexican.com",
+        "bookingLabel": "View restaurant",
+        "placeId": "ChIJK4a8gM4RUFMRysYP3Jjxk6k",
+        "openNow": false,
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
+        "hoursStatus": "fresh"
       },
       {
         "name": "Thai Basil",
@@ -2340,7 +2417,7 @@
           "Sunday: 11:00 AM – 8:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2382,7 +2459,7 @@
           "Sunday: 12:00 – 9:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2425,7 +2502,7 @@
           "Sunday: 12:00 – 8:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2504,14 +2581,14 @@
         "bookingLabel": "View restaurant",
         "manualHoursAuthority": true,
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "manual"
       },
       {
         "name": "Big Sky Noodles",
         "area": "Town Center",
         "address": "Wilson Hotel Plaza, Big Sky, MT 59716",
-        "hours": "Thursday - Sunday, 4:30 PM - 9:00 PM",
+        "hours": "Sun-Mon and Thu-Sat 4:00 PM - 8:45 PM / Closed Tue-Wed / Seasonal fall and winter",
         "note": "Town Center noodle spot for pho, ramen, and rice bowls.",
         "vibe": [
           "Local",
@@ -2530,47 +2607,26 @@
           "now",
           "quick"
         ],
-        "availability": {},
+        "availability": {
+          "kind": "daily",
+          "start": "16:00",
+          "end": "20:45",
+          "seasonal": "winter"
+        },
         "mapUrl": "https://maps.google.com/?q=Big+Sky+Noodles+Big+Sky",
-        "manualHoursAuthority": true,
+        "placeId": "ChIJ5YlzbE0RUFMRpB_rGeN8k4M",
         "googleHours": [
-          "Sunday: 4:30 PM - 9:00 PM",
           "Monday: Closed",
           "Tuesday: Closed",
           "Wednesday: Closed",
-          "Thursday: 4:30 PM - 9:00 PM",
-          "Friday: 4:30 PM - 9:00 PM",
-          "Saturday: 4:30 PM - 9:00 PM"
+          "Thursday: Closed",
+          "Friday: 4:30 – 8:30 PM",
+          "Saturday: 4:30 – 8:30 PM",
+          "Sunday: 4:30 – 8:30 PM"
         ],
-        "weeklyHours": {
-          "0": [
-            [
-              "16:30",
-              "21:00"
-            ]
-          ],
-          "4": [
-            [
-              "16:30",
-              "21:00"
-            ]
-          ],
-          "5": [
-            [
-              "16:30",
-              "21:00"
-            ]
-          ],
-          "6": [
-            [
-              "16:30",
-              "21:00"
-            ]
-          ]
-        },
-        "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
-        "hoursStatus": "manual"
+        "openNow": false,
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
+        "hoursStatus": "fresh"
       },
       {
         "name": "Ousel and Spur Pizza Co.",
@@ -2611,7 +2667,7 @@
           "Sunday: 5:00 – 9:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2662,14 +2718,14 @@
           "Sunday: 11:00 AM – 4:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
         "name": "Blue Buddha Sushi Lounge",
         "area": "Town Center",
         "address": "99 Town Center Ave, Big Sky, MT 59716",
-        "hours": "Tuesday - Saturday, 5:00 PM - 9:00 PM",
+        "hours": "Tue - Sat 5:00 - 9:00 PM / Happy hour 5:00 - 6:00 PM",
         "note": "Town Center sushi spot with rolls, cocktails, and a late-night lounge feel.",
         "vibe": [
           "Adventure",
@@ -2687,54 +2743,25 @@
         "timeTags": [
           "now"
         ],
-        "availability": {},
-        "mapUrl": "https://maps.google.com/?q=Blue+Buddha+Sushi+Big+Sky",
-        "manualHoursAuthority": true,
-        "googleHours": [
-          "Sunday: Closed",
-          "Monday: Closed",
-          "Tuesday: 5:00 PM - 9:00 PM",
-          "Wednesday: 5:00 PM - 9:00 PM",
-          "Thursday: 5:00 PM - 9:00 PM",
-          "Friday: 5:00 PM - 9:00 PM",
-          "Saturday: 5:00 PM - 9:00 PM"
-        ],
-        "weeklyHours": {
-          "2": [
-            [
-              "17:00",
-              "21:00"
-            ]
-          ],
-          "3": [
-            [
-              "17:00",
-              "21:00"
-            ]
-          ],
-          "4": [
-            [
-              "17:00",
-              "21:00"
-            ]
-          ],
-          "5": [
-            [
-              "17:00",
-              "21:00"
-            ]
-          ],
-          "6": [
-            [
-              "17:00",
-              "21:00"
-            ]
-          ]
+        "availability": {
+          "kind": "daily",
+          "start": "17:00",
+          "end": "21:00"
         },
-        "reservationsRequired": true,
-        "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
-        "hoursStatus": "manual"
+        "mapUrl": "https://maps.google.com/?q=Blue+Buddha+Sushi+Big+Sky",
+        "placeId": "ChIJ9xyts6sRUFMRhTfUrkmAZHM",
+        "googleHours": [
+          "Monday: Closed",
+          "Tuesday: 5:00 – 9:00 PM",
+          "Wednesday: 5:00 – 9:00 PM",
+          "Thursday: 5:00 – 9:00 PM",
+          "Friday: 5:00 – 9:00 PM",
+          "Saturday: 5:00 – 9:00 PM",
+          "Sunday: Closed"
+        ],
+        "openNow": false,
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
+        "hoursStatus": "fresh"
       },
       {
         "name": "Tres Toros Tacos & Tequila",
@@ -2813,7 +2840,7 @@
         "mapUrl": "https://maps.google.com/?q=Tres+Toros+Big+Sky",
         "placeId": "ChIJ_WSd5h0RUFMRTaTd2iN8j1U",
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       }
     ],
@@ -2852,7 +2879,7 @@
         "placeId": "ChIJz-fIY-YRUFMRwVZo3WbuWsk",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2887,7 +2914,7 @@
         "placeId": "ChIJb-ZvcgwRUFMRCyAoesjB_Uw",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2922,7 +2949,7 @@
         "placeId": "ChIJqQHKKIURUFMRC1o6O8vAauw",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2954,10 +2981,10 @@
           "end": "20:00"
         },
         "mapUrl": "https://maps.google.com/?q=Lone+Peak+Trail+Big+Sky",
-        "placeId": "EjxPdXNlbCBGYWxscyBSZCAmIExvbmUgTW91bnRhaW4gVHJhaWwsIEJpZyBTa3ksIE1UIDU5NzMwLCBVU0EiZiJkChQKEgnrnNd-LBBQUxELn9brbzMNoxIUChIJ65zXfiwQUFMRC5_W628zDaMaFAoSCc_nyGPmEVBTEcFWaN1m7lrJGhQKEgkRt_DWKAxQUxGpBMRrFPDP8yIKDZpO-hoVU62nvQ",
+        "placeId": "ChIJr-FaBOsRUFMRyS7xYk8Vumo",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -2998,7 +3025,7 @@
           "Sunday: Open 24 hours"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3044,7 +3071,7 @@
           "Sunday: 9:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3078,18 +3105,18 @@
         "bookingUrl": "https://www.bigskyresort.com/summer-activities/adventure-mountain",
         "bookingLabel": "View activity details",
         "kidFriendly": true,
-        "placeId": "ChIJY63gWdINUFMRpjVW2ocopL4",
+        "placeId": "ChIJ8wF9ECsMUFMRdCp4xP-nHoo",
         "googleHours": [
-          "Monday: 8:00 AM – 4:30 PM",
-          "Tuesday: 8:00 AM – 4:30 PM",
-          "Wednesday: 8:00 AM – 4:30 PM",
-          "Thursday: 8:00 AM – 4:30 PM",
-          "Friday: 8:00 AM – 4:30 PM",
-          "Saturday: 8:00 AM – 4:30 PM",
-          "Sunday: 8:00 AM – 4:30 PM"
+          "Monday: 9:00 AM – 6:00 PM",
+          "Tuesday: 9:00 AM – 6:00 PM",
+          "Wednesday: 9:00 AM – 6:00 PM",
+          "Thursday: 9:00 AM – 6:00 PM",
+          "Friday: 9:00 AM – 6:00 PM",
+          "Saturday: 9:00 AM – 6:00 PM",
+          "Sunday: 9:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3132,7 +3159,7 @@
           "Sunday: 4:00 PM – 12:00 AM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3175,7 +3202,7 @@
           "Sunday: 8:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3220,7 +3247,7 @@
           "Sunday: 8:00 AM – 8:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3257,7 +3284,7 @@
         "placeId": "ChIJ67mfOKYaUFMRHEQzcgMcqxg",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3301,7 +3328,7 @@
           "Sunday: 9:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3345,7 +3372,7 @@
           "Sunday: 8:00 AM – 5:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3382,7 +3409,7 @@
         "placeId": "ChIJgV11s8wPUFMRlpczqJZJMH0",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3426,7 +3453,7 @@
           "Sunday: 9:30 AM – 5:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3469,7 +3496,7 @@
           "Sunday: Closed"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3512,7 +3539,7 @@
           "Sunday: 9:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3548,7 +3575,7 @@
           "Sunday: 10:00 AM – 5:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3593,7 +3620,7 @@
           "Sunday: Open 24 hours"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       }
     ],
@@ -3639,7 +3666,7 @@
           "Sunday: 9:00 AM – 6:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3674,7 +3701,7 @@
         "placeId": "ChIJz-fIY-YRUFMRwVZo3WbuWsk",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3716,7 +3743,7 @@
           "Sunday: 8:00 AM – 10:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3760,7 +3787,7 @@
           "Sunday: 4:00 PM – 12:00 AM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3804,7 +3831,7 @@
           "Sunday: 8:00 AM – 8:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3840,7 +3867,7 @@
         "placeId": "ChIJ67mfOKYaUFMRHEQzcgMcqxg",
         "googleHours": [],
         "openNow": null,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3883,7 +3910,7 @@
           "Sunday: 8:00 AM – 5:00 PM"
         ],
         "openNow": false,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       },
       {
@@ -3926,7 +3953,7 @@
           "Sunday: Open 24 hours"
         ],
         "openNow": true,
-        "hoursFetchedAt": "2026-06-05T12:00:02.160Z",
+        "hoursFetchedAt": "2026-06-06T12:00:02.182Z",
         "hoursStatus": "fresh"
       }
     ]
@@ -5055,9 +5082,9 @@
       }
     }
   ],
-  "version": "2026-06-05T12:00:02.160Z",
-  "publishedAt": "2026-06-05T12:00:02.160Z",
-  "contentGeneratedAt": "2026-06-05T12:00:02.160Z",
+  "version": "2026-06-06T12:00:02.182Z",
+  "publishedAt": "2026-06-06T12:00:02.182Z",
+  "contentGeneratedAt": "2026-06-06T12:00:02.182Z",
   "opsOverridesApplied": [
     {
       "name": "Blue Moon Bakery",
@@ -5260,14 +5287,6 @@
       "endDate": ""
     },
     {
-      "name": "Alberto's Mexican Restaurant",
-      "category": "dinner",
-      "temporaryClosed": true,
-      "hideFromRecommendations": true,
-      "startDate": "2026-04-24",
-      "endDate": "2026-06-05"
-    },
-    {
       "name": "Milkie's Pizza & Pub",
       "category": "dinner",
       "temporaryClosed": false,
@@ -5276,28 +5295,12 @@
       "endDate": ""
     },
     {
-      "name": "Big Sky Noodles",
-      "category": "dinner",
-      "temporaryClosed": false,
-      "hideFromRecommendations": false,
-      "startDate": "2026-04-26",
-      "endDate": "2026-06-05"
-    },
-    {
       "name": "Everett's 8800",
       "category": "dinner",
       "temporaryClosed": false,
       "hideFromRecommendations": false,
       "startDate": "2026-04-24",
       "endDate": ""
-    },
-    {
-      "name": "Blue Buddha Sushi Lounge",
-      "category": "dinner",
-      "temporaryClosed": false,
-      "hideFromRecommendations": false,
-      "startDate": "2026-04-26",
-      "endDate": "2026-06-05"
     }
   ],
   "publishProfile": "desktop",
